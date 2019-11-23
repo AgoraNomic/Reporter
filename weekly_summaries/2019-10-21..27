@@ -1,0 +1,171 @@
+# Noteworthy events
+
+* Trigon resigns rulekeepor and announces e will not respond to Agoran
+  mail for approximately two years. E will be missed!
+
+* Voting begins on Proposals 8253-8264.
+
+* Our H. Herald G. announces intent to ratify eir monthly report,
+  probably to resolve some uncertainty about whether degrees were
+  successfully awarded. There follows some discussion on whether this
+  is a good idea. Thread: "protective ratification".
+
+
+# Topic: Quirky rules and tricky questions about the rules
+
+* Discussion and related proposals about rules having effects after they are
+  repealed or when they are amended. Threads: "two true zombies", "and if you
+  go for that one...".
+
+* There is debate about whether ais523 is a player. Threads:
+  "Democracy" and "CFJ -- Is ais523 a player?". This is CFJ 3776.
+
+* Discussion continues on a proposed rule that would be omitted from
+  the Ruleset and mention of which would be forbidden. Thread:
+  "Forbidden Rule update", and then more on thread "[Promotor]
+  Distribution of Proposals 8253-8264".
+
+* Falsifian judges CFJ 3775 TRUE: "Ratifying the SLR also ratifies the
+  fact that no other Rules (other than those in the ratified SLR)
+  exist."
+
+
+# Topic: Subgames and culture
+
+* Discussion of the Subgame-in-a-Rule contest continues.
+
+  * There are concerns that G.'s submission, Hot Potato, may give an
+    advantage to people awake at UTC midnight. Thread: "[Herald]
+    Subgame-in-a-Rule contest vote open!". Gaelan suggests some ways to
+    define a player's local time zone.
+
+  * Nch proposes then withdraws a rule to randomly activate one subgame
+    at a time. Thread: "Proposal: Why Not All Of Them?".
+
+* Discussion on awarding more Silver Quills in thread "protective
+  ratification".
+
+* Jason Cobb publishes a revision of eir thesis on the ruleset. Thread:
+  "Revised Ruleset Thesis".
+
+
+# Topic: Other rules changes
+
+* There is some discussion on filling offices, encouraging elections,
+  and alternatives to the current system of offices. Mostly on the
+  thread "Proposal: Encouraging Democracy Through Capitalism or Who
+  Pays Subs Full Wages Anyway".
+
+  * Nch proposes to make interim offices pay less.
+
+  * G. starts a discussion on electing new officers then starts an
+    election for Tailor after Nch expresses interest. twg and Gaelan
+    express possible interest in Rulekeepor. Threads: "jobs", "[Tailor]
+    Election".
+
+  * Alternatives to the office system:
+
+    * Nch mentions e has a work-in-progress "Agoran Syndicalism
+      proposal that abolishes Offices in favor of contract-based
+      Unions".
+
+    * Gaelan outlines a way to replace offices with "duties" anyone can
+      fulfill, generating some discussion.
+
+  * Aris points to a 2017 proposal called The Gig Economy, which e says
+    was fairly well-received but never finalized [0].
+
+  * Other ideas on the thread: increasing report rewards when weeks are
+    missing; rewarding reliable officers; licences rewarding
+    programmers that help automate offices.
+
+* Proposals for relieving the Registrar of the duty of tracking
+  switches not otherwise tracked:
+
+  * Gaelan revises eir "Clean up your own mess" proposal, which creates
+    an office for each otherwise-untracked type of switch.
+
+* Jason Cobb proposes a ribbon for winning an election.
+
+* Nch proposes to reward players for re-earning ribbons. Thread:
+  "Dusting Ribbons".
+
+
+# Topic: Bugs and other problems with the Rules
+
+* Ørjan raises a concern that if a player flips eir master switch to
+  emself after e is won in a zombie auction but before e is claimed,
+  Rule 1885 may still require the winner to pay for em. Thread: "humble
+  agoran farmer is ah-ah-ah-ah-staying aaaaalive".
+
+* G. suggests switching from manual to automatic karma balancing did
+  more harm than good. Thread: "[Herald] Weekly Report".
+
+* Jason Cobb, assuming eir ability to initiate an election for Speaker
+  was a bug, proposes a fix. Thread: "Democracy".
+
+
+# Other
+
+* Discussion on messages in the mailing list not always getting
+  through. Threads: "jobs", "ATTN omd / Distributor", and a couple
+  messages with "test" in the subject.
+
+* pikhq registers. According to the Registrar's records, e was
+  previously a player from 2007 to 2009, and again from 2011 to 2012.
+
+* Our H. Promotor, Aris, publishes a creative formal apology under Rule
+  2557 for missing a deadline.
+
+
+[0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2017-April/034422.html
+    Non-subscribers cannot access this, so here's a copy of that message:
+    From: Kerim Aydin <kerim at u.washington.edu>
+    Subject: "BUS: Proto: The gig economy"
+    Date:  Wed Apr 19 13:33:38 UTC 2017
+
+    (Some jobs don't need regular Offices, but should be rewarded with payoffs
+    as they are valuable to Agora).
+
+    Proto:  The Gig Economy
+
+    Create the following Rule, The Gig Economy:
+
+          If a task is defined by the rules as a Gig, then any Player
+          (the performer) CAN perform the task (perform the gig) if no 
+          one has performed the task in the same Nomic Week.     
+
+          If a performer does so, clearly specifying that eir action is 
+          intended to fulfill a particular gig,  Agora SHALL pay that 
+          player 5 shinies at the beginning of the next Nomic Week.  
+
+          If a player purports to perform a gig, then any player CAN, with 
+          2 Support, assert that it was a failed gig; if this occurs, the
+          performer is not paid.  This SHOULD only be asserted if the 
+          attempted performance clearly falls short of the required effort.
+
+          The following Gigs are defined:
+
+          - Reporter:  Publish a report, at least 300 words in length, with
+            a description of events that have happened in Agora in the last
+            2 months that the Reporter believes significant or interesting.
+            This may contain editorialization or other pieces of Agora-related
+            information, as long as it is neither i) factually incorrect nor 
+            ii) disrespectful to any person or Agora itself.  The goal of such 
+            reports is to create a more informed population. 
+
+          - Research Assistant: Publish a report, at least 300 words in length,
+            in response to a request for information about the history of Agora.  
+
+          - Tour Guide:  Publish (including updating) a precis of Rules, a set 
+            of resources such as web links, or information that might serve as
+            an entry in an Agoran FAQ.
+
+          - Bard: Publish, or publish a link to, a substantially creative and 
+            original Work of Art created by the Bard, relevant to and created
+            for Agora, with the goal of evoking enlightenment, humor, entertainment,
+            challenging ideas, or thoughtful contemplation in Agorans.
+
+         [Option:  a single Officer, the Managor, whose job it is to promote the
+          gig economy, track gigs (monthly report), and maintain an online archive
+          of gig-produced material].

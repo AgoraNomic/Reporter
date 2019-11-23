@@ -1,0 +1,87 @@
+# Notable events
+
+* G. ratifies the 2019-09-22 Herald's Monthly Report. Thread:
+  "protective ratification".
+
+* Nch wins the election for Tailor. It is uncontested.
+
+* H. Herald G. announces intent to award an M.N. degree to Jason Cobb,
+  after a discussion about which degree to award. Threads: "academic
+  progressions", "Thesis award intent".
+
+* Proposals 8253-8265 are resolved after further votes, except the H.
+  Assessor finds the decisions on Proposals 8257 and 8259 were not
+  initiated.
+
+  * Gaelan submits some arguments in favour of eir Proposal 8259 in the
+    discussion thread: "In defense of 8259".
+
+  * Error discovered: two proposals were given the same number in the
+    "full text" section.
+
+  * G. alleges e sees an "angle" on the mysterious Proposal 8265, but
+    eventually votes AGAINST.
+
+* Incumbent G. initiates an election for Prime Minister.
+
+* Voting begins on Proposals 8266-8274.
+
+
+# Miscellaneous
+
+* Our H. Distributor, omd, enables From: address rewriting on the
+  mailing lists to fix DMARC issues. E had tried to do it before, but
+  it didn't work. Thread: "ATTN omd / Distributor".
+
+* There's some discussion on the distribution of Proposal 8265 possibly
+  being obfuscated. Thread: "[Promotor] Distribution of Proposals
+  8253-8264".
+
+* omd submits a proposal which extends the self-ratification mechanism
+  to include statements that aren't explicitly published, cleaning up
+  Rules 107 and Rule 2034. This branched off from the
+  obfuscated-prposals discussion. Thread: "two more proposals".
+
+* Baron von Vaderham starts a discussion about timing and keeping track
+  of the order of events. ais523 relates an interesting
+  example. Thread: "banzai!".
+
+* Jason Cobb attempts to auction off One Karma. Thread: "Who wants some
+  Karma?".
+
+* Some discussion of the non-re-use of code when an office changes
+  hand. Thread: "Proposal: Encouraging Democracy Through Capitalism or
+  Who Pays Subs Full Wages Anyway".
+
+* Some discussion of making things cost money. Thread: "Proposal:
+  Encouraging Democracy Through Capitalism or Who Pays Subs Full Wages
+  Anyway".
+
+* Murphy proposes requiring the author of a proposal to pay a fee
+  before it is distributed if they want to earn a reward for its
+  adoption. Thread: "Proposal: Interested proposals".
+
+
+# Gaelan's prepararations to become Rulekeepor
+
+* Gaelan, intending to become the next Rulekeepor, proposes some new
+  editorial guidelines. Thread: "List Cleaning".
+
+* Gaelan announces e is consedering working on an automatic proposal
+  generator. Thread: "DIS: Proto: review period". (The thread started
+  with a proposal to add a notice period for proposals.)
+
+* Gaelan calls and omd judges CFJs 3777-8 asking for clarification
+  about whitespace changes allowed by R2429 ("Bleach"). Threads: "BUS:
+  CFJs on bleanch" and "BUS: 3777-8 judgement".
+
+
+# Bugfixes
+
+* G. proposes to add a missing method to R1367. Thread: "Thesis award
+  intent".
+
+
+# Subgames and culture
+
+* Nch publishes a proto for an economic game: The Carny.
