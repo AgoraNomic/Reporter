@@ -1,4 +1,11 @@
-# Miscellaneous
+# Mailing list trouble
+
+* For unknown technical reasons, some list subscribers stopped
+  receiving messages from the list at some point during this week.
+  Thread: "Message Test".
+
+
+# Rules questions
 
 * Falsifian judges CFJs 3780 and 3782, about whether a person who
   publishes an action as part of quoted text performs that action.
@@ -6,3 +13,11 @@
 * G. submits a proposal with text beginning "I transfer 5 coins to each
   active player...", leading to some discussion about what the proposal
   would do if enacted. Thread: "I'm curious if this version works".
+
+
+# Miscellaneous
+
+* Ørjan solves a minor mistory about formatting issues with a ruleset
+  recently published by Jason Cobb: it was related to "format=flowed"
+  in the Content-Type header. (Thread: "[deputy-Rulekeepor] Short
+  Logical Ruleset".)
