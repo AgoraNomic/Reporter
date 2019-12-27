@@ -1,4 +1,42 @@
 # Mailing list trouble
 
-* omd continues to look into the list outage (e was alerted at the very
-  end of last week). Threads: "test", "test should fail".
+* omd diagnoses the recent trouble with the mailing list, and fixes it
+  by "relaying mail through a different server". Thread: "[Distributor]
+  list status". (Also previous threads: "test", "test should fail".)
+
+  * Ørjan says e found earlier this year that the list IP was on a
+    global spam blacklist, and wonders whether the IP is actually being
+    used for spam. Thread: "DIS: test".
+
+  * See also message "DIS: Pinpointing end of list outage (was BUS:
+    Might as well try)".
+
+* Aris points out that messages sent during the outage may not have
+  been validly sent via public fora, and calls a CFJ asking whether
+  Proposal 8277 was distributed. Thread: "[Distributor] list status".
+
+
+# Miscellaneous
+
+* Aris announces a new Agoran MUD in collaboration with Jason Cobb and
+  solicits help building it. Thread: "[MUD] New Agoran MUD". For some
+  context, see also the November thread "Agoran MOO?".
+
+* omd publishes some thoughts on CFJ 3783, which e is assigned to
+  judge.
+
+
+# Events that may not have happened due to mailing list trouble
+
+Because a substantial number of players may not have received the
+messages involved, the following events might not have happened.
+
+* Voting continues on Propsoal 8277. (The proposal may not have been
+  distributed.)
+
+* Falsifian nominates emself as a candidate for Prime Minister.
+  (Listing under "may not have happened" because The Prime Minister
+  election may not have been initiated.)
+
+* Falsifian announces intent to Declare Apathy (hoping it will be
+  overlooked due to the mailing list trouble) and receives objections.
