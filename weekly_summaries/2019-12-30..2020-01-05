@@ -1,8 +1,53 @@
+# Voting
+
+* Voting continues on Proposals 8277-8279 (or possibly just 8278-8279
+  if Proposal 8277 was successfully distributed during the mailing list
+  trouble).
+
+
 # Scams
 
 * Gaelan submites an updated version of the precedence scam proposal e
   submitted last week. Thread: "[ATTN: promotor] ... Proposal:
   precedence scam?".
+
+
+# Mailing list trouble
+
+Context: certain messages sent in December may have failed to be
+delivered to a significant number of players, causing them to not count
+as messages sent via a public forum. The uncertainty over whether this
+is true and which messages it affects results in some uncertainty about
+the current gamestate.
+
+* H. Distributor omd reports an approximate chronology of the recent
+  mailing list trouble, and describes measures e has taken to improve
+  the situation. Among other things, e wrote some new code to notify
+  non-subscribers when eir messages are rejected and disabled
+  subscription via agora-<listname>-subscribe@ aliases. Thread:
+  "Pinpointing end of list outage (was BUS: Might as well try)".
+
+* Falsifian attempts to help resolve ambiguities in the gamestate by
+  announcing intent to flip some master switches to Agora and
+  announcing eir resignation as Prime Minister.
+
+* Falsifian objects to Aris's attempt to resolve the gamestate
+  ambiguity by ratifying retroactive changes to the status of the lists
+  as public fora, arguing that it might not work as intended. Thread:
+  "[RWO] List Patch".
+
+  * Aris calls a CFJ about it, and argument follows.
+
+  * Alexis favours the case after registering.
+
+* Falsifian submits (then revises) a proposal to fix some of the
+  gamestate ambiguity piece-by-piece, instead of by retroactively
+  ratifying that the messages in question were or were not sent via a
+  public forum as the other attempts have done. Thread: "[Proposal]
+  Let's do this the hard way."
+
+* G. argues for ratifying that the messages in question happened.
+  Thread: "rant".
 
 
 # Miscellanous
@@ -11,3 +56,23 @@
 
   * Ørjan points out a formatting issue Jason Cobb's reports had in the
     past has re-occurred.
+
+* Discussion of the MUD Aris created continues in the thread "[MUD] New
+  Agoran MUD".
+
+* Aris's computer is in for repairs until about the end of the week; e
+  won't be working on the MUD or publishing Promotor reports until
+  then. Thread: "[MUD] New Agoran MUD".
+
+* Gaelan creates a contract allowing others to act on eir behalf to
+  perform actions when e accidentally sends them to a discussion forum
+  instead of a public forum. Thread: "[Promotor] Distribution of
+  Proposals 8277-8279".
+
+* Past player Alexis registers. Thread: "[RWO] List Patch (attn.
+  Arbitor)".
+
+* H. Arbitor G. does not plat to assign any CFJs before the holiday
+  ends, and suggests we may want to return to "the old holiday rules"
+  which presumably would suspend duties during the holidays. Thread:
+  "[RWO] List Patch (attn. Arbitor)".
