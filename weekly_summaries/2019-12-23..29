@@ -1,12 +1,20 @@
 # Mailing list trouble
 
-* omd diagnoses the recent trouble with the mailing list, and fixes it
-  by "relaying mail through a different server". Thread: "[Distributor]
-  list status". (Also previous threads: "test", "test should fail".)
+* omd diagnoses the recent trouble with the mailing list, and tries a
+  couple of ways to fix it. From-address rewriting for all messages has
+  been temporarily enabled. Thread: "[Distributor] list status". (Also
+  previous threads: "test", "test should fail".)
 
   * Ørjan says e found earlier this year that the list IP was on a
     global spam blacklist, and wonders whether the IP is actually being
     used for spam. Thread: "DIS: test".
+
+  * Ørjan points out there's no reverse DNS for the mail server, which
+    omd fixes.
+
+  * Falsifian repeats a few actions in case they weren't sent in public
+    messages (becoming a candidate for PM, earning Coins, flipping
+    master switches to Agora).
 
   * See also message "DIS: Pinpointing end of list outage (was BUS:
     Might as well try)".
@@ -15,19 +23,92 @@
   been validly sent via public fora, and calls a CFJ asking whether
   Proposal 8277 was distributed. Thread: "[Distributor] list status".
 
-* After omd fixes the mailing list, Falsifian repeats some actions e
-  attempted during the trouble (becoming a candidate for PM, earning
-  Coins, flipping master switches to Agora).
+* Propsals and debate follow from Aris's observation.
+
+  * Murphy proposes to ratify a document stating that the messages were
+    sent to the Public Forum. This is Propsoal 8278. Thread: "Proposal:
+    Resolve the troubles".
+
+    * Jason Cobb points out this proposal may not work due to the
+      difference between sending "to" and "via" a public forum. Murphy
+      submits an updated proposal, "Resolve the troubles v1.1".
+
+  * Aris argues for doing the opposite, and submits a proposal intended
+    to make it so none of the messages count. This is Propsoal 8279.
+    Thread: "Equitable Detroubling".
+
+  * Ørjan claims both proposals are at risk of doing something
+    different from what we expect, due to the large time difference
+    between the date of ratification and the dates of the events being
+    ratified. Thread: "[Promotor] Distribution of Proposals 8277-8279".
+
+    * Ørjan suggests creating a separate ratifying document for each
+      email message. ais523 suggests instead sending a message to the
+      backup list ratifying that agora-business and agora-official were
+      not public fora. Aris suggests also ratifying that they started
+      being public fora again later. Falsifian suggests sidestepping
+      the issue by directly describing the gamestate modification in
+      the proposal.
+
+  * Aris announces intent to ratify without objection two documents.
+    The first makes agora-business and agora-official into discussion
+    fora on Dec 14, and the second makes them into public fora on Dec
+    28.
+
+    * Alexis argues that this is the wrong approach, since e believes
+      ratification would not change history. Aris responds by citing a
+      thesis by Falsifian which concludes that ratification does change
+      history, as seen by the rules. Thread: "[RWO] List Patch".
+
+
+# Voting
+
+* Voting begins on Proposals 8277-8279, except that voting might have
+  already begun on Proposal 8277 when H. Promotor Aris distributed it
+  during the mailing list trouble.
+
+  * G. attempts to create a paradox using the vote of a zombie (Rance)
+    e might only control if Propsoal 8278 is adopted. ais523 doesn't
+    think it would work; see also Jason Cobb's observation of a wording
+    error in the proposal, and Ørjan's later objection to both
+    Proposals 8277 and 8279.
+
+* Murphy attempts to resolve a PM election as uncontested, with
+  Falsifian as the only candidate, leading to some discussion. (The
+  message purporting to initiate the election was sent during the
+  mailing list trouble.) Thread: "BUS: PM Candidacy".
+
+
+# Scams
+
+* Gaelan proposes a scam to get around Rule 1030's prohibition on
+  enacting new rules that override it as a means of determining
+  precedence. G. points out a potential problem and Jason Cobb suggests
+  a way to get around it. Thread: "Proposal: precedence scam?".
 
 
 # Miscellaneous
 
 * Aris announces a new Agoran MUD in collaboration with Jason Cobb and
-  solicits help building it. Thread: "[MUD] New Agoran MUD". For some
-  context, see also the November thread "Agoran MOO?".
+  solicits help building it, and describes how e thinks it might be
+  used. Thread: "[MUD] New Agoran MUD". For some context, see also the
+  November thread "Agoran MOO?".
 
 * omd publishes some thoughts on CFJ 3783, which e is assigned to
   judge.
+
+* Aris stands for PM, in case e hasn't already. Thread: "[MUD] New
+  Agoran MUD".
+
+* Aris asks for details on an incident e heard of where a person
+  attempted to register twice at the same time under different names. E
+  gets some responses, including a description of the "Annabel crisis".
+  Thread: "Research Question".
+
+* H. Arbitor G. calls for more judges. Thread: "[Arbitor] Judge Check".
+
+  * In response, former player R. Lee re-registers and offers to judge
+    cases, but says e will not otherwise play the game actively.
 
 
 # Events that may not have happened due to mailing list trouble
