@@ -1,15 +1,18 @@
 # Voting
 
-* Voting continues on Proposals 8277-8279 (or possibly just 8278-8279
-  if Proposal 8277 was successfully distributed during the mailing list
+* Voting finishes on Proposals 8277-8279 (or possibly just 8278-8279 if
+  Proposal 8277 was successfully distributed during the mailing list
   trouble).
 
 
-# Scams
+# Scams and rules questions
 
 * Gaelan submites an updated version of the precedence scam proposal e
   submitted last week. Thread: "[ATTN: promotor] ... Proposal:
   precedence scam?".
+
+* Past player Alexis sends a message which may or may not cause em to
+  be registered. Thread: "[RWO] List Patch (attn. Arbitor)".
 
 
 # Mailing list trouble
@@ -27,6 +30,15 @@ the current gamestate.
   subscription via agora-<listname>-subscribe@ aliases. Thread:
   "Pinpointing end of list outage (was BUS: Might as well try)".
 
+* Players work on "collapsing" the gamestate by sending messages that
+  will cause parts of the gamestate to have known values, even if they
+  were unknown before. Falsifian resigns as Prime Minister and the ADoP
+  resolves any ongoing Prime Minister election as failed quorum, so e
+  ADoP can unambiguously start an election. The ADoP appoints omd as
+  Comptrollor. Falsifian announces intent to flip some Master switches
+  and (barely into next week) withdraws a CFJ that might not exist. G.
+  re-assigns CFJ 3783 from twg to omd if e hadn't already.
+
 * Falsifian attempts to help resolve ambiguities in the gamestate by
   announcing intent to flip some master switches to Agora and
   announcing eir resignation as Prime Minister.
@@ -38,7 +50,7 @@ the current gamestate.
 
   * Aris calls a CFJ about it, and argument follows.
 
-  * Alexis favours the case after registering.
+  * Alexis indicates interest in judging the case.
 
 * Falsifian submits (then revises) a proposal to fix some of the
   gamestate ambiguity piece-by-piece, instead of by retroactively
@@ -46,8 +58,13 @@ the current gamestate.
   public forum as the other attempts have done. Thread: "[Proposal]
   Let's do this the hard way."
 
-* G. argues for ratifying that the messages in question happened.
-  Thread: "rant".
+* G. argues for ratifying that the messages in question happened,
+  leading to discussion of the different approaches to resolve the
+  gamestate ambiguities. Thread: "rant".
+
+* Jason Cobb tries delivering an earlier message sent by Murphy to a
+  public forum by forwarding it. Thread: "[dicelog] Selection of
+  Comptrollor".
 
 
 # Miscellanous
@@ -69,10 +86,10 @@ the current gamestate.
   instead of a public forum. Thread: "[Promotor] Distribution of
   Proposals 8277-8279".
 
-* Past player Alexis registers. Thread: "[RWO] List Patch (attn.
-  Arbitor)".
-
 * H. Arbitor G. does not plat to assign any CFJs before the holiday
   ends, and suggests we may want to return to "the old holiday rules"
   which presumably would suspend duties during the holidays. Thread:
   "[RWO] List Patch (attn. Arbitor)".
+
+* twg joins the set of players who own at least 1000 Coins but have not
+  used them to win the game under Rule 2483.
