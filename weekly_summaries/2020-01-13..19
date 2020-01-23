@@ -1,6 +1,7 @@
 # Voting
 
-* Voting continues on Proposals 8280-8286.
+* Voting continues on Proposals 8280-8286. G. pleads for Rule 2597
+  ("Line-item Veto") to not be repealed yet.
 
 
 # Rules questions
@@ -23,6 +24,12 @@
 
   * twg argues the precedent in CFJ 1215 saying they don't't work
     shouldn't apply here.
+
+* Aris publishes a whimsical judgement of CFJs 3784 and 3785, about
+  what a proposal that purports to transfer coins from itself does.
+  There follows some debate about the judgement, with G. arguing that
+  the judgment may be wrong. Thread: "CFJs 3784, 3785, and 3785.5
+  judged FALSE".
 
 
 # Culture
@@ -78,6 +85,18 @@
 
 * Gaelan volunteers to take the Notary office that would be added by
   Aris's "Contract Patency" proposal.
+
+* Jason Cobb sends a proto-proposal fixing a possible bug in Rule 2160
+  ("Deputisation"), leading to discussion about deputisation. Thread:
+  "[Proto] Deputisation timeliness".
+
+* Alexis sends a proto-proposal adding a notion of "default votes",
+  making zombies endorse their masters by default, and removing zombies
+  from quorum calculations. Thread: "[Proto] Zombie voting package".
+
+* Alexis sends some proto-proposals and says e doesn't intend to submit
+  them, and pledges to reward players whose proposals helped em receive
+  a Lime ribbon.
 
 
 # Offices
