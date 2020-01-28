@@ -1,3 +1,9 @@
+# Victory
+
+* G. wins the game by paying a fee of 1000 coins, and tells the story
+  of eir coins. Thread: "bored of liquidity, need to invest"
+
+
 # Voting
 
 * The H. Assessor resolves Proposals 8280-8286. Proposals 8281 and 8283
@@ -11,7 +17,91 @@
     haven't complained.
 
 * Voting begins on Proposals 8287-8307. This is a long list of
-  proposals, some of which would make significant changes.
+  proposals, some of which would make significant changes:
+
+    * Delete some possibly-obsolete text: remove the quarterly decay of
+      blots, and remove a provision about a no-longer defined proposal
+      switch called "Imminence".
+    
+    * Either amend or repeal Glitter (Rule 2602).
+
+    * Increase the maximum voting strength.
+
+    * A long-in-the-making organization of the rules into "ministries".
+
+      * Falsifian identifies a possible bug and submits a proposal in
+        an attempt to fix it.
+
+    * Remove the possibility for a CFJ to count as a doubt that blocks
+      self-ratification (everyone seems to use the other method, claims
+      of error, anyway).
+
+    * A proposal called "CFJ Bait" which raises many questions about
+      what it would do.
+
+    * Amend Rule 217 so that "authorial intent" is to be considered
+      when interpreting the rules.
+
+      * Many people object to this.
+
+    * Make officers responsible for granting rewards and glitter rather
+      than having each player claim eir rewards. For example, the
+      Arbitor would reward judges rather than the judges announcing
+      their own rewards.
+
+      * Also, a follow-up to this that would define a notion called "in
+        an officially timely fashion".
+
+    * Remove the notion of a "convergence", and instead relax the
+      standard to which the Rulekeepor is held for eir historical
+      annotations.
+
+    * Some proposals that give officers expanded powers, intended to be
+      used when there's confusion about the rules or gamestate. The
+      proposals would give officers the power to:
+
+      * Issue documents called memoranda, presumably to be used
+        when there is confusion about the rules or gamestate.
+
+        * G. raises concerns about the details of how the proposal
+          would work. One concern is how and whether they would
+          interact with the existing CFJ numbering and archive.
+
+      * Issue "adjustments" without three objections, which take effect
+        in a manner similar to proposals.
+
+        * There is some concern about this power being too dangerous.
+          Based on twg's concerns, the author, Aris, votes against the
+          proposal.
+
+      * Issue "patches", which are regulations which have some power to
+        override the rules.
+
+        * There are some concerns about the details of how the proposal
+          would work. One concern is about a provision that obsolete
+          patches CAN be repealed: whether a patch is "obsolete" may be
+          a vague consideration.
+
+    * Make the Rulekeepor responsible for tracking regulations as part
+      of eir regular reports.
+
+      * G. raises concerns about the clarity of the new rule text, and
+        about whether it makes sense for regulations to be tracked in
+        the Rulekeepor's weekly report (Short Logical Ruleset).
+
+    * Replace the petition process for patent titles with a more
+      general one.
+
+    * A long-in-the-making re-working of the rules for contracts (and
+      pledges). It includes the introduction of a new officer called
+      the Notary who tracks contracts and pledges, and as Notary
+      installs Gaelan, who has volunteered.
+
+    * Replace gendered degree names with gender-neutral versions.
+
+    * An attempt by Gaelan to deregister two less-active players, and
+      in response to that, a proposal by one of those players (D.
+      Margaux) to deregister Gaelan.
 
 
 # Culture
@@ -26,22 +116,29 @@
   * There is a side discussion about what should qualify for a J.N.
     degree.
 
-  * G. proposes to award twg a new patent title, "Orator", based on
-    twg's thesis, and receives support. Thread: "[Herald] Hear, hear!"
+  * G. awards twg a new patent title, "Orator", based on twg's thesis,
+    after announcing eir intent and receiving support. Thread:
+    "[Herald] Hear, hear!"
+
+  * After taking over as Herald, Alexis solicits discussion on which
+    degrees are appropriate for twg's thesis.
+
+* Discussion continues on a separate thread Aris started about degrees.
+  Thread: "DIS: Theses in the Agoran Context: A Query"
 
 * Gaelan's Proposal 8280 having passed, e attempts to award emself the
   patent title "The Powerless", and calls a CFJ about whether it
   worked. Thread: "[Assessor] Resolution of Proposals 8280-8286".
+
+  * Alexis submits a follow-up CFJ, "Gaelan CAN, by announcement, award
+    emself the patent title of 'The Powerless'.", which seems to be
+    about whether the title can be awarded repeatedly.
 
 
 # Proposals
 
 * Alexis proposes renaming of degrees to make them gender-neutral.
   Thread: "[Proposal] Gender neutrality in degrees".
-
-* Falsifian identifies a possible bug in twg's proposal 8291, and
-  submits a proposal in an attempt to fix it. Thread: "[Promotor]
-  Distribution of Proposals 8287-8307".
 
 * Alexis proposes to amend Rule 2595 to allow the initiator of a
   dependent action to withdraw their announcement of intent, leading to
@@ -56,12 +153,35 @@
   * A side note in the discussion is that a range of CFJs is missing
     from G.'s CFJ archive.
 
+* Aris proposes an update to eir "Reset Button" proposal. G. raises a
+  couple of objections, including to language in the proposal
+  encouraging "fair and equitable" adjustments to the gamestate, in
+  light of twg's thesis in defence of scams.
+
+* Jason Cobb proposes several changes to Rule 2160, "Deputisation".
+  Thread: "[Proposal] Deputisation timeliness".
+
+* Alexis circulates a draft of proposals that would codify the
+  existence of different "bodies of law" that could depend on each
+  other, starting with the statutes of Agora itself. Thread:
+  "[Proto-Proposals] The beginnings of reform"
+
 
 # Rules questions
 
-* G. publishes some follow-up research on eir CFJ 3792, about whether
-  Aris published a valid Promotor's report. E missed the time window to
-  file a motion to reconsider to include it in eir judgement.
+* On the subject of publishing valid officer's reports:
+
+  * G. publishes some follow-up research on eir CFJ 3792, about whether
+    Aris published a valid Promotor's report. E missed the time window
+    to file a motion to reconsider to include it in eir judgement.
+
+  * twg publishes a back-dated Referee report, and calls a new CFJ
+    about it, intending the CFJ to be similar to CFJ 3792 but avoiding
+    a technicality that affected CFJ 3792's judgement. G. points out a
+    misunderstanding twg had about the case, and twg responds with a
+    new CFJ based on G.'s message. (twg begins all this by granting
+    emself a blot to ensure the back-dated report would not be the same
+    as a not-back-dated report.) Thread: "CFJ 3792 followup".
 
 * Jason Cobb calls a CFJ: "Coming into existence is a regulated
   action". E earlier (in September) called CFJ 3772, "Existing is a
@@ -77,6 +197,15 @@
   should be reconsidered based on some text in Rule 591. Thread:
   "[Arbitor] CFJ 3786 Assigned to omd"
 
+* There is some discussion about whether the ADoP's duty to resolve
+  elections can continue when someone else ends an uncontested
+  election, and also about when it is appropriate to deputise for an
+  officer. Thread: "[attn: ADoP] Whither the Agoran economy?"
+
+* Alexis submits four linked CFJs about what changes can be made by
+  cleaning. Thread: "[CFJs] Why not establish some housekeeping
+  precedent?"
+
 
 # Miscellaneous
 
@@ -91,6 +220,26 @@
 
 * Falsifian resigns as Treasuror, as e had earlier announced e might
   do. Thread: "[attn: ADoP] Whither the Agoran economy?"
+
+* Warrigal, a past player, re-registers. According to the Registrar's
+  monthly report, e last played from 2015 to 2017.
+
+* Warrigal circulates a draft of a contract called "The TCC
+  Corporation" which would issue stock and allow members to submit and
+  vote on "Corporate Proposals". Thread: "Proto-corporation: the TCC
+  Corporation"
+
+* Alexis becomes our new Herald after an uncontested election.
+
+* G. writes a bit about eir work back-filling eir CFJ archives. Thread:
+  "[cotc] state of the cfj archives"
+
+* R. Lee deregisters, after first announcing that e registers, and
+  having it pointed out that e is already registered.
+
+* Alexis earns a Transparent Ribbon (and judges CFJ 3794, which,
+  fittingly, is related to ribbons). Thread: "Judgement on CFJ 3794,
+  and Ribbons"
 
 
 # Mailing list troubles
