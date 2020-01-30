@@ -61,6 +61,15 @@
 
     * Replace gendered degree names with gender-neutral versions.
 
+  * twg points out an error in the resolution: the increased maximum
+    voting strength wasn't taken into account in the proposals resolved
+    after that proposal.
+
+* Alexis proposes some changes to the rules around resolving Agoran
+  decisions, partly to clarify some ambiguity around what constitutes a
+  valid announcement resolving a decision. Thread: "[Assessor]
+  Resolution of Proposals 8287-8307"
+
 
 # Bugs
 
@@ -69,10 +78,34 @@
   8287-8307"
 
 
+# Rules questions
+
+* Jason attempts to award emself Indigo glitter after eir degree is
+  renamed by Proposal 8305. Thread: "[Assessor] Resolution of Proposals
+  8287-8307" (and also with "[CFJ] Re: BUS: Re: OFF:" prepended)
+
+  * As a counter-argument, Alexis submits: "the only real argument in
+    favour of treating renaming a patent title as the same as awarding
+    and revoking one is wishful thinking."
+
+* Jason raises a question about whether old CFJs that were assigned
+  judgements that are not "valid judgements" under the current ruleset
+  are now open, due to a possible literal reading of Rule 991. Thread:
+  "On old CFJs".
+
+
 # Miscellaneous
 
 * The H. Rulekeepor proposes what would be the first official Editorial
-  Guidelines pursuant to Rule 2599.
+  Guidelines pursuant to Rule 2599. Thread: "Editorial Guidelines"
+
+  * In that thread, there is discussion on whether to switch from
+    Spivak pronouns to "they/them/their". Some are in favour, but
+    others (strongly) disagree.
+
+  * On the subject of language in the ruleset, twg highlights some text
+    in the current rules that can be traced back to the prototyical
+    Nomic.
 
 * New player Tcbapo registers.
 
@@ -105,4 +138,7 @@
     dies, to allow us to argue over them.
 
 * G. posts an old ruleset from 2001 e found in a personal mail archive.
-  Thread: "Fwd: OFF: Short Logical Ruleset [July 6 2001]"
+  omd points out the ruleset is already available from another source,
+  but says that that section of the mailing list archives is missing,
+  so G.'s copy could fill a gap. Thread: "Fwd: OFF: Short Logical
+  Ruleset [July 6 2001]"
