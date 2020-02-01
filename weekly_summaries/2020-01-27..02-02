@@ -35,6 +35,9 @@
       * A reform to how contracts and pledges work, including the
         creation of the office of the Notary. "Contract Patency v3"
 
+        * twg points out the Notary doesn't have a ministry, and
+          suggests it should be set to Economy.
+
     * A clarification (or fix) to the wording of Rule 2602 (Glitter).
 
     * An increase of the maximum voting strength from 5 to 14.
@@ -64,7 +67,8 @@
 
   * twg points out an error in the resolution: the increased maximum
     voting strength wasn't taken into account in the proposals resolved
-    after that proposal.
+    after that proposal. Jason Cobb sends an updated message resolving
+    the proposals taking twg's point into account.
 
 * Alexis proposes some changes to the rules around resolving Agoran
   decisions, partly to clarify some ambiguity around what constitutes a
@@ -72,7 +76,7 @@
   Resolution of Proposals 8287-8307"
 
 
-# Proposals
+# Proposals and proposed proposals
 
 * Alexis submits a proposal that would provide default mechanisms for
   actions to be taken when the rules don't provide one. Likely inspired
@@ -85,6 +89,33 @@
   Thread: "[Proposal] Help with Forgotten Announcements, Support
   Improvements"
 
+* Aris submits a proposal fixing an apparent bug in the Birthday Gifts
+  rule allowing unlimited gifting. Thread: "[Proposal] Finite Gifting"
+
+  * G. has a birthday coming up before the proposal could be adopted,
+    but indicates e will not exploit the bug, suggesting "Agoran
+    ethics" proscribe it.
+
+* Alexis submits zombie-related proposals in the thread "[Proposal]
+  Zombie proposals":
+
+  * A version of the "zombie voting package" proposal e circulated the
+    week before last, which would make zombies endorse their masters by
+    default, and remove zombies from quorum calculations. Thread
+
+  * A proposal that would allow players to voluntarily become zombies
+    and profit from being zombies, by causing a player's assets to be
+    put into a trust when e becomes a zombie, and transferring auction
+    proceeds to such trusts.
+
+* Aris submits some proposals related to the new Ministries system.
+  Thread: "[Proposals] Chamber and Other Fixes"
+
+* There is some discussion of improving the rules about resolving
+  Agoran decisions, for example to reduce uncertainty about when
+  exactly decisions were resolved. Thread: "[Assessor] Resolution of
+  Proposals 8287-8307"
+
 
 # Discussions about possible broad rule changes
 
@@ -95,6 +126,18 @@
   and mentions a different system from around 2004), and whether it's a
   good idea to try it again. Thread: "Some thoughts on pragmatism and
   accounting"
+
+* Discussion begins on a set of proposal drafts Alexis circulated last
+  week that would codify the existence of different "bodies of law"
+  that could depend on each other. Thread: "[Proto-Proposals] The
+  beginnings of reform".
+
+* Alexis raises a concern that ratification of the resolution of Agoran
+  decisions under Rule 2034 may not actually work, and circulates a
+  draft of a proposal about explicit legal fictions to fix the
+  situation. It stems out of an idea they circulated a couple of weeks
+  ago in the thread "Proto-proto: Findings of Law & Fact". Thread:
+  "[Proto] [Possibly Urgent] Ratification Changes"
 
 
 # Discussions of narrower rule changes
@@ -133,6 +176,10 @@
   a synonym, only exact synonyms can be used. Thread: 'CFJs 3800-3803
   judged FALSE ("synonym" in R2221 means "exact synonym")'
 
+* Discussion continues on whether zombie auction works, after last
+  week's motion to reconsider CFJ 3793. Thread: "CFJ 3793 judged FALSE
+  (zombies work but not for Gaelan)"
+
 
 # Miscellaneous
 
@@ -146,6 +193,10 @@
   * On the subject of language in the ruleset, twg highlights some text
     in the current rules that can be traced back to the prototyical
     Nomic.
+
+  * There is discussion of the history of the phrase "in a timely
+    fashion", which used to be phrased "as soon as possible". G. puts
+    together a history [0].
 
 * New player Tcbapo registers.
 
@@ -182,3 +233,10 @@
   but says that that section of the mailing list archives is missing,
   so G.'s copy could fill a gap. Thread: "Fwd: OFF: Short Logical
   Ruleset [July 6 2001]"
+
+* Warrigal deals some blackjack hands. E set up a game last week by
+  means of a pledge. Threads: "Blackjack, anyone?", "[dicelog]
+  Blackjack hands 2020-01-29"
+
+
+[0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-January/056522.html
