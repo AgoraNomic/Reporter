@@ -5,10 +5,7 @@
   some discussion of which category of victory to count it as. Thread:
   "[Herald] Hear, ye! Hear, ye! A new Champion!"
 
-* twg wins by raising a banner. (This is unconfirmed: there's
-  uncertainty around the Lime Ribbon, since is uncertainty about this
-  week's resolution of proposals.) Thread: "And in lighter news...
-  [DoV]"
+* twg wins by raising a banner. Thread: "And in lighter news... [DoV]"
 
   * "without a doubt, the hardest and most noble way to win the game."
     -Aris
@@ -17,6 +14,13 @@
     adopted proposals, by submitting proposals through eir zombie. twg
     is kind enough to award eir zombie Red and Orange ribbons for eir
     help.
+  
+  * Some uncertainty about the H. Assessor's first attempt to resolve
+    proposals means it's unclear whether twg's first attempt to raise a
+    banner worked, because it depended on em getting a lime ribbon.
+    After the H. Assessor sends a corrected message resolving
+    proposals, twg repeats eir actions in case they failed the first
+    time. Thread: "[Assessor] Resolution of Proposals 8287-8307"
 
 
 # Resolution of proposals
@@ -70,10 +74,32 @@
     after that proposal. Jason Cobb sends an updated message resolving
     the proposals taking twg's point into account.
 
+    * There's then some uncertainty about whether some proposals took
+      effect twice.
+
+    * There are various proposals that stem out of this, listed in the
+      "Proposals and proposed proposals" section of this document.
+
 * Alexis proposes some changes to the rules around resolving Agoran
   decisions, partly to clarify some ambiguity around what constitutes a
   valid announcement resolving a decision. Thread: "[Assessor]
   Resolution of Proposals 8287-8307"
+
+
+# Voting
+
+* Voting begins on Proposals 8308-8321. Some potential problems with
+  the proposals are discussed in the same thread.
+
+
+# Culture and Academics
+
+* The H. Herald announces intents to award twg either the degree of
+  Associate of Nomic or of Baccalaureate of Nomic. Thread: "[Herald]
+  Thesis Committee for twg"
+
+* The H. Herald announces intent to award Gaelan the Patent Title of
+  Little Ricky Tables for eir XSS exploit in a CFJ.
 
 
 # Proposals and proposed proposals
@@ -86,8 +112,8 @@
 
 * Alexis also proposes to make the initiator of a dependent action
   count as a supporter, presumably so e can withdraw eir support.
-  Thread: "[Proposal] Help with Forgotten Announcements, Support
-  Improvements"
+  Falsifian identifies a possible bug. Thread: "[Proposal] Help with
+  Forgotten Announcements, Support Improvements"
 
 * Aris submits a proposal fixing an apparent bug in the Birthday Gifts
   rule allowing unlimited gifting. Thread: "[Proposal] Finite Gifting"
@@ -116,6 +142,18 @@
   exactly decisions were resolved. Thread: "[Assessor] Resolution of
   Proposals 8287-8307"
 
+* Jason proposes to secure the Ribbon Ownership switch. Thread:
+  "[proposal] Secure Ribbons"
+
+* Falsifian submits a proposal to undo repeated effects of adopting
+  Proposals 8287-8307, in case any took effect more than once. Thread:
+  "[Assessor] Resolution of Proposals 8287-8307"
+
+* Falsifian proposes a small change to the words added by Aris's
+  Proposal 8320 (Promotorial Assignment), based on a worry about how
+  the words might be interpreted. Thread: "[Another proposal]
+  [Proposals] Chamber and Other Fixes"
+
 
 # Discussions about possible broad rule changes
 
@@ -132,22 +170,29 @@
   that could depend on each other. Thread: "[Proto-Proposals] The
   beginnings of reform".
 
-* Alexis raises a concern that ratification of the resolution of Agoran
-  decisions under Rule 2034 may not actually work, and circulates a
-  draft of a proposal about explicit legal fictions to fix the
-  situation. It stems out of an idea they circulated a couple of weeks
-  ago in the thread "Proto-proto: Findings of Law & Fact". Thread:
-  "[Proto] [Possibly Urgent] Ratification Changes"
+* Refactoring ratification:
+
+  * Alexis raises a concern that ratification of the resolution of
+    Agoran decisions under Rule 2034 may not actually work, and
+    circulates a draft of a proposal about explicit legal fictions to
+    fix the situation. It stems out of an idea they circulated a couple
+    of weeks ago in the thread "Proto-proto: Findings of Law & Fact".
+    Thread: "[Proto] [Possibly Urgent] Ratification Changes"
+
+  * Falsifian submits a counter-proposal that would change ratification
+    so that past events are ratified to have happened, rather than
+    documents being ratified to be correct. Thread: "[proto]
+    Retroactive Events: a refactor of ratification"
 
 
 # Discussions of narrower rule changes
 
-* Alexis suggests preventing a current officer to get a Cyan ribbon by
-  resigning and then deputising. Thread: "[Proposal] Deputisation
-  timeliness"
+* Alexis suggests preventing a current officer from getting a Cyan
+  ribbon by resigning and then deputising. Thread: "[Proposal]
+  Deputisation timeliness"
 
 
-# Bugs
+# Bugs in the current ruleset
 
 * The rule text for issuing rewards is broken after Proposal 8295
   (Rewards Reform Act). Thread: "[Assessor] Resolution of Proposals
@@ -179,6 +224,16 @@
 * Discussion continues on whether zombie auction works, after last
   week's motion to reconsider CFJ 3793. Thread: "CFJ 3793 judged FALSE
   (zombies work but not for Gaelan)"
+
+* Jason Cobb judges CFJ 3788 FALSE, and says selfratification is
+  probably broken. The discussion that follows leads Jason to self-file
+  a motion to reconsider. Thread: "[Arbitor] CFJ 3788 Assigned to Jason
+  Cobb"
+
+* omd jduges CFJ 3796 false: Gaelan could not award emself the patent
+  title "The Powerless". A discussion follows about the ability of
+  rebellious rules to claim precedence over all other rules. Thread:
+  "[Arbitor] CFJ 3796 Assigned to omd"
 
 
 # Miscellaneous
@@ -237,6 +292,22 @@
 * Warrigal deals some blackjack hands. E set up a game last week by
   means of a pledge. Threads: "Blackjack, anyone?", "[dicelog]
   Blackjack hands 2020-01-29"
+
+* Aris suggests appending subjects to degree names, like "A.N. in
+  Devious Oratory" instead of just A.N. Thread: "Degree Naming Ideas
+  (Attn. Herald)"
+
+* CFJ quirks in the thread "A quirk in the CFJ archives":
+
+  * Jason discovers quirky errors in an archive of CFJs. G. explains
+    where the errors in question come from.
+
+  * In the same message, Jason suggests an XSS exploit could be
+    embedded into a CFJ. Gaelan does this (after a few attempts), with
+    the result that (as of 2020-02-02 around 22:35 UTC),
+    https://faculty.washington.edu/kerim/nomic/cases/?3805 redirects to
+    a RickRoll video. The H. Herald announces intent to award Gaelan
+    the Patent Title of Little Ricky Tables.
 
 
 [0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-January/056522.html
