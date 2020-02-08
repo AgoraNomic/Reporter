@@ -69,6 +69,9 @@
 
 * The February zombie auction begins.
 
+  * Cuddle Beam, one of the lots in the auction, ceases to be a zombie
+    during the auction.
+
 * Discussion continues on the first proposed Editorial Guidelines.
   Alexis calls a CFJ related to whether Jason announced separate
   intents for eir three proposed guidelines, or one intent for all
@@ -79,6 +82,16 @@
   newsletter. Threads: "[Reporter] Some questions, some thoughts, and a
   proposed newsletter", "[Reporter] Last week in agora"
 
-* H. Judge Aris finds that G. should indeed make sure Gaelan's XSS
-  exploit doesn't adversely affect eir CFJ archive. Thread: "CFJ 3805
-  judged TRUE"
+* On Gaelan's XSS exploit in a CFJ. Thread: "CFJ 3805 judged TRUE"
+
+  * H. Judge Aris finds that G. should indeed make sure the exploit
+    doesn't adversely affect eir CFJ archive.
+
+  * G. fixes the CFJ archive's index page, but leaves the vulnerability
+    in CFJ 3805's page for posterity [0].
+
+* An attempt to clean a rule veers off into a discussion of sentence
+  fragments as list items in Agora's rules and law more generally.
+
+
+[0] https://faculty.washington.edu/kerim/nomic/cases/?3805
