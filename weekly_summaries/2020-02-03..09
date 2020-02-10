@@ -1,9 +1,20 @@
+# Announcements
+
+* Gaelan announces an online ruleset viewer at
+  https://agora-ruleset.gaelan.me/ . Being based on the Rulekeepor's
+  git repository, it is potentially more up-to-date than the latest
+  Rulekeepor report. Thread: "PSA: Online ruleset viewer"
+
+  * See other notes about this thread in the "Rules questions" section
+    of this document.
+
+
 # Victory
 
 * Falsifian pays 1,000 Coins to win the game, and proposes to raise the
   fee to an amount determined by a vote. This leads to some discussion
-  about how to handle repeated wins. Thread: "[DoV] [Proposal] Closing
-  the door behind me"
+  about how to handle repeated wins. E is also appointed Speaker.
+  Thread: "[DoV] [Proposal] Closing the door behind me"
 
   * G. reveals e had been planning to use a birthday gift related scam
     to create hyperinflation and force the need to reset the economy,
@@ -12,13 +23,38 @@
 
 # Voting
 
-* Voting continues on Proposals 8308-8321.
+* Voting finishes on Proposals 8308-8321.
 
   * Alexis gives an explanation for what others perceived as an error
     in eir Proposal 8313, related to dependent actions, and asks those
     voting against it for that reason to vote for it instead. Thread:
     "[Proposal] Help with Forgotten Announcements, Support
     Improvements"
+
+  * The H. Assessor drafts a message resolving the decisions. An issue
+    is found with the distribution of Proposal 8317 (Zombie trade).
+    (This technically continues a few minutes into the following Agoran
+    week, but is included in this report for simplicity.)
+
+
+# Culture and Academics
+
+* The H. Herald awards patent titles:
+
+  * To twg, the degree of Associate of Nomic for eir thesis "Letter to
+    an Anti-Scamster: On the Importance of Loopholes in Agoran
+    Culture". Thread: "[Herald] Graduation Announcement"
+
+  * To twg and Falsifian, the Patent Title of Champion, for their
+    recent victories. Thread: "[Herald] Hear ye, hear ye! A new
+    Champion!"
+
+  * To Gaelan, the Patent Title of Little Ricky Tables, for eir XSS
+    exploit of the CFJ archives last week.
+
+* Warrigal politely requests the Patent Title of Ex-Champion, noting
+  that e won the game in 2012 but does not currently possess the Patent
+  Title of Champion. Thread: "A humble request"
 
 
 # Games
@@ -30,53 +66,144 @@
 
 * Discussion continues on omd's proto-proposal to take the past out of
   the gamestate. Tangentially, Warrigal suggests alternative language
-  for the rules on precedence between rules. Thread: "[proto]
-  Retroactive Events: a refactor of ratification"
+  for the rules on precedence between rules. Alexis expresses full
+  support and says it would clear up an issue with eir own proto.
+  Thread: "[proto] Retroactive Events: a refactor of ratification"
 
-* Minor proposals:
+* Falsifian submits a corrected proposal to undo the effects of
+  adoping any of Proposals 8287-8307 more than once, just in case.
+  Thread: "[Proposal] Re: [Assessor] Resolution of Proposals
+  8287-8307"
 
-  * Falsifian submits a corrected proposal to undo the effects of
-    adoping any of Proposals 8287-8307 more than once, just in case.
-    Thread: "[Proposal] Re: [Assessor] Resolution of Proposals
-    8287-8307"
+* Falsifian proposes to raise the fee to win the game. See "Victory"
+  section above.
 
-  * Falsifian proposes to raise the fee to win the game. See "Victory"
-    section above.
+* Falsifian proposes to clean up or trigger the rules listed in the
+  "Important Temporary Rules" section of the ruleset. Thread:
+  "[Proposal] Let's deal with the temporary rules."
 
-  * Falsifian proposes to clean up or trigger the rules listed in the
-    "Important Temporary Rules" section of the ruleset. Thread:
-    "[Proposal] Let's deal with the temporary rules."
+* Based on a discussion last week about what happens when a person
+  dies (one of a few topics discussed on the thread "The Very Worst
+  Thing That Could Possibly Happen (Attn. Distributor)"), Falsifian
+  proposes to amend Rule 869 to make a person remain a person
+  forever. Thread: "[Proposal] the eternal spirit"
 
-  * Based on a discussion last week about what happens when a person
-    dies (one of a few topics discussed on the thread "The Very Worst
-    Thing That Could Possibly Happen (Attn. Distributor)"), Falsifian
-    proposes to amend Rule 869 to make a person remain a person
-    forever. Thread: "[Proposal] the eternal spirit"
+* Alexis proposes to move Read the Ruleset Week later, since there's
+  some uncertainty about the Ruleset right now. Thread: "A Modest
+  Proposal"
+
+* G. proposes to add acting "act(ed) on eir own behalf" to the rules
+  for White ribbons. See the other note about the same thread in the
+  Miscellaneous section. Thread: "Redecoration"
+
+* Warrigal proposes to allow the Notary to destroy obsolete pledges
+  without objection. Aris suggests this could apply to contracts too.
+  Thread: "How to Break Your Promise"
+
+* Murphy submits four proposals in the thread "[Attn Promotor] Four
+  proposals":
+
+  * Allow the ADoP to appoint players to be responsible for switches
+    that fall under Rule 2603 due to otherwise lacking an officer to
+    track them.
+
+  * In cases where the Prime Minister's or Speaker's voting strengths
+    are increased by 1, double them instead.
+
+  * Destroy a player's left-over Coins after e wins by paying 1,000
+    Coins.
+
+  * Require the ADoP to announce the end of uncontested elections,
+    unless someone else does so. This may be in order to allow players
+    to deputise as ADoP to take these actions.
+
+* The thread "PSA: Online ruleset viewer" includes a proposal by Gaelan
+  to have CFJs assigned to relevant officers, all else being equal, and
+  a sketch by G. of an a plan for officers to be able to issue
+  memoranda. See the note in the "Rules questions" section of this
+  document.
 
 
 # Rules questions
 
-* Jason publishes a revised judgement of CFJ 3788, on ratification, and
-  receives comments. Thread: "[Arbitor] CFJ 3788 Assigned to Jason
-  Cobb"
+* H. Judge Jason issues a revised judgement of CFJ 3788, on
+  ratification, after receiving comments on a new draft. E finds that
+  ratification would have worked as intended in the example presented.
+  Thread: "[Arbitor] CFJ 3788 Assigned to Jason Cobb"
 
-* twg recuses emself from CFJ 3793, on whether zombie auctions work,
-  saying e can't figure out what the right answer should be. A motion
-  to reconsider was group-filed on January 26.
+* CFJ 3793, on whether zombie auctions work:
+
+  * Context: a motion to reconsider was group-filed on January 26.
+
+  * twg recuses emself, saying e can't figure out what the right answer
+    should be. Thread: "CFJ 3793 judged FALSE (zombies work but not for
+    Gaelan)"
+
+  * It is assigned to Alexis, who announces that e intends to find that
+    zombie auctions don't work. Thread: "[Arbitor] CFJ 3793 Assigned to
+    Alexis"
+
+* Cuddle Beam attempts to create a contract that e alone is two
+  "Parties" to. Thread: "humble agoran farmer becomes a uroborus"
+
+  * In the same thread, Warrigal recounts how acting-on-behalf used to
+    work.
+
+* H. Judge G. judges that coming into existence is a regulated action
+  for some things but not others. Thread: "[Arbitor] CFJ 3797 Assigned
+  to G."
+
+* H. Judge G. finds that back-dated reports can be valid Officers'
+  reports, so long as that date is within a certain time window, and
+  that that specified date counts as the past time for ratification
+  under R1551. Threads: "[Arbitor] CFJ 3798 Assigned to G.", "[Arbitor]
+  CFJ 3799 Assigned to G."
+
+  * Jason points out a potential mistake or inconsistency around a
+    reference to earlier CFJ 3773, which was about a future-dated
+    report.
+
+* H. Judge Gaelan finds that to "petition" an office under the new text
+  of Rule 2143 means to write a "formal" petition. Thread: "CFJ 3806
+  judged FALSE (a petition is a "formal" request)"; gratuitous argument
+  in thread: "[Arbitor] CFJ 3806 Assigned to Gaelan"
+
+* On the thread "Editorial Guidelines", Alexis calls a CFJ related to
+  whether Jason announced separate intents for eir three proposed
+  guidelines, or one intent for all three, which is relevant since some
+  players support some but not all of them. H. Judge G. finds that
+  Jason did not successfully announce any intents to enact Editorial
+  Guidelines (subject: "[Arbitor] CFJ 3808 Assigned to G.")
+
+* The thread "PSA: Online ruleset viewer" includes a discussion and CFJ
+  about whether a player can act on behalf of eir zombie to transfer
+  karma. The H. Herald says e believes not. This leads to discussion
+  about giving officers (the H. Herald in this case) discretion over
+  questions like that. Gaelan proposes to have CFJs assigned to the
+  relevant officers. G. sketches an alternative plan for officers to be
+  able to issue memoranda.
+
+
+# Office of the Notary
+
+* The H. Notary announces that Notary reports are available online.
+  Thread: "[Notary] Report available online"
+
+* The H. ADoP attempts to set the Notary's Ministry to {Economy} by
+  announcement, but Jason says e can only do this without objection.
+  Thread: "[Notary] Weekly report"
 
 
 # Miscellaneous
 
-* The February zombie auction begins.
+* The February zombie auction begins, unless zombie auctions are broken.
 
   * Cuddle Beam, one of the lots in the auction, ceases to be a zombie
     during the auction.
 
 * Discussion continues on the first proposed Editorial Guidelines.
-  Alexis calls a CFJ related to whether Jason announced separate
-  intents for eir three proposed guidelines, or one intent for all
-  three, which is relevant since some players support some but not all
-  of them. Thread: "Editorial Guidelines"
+  Thread: "Editorial Guidelines". See also the "Rules Questions"
+  section of this document.
 
 * Discussion continues on the topic of reporting and a possible Agoran
   newsletter. Threads: "[Reporter] Some questions, some thoughts, and a
@@ -92,6 +219,25 @@
 
 * An attempt to clean a rule veers off into a discussion of sentence
   fragments as list items in Agora's rules and law more generally.
+
+* Our H. Assessor asks for confirmation of eir information on who holds
+  which offices, since the H. ADoP has not published a report for a
+  while, and offices now get added voting power (according to their
+  Ministries). Thread: "[Assessor] Request for office confirmation"
+
+* Our H. ADoP, Murphy, reappears after a period of absence, and
+  announces e's working on catching up. Thread: "[Arbitor] CFJ 3787
+  Assigned to omd"
+
+* Having Raised a Banner and thereby lost all eir ribbons, twg earns
+  anew seven ribbons. As part of this, e acts on behalf of eir zombie
+  to award emself a White ribbon, which G. points out has a permanent
+  effect on eir zombie (the player loses eir ability to award White
+  ribbons to others). G. submits a proposal to restrict the White
+  ribbon rules to actions on one's own behalf. Thread: "Redecoration"
+
+* Murphy probably transfers enough coins to Trigon to bring eir balance
+  above 1000. Thread: "Kingmaking"
 
 
 [0] https://faculty.washington.edu/kerim/nomic/cases/?3805
