@@ -1,11 +1,126 @@
-# Proposals
+# Victory
+
+* twg pays 1,000 Coins to win the game, the third to do so in the past
+  few weeks. Thread: "since we're doing this now"
+
+
+# Voting and elections
+
+* New officer elections:
+
+  * The H. Rulekeepor initiates an election for Rulekeepor in the
+    thread "[Rulekeepor] Election", and says e is willing to stay or
+    go.
+
+  * Elections for for Prime Minister and Notary are initiated in the
+    thread "Election Intents".
+
+  * Alexis also announces intent to initiate an election for Assessor,
+    saying e is "dissatisfied with the sparse content of resolutions",
+    leading to a discussion on the contents and formatting of Assessor
+    reports. Thread: "Election Intents"
+
+  * Gaelan says e may take Rulekeepor. Thread: "Election Intents"
+
+* The H. ADoP initiates decisions to select the winners of the
+  elections for Referee and Registrar. Thread: "[ADoP] Election voting
+  opens"
+
+* Proposals 8308-8321 are resolved, except that 8317 was not validly
+  distributed. Adopted are some fixes and cleanups, and Proposal 8320,
+  which allows the Promotor to set proposal chambers when they're not
+  set.
+
+
+# Zombie auctions
+
+Context: zombie auctions are likely broken. The February zombie auction
+might not have been successfully initiated. See CFJ 3793, and notes in
+last week's summary.
+
+* Alexis starts a discussion on ways to fix zombie auctions, and
+  possibly redo or remove the auction rules. Thread: "Fixing zombie
+  auctions"
+
+* Murphy submits a proposal to fix it using a change to Rule 2549,
+  "Auction Initiation". A discussion follows on whether that rule has
+  the power needed to do that. Thread: "[attn Promotor] Proposal: Fix
+  Auctions"
+
+* The H. Referee finds that Jason did not break the rules by bidding
+  more money than e had in the February zombie auction. Murphy submits
+  a proposal to clarify the rule. Thread: "[Registrar] February zombie
+  auction status"
+
+
+# The mailing list
+
+* Our H. Distributor announces e has mostly finished making a change to
+  the list software. Haraka is now handling mail delivery and incoming
+  mail, and we should notify em if there are any issues. Thread:
+  "[Distributor] List update"
+  
+
+# Miscellaneous
 
 * Discussion continues on Murphy's economy proto-proposal in thread
   "[proto] Standard Model of Agoran Economics".
 
-
-# Miscellaneous
-
 * Proposal submission etiquette: when re-submitting proposals, the H.
   Promotor would prefer you let em copy paste it using the proposal
   number. Thread: "Question for the promotor"
+
+* Discussion continues in the thread "[cotc] state of the cfj
+  archives", touching on the history and current use of the CFJ
+  archives.
+
+* Murphy sets up eir home server to back up the three main Agora lists
+  monthly. Thread: "The Very Worst Thing That Could Possibly Happen
+  (Attn. Distributor)"
+
+* Discussion continues on the history of the rules in the thread
+  "Editorial Guidelines".
+
+* Discussion continues on what should happen when someone wins through
+  a High Score like win, like paying 1,000 Coins to win. Thread: "[Attn
+  Promotor] Four proposals"
+
+* Murphy works on eir proposal to clarify ADoP duties in the thread
+  "[Attn Promotor] Four proposals"
+
+* On the topic of Agora supporting large numbers of players, in the
+  thread: "[Reporter] Some questions, some thoughts, and a proposed
+  newsletter":
+
+  * Murphy mentions a bump in participation that followed a Slashdot
+    post. G. says e found Agora through it. Thread:
+
+  * Murphy suggests if activity keeps increasing, we might look into
+    splitting some discussion into forums. Falsifian points out Aris
+    started a MUD last month.
+
+* Aris is fined a forgivable two blots. Notable since we haven't had
+  many fines lately. Thread: "[Assessor] Draft resolutions of Proposals
+  8308-8321"
+
+* Murphy proposes to clarify the rule for determining quorum. Thread:
+  "[attn Promotor] Proposals: Clarify quorum"
+
+* Murphy becomes the Comptrollor through a random choice.
+
+* Discussion continues on officers issuing some sort of memoranda.
+  Gaelan submits a new proposal. Thread: "[attn: promotor] Re: BUS: Re:
+  DIS: PSA: Online ruleset viewer"
+
+* Alexis resubmits (rather, submits a proposal identical to) eir
+  Support of the Person proposal. It was previously rejected, but e
+  submitted 11th-hour arguments which voters may not have had time to
+  consider. Thread: "Last minute proposals"
+
+* Alexis submits a proposal that makes it possible for a Laureled Prime
+  Minister to either appoint emself Speaker or decline the office.
+  Thread: "Last minute proposals"
+
+* Former player Publius Scribonius Scholasticus says hello and
+  encourages Agorans to keep up the good work. ais523 mentions Agora's
+  tradition of "watchers". Thread: "Checking In"
