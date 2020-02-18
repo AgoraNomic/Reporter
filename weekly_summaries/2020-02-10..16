@@ -8,9 +8,8 @@
 
 * New officer elections:
 
-  * The H. Rulekeepor initiates an election for Rulekeepor in the
-    thread "[Rulekeepor] Election", and says e is willing to stay or
-    go.
+  * The Rulekeepor initiates an election for Rulekeepor in the thread
+    "[Rulekeepor] Election", and says e is willing to stay or go.
 
   * Elections for for Prime Minister and Notary are initiated in the
     thread "Election Intents".
@@ -22,9 +21,8 @@
 
   * Gaelan says e may take Rulekeepor. Thread: "Election Intents"
 
-* The H. ADoP initiates decisions to select the winners of the
-  elections for Referee and Registrar. Thread: "[ADoP] Election voting
-  opens"
+* The ADoP initiates decisions to select the winners of the elections
+  for Referee and Registrar. Thread: "[ADoP] Election voting opens"
 
 * Proposals 8308-8321 are resolved, except that 8317 was not validly
   distributed. Adopted are some fixes and cleanups, and Proposal 8320,
@@ -67,7 +65,7 @@
 
     * A re-submission of Alexis's "Support of the Person" proposal.
 
-  * The H. Promotor accidentally assigns some of the proposals numbers
+  * The Promotor accidentally assigns some of the proposals numbers
     35XX instead of 83XX, then makes a second mistake and apologises,
     expresses embarassement, and transfers some Coins and karma to
     other players. Other players reassure em.
@@ -88,12 +86,12 @@ last week's summary.
   the power needed to do that. Thread: "[attn Promotor] Proposal: Fix
   Auctions"
 
-* The H. Referee finds that Jason did not break the rules by bidding
-  more money than e had in the February zombie auction. Murphy submits
-  a proposal to clarify the rule. Thread: "[Registrar] February zombie
+* The Referee finds that Jason did not break the rules by bidding more
+  money than e had in the February zombie auction. Murphy submits a
+  proposal to clarify the rule. Thread: "[Registrar] February zombie
   auction status"
 
-* The H. Registrar drafts a message that would attempt to officially
+* The Registrar drafts a message that would attempt to officially
   handle the end of the auction while covering three possible states
   the auction could be in. Thread: "[draft] [Registrar] End of February
   zombie auction, if it exists"
@@ -101,7 +99,7 @@ last week's summary.
 
 # The mailing list
 
-* Our H. Distributor announces e has mostly finished making a change to
+* Our Distributor announces e has mostly finished making a change to
   the list software. Haraka is now handling mail delivery and incoming
   mail, and we should notify em if there are any issues. Thread:
   "[Distributor] List update"
@@ -112,7 +110,7 @@ last week's summary.
 * Discussion continues on Murphy's economy proto-proposal in thread
   "[proto] Standard Model of Agoran Economics".
 
-* Proposal submission etiquette: when re-submitting proposals, the H.
+* Proposal submission etiquette: when re-submitting proposals, the
   Promotor would prefer you let em copy paste it using the proposal
   number. Thread: "Question for the promotor"
 
@@ -191,7 +189,7 @@ last week's summary.
 
 * sukil asks some questions about numbers in the rules for dependent actions.
 
-* The H. Treasuror sends a detailed accounting of rewards granted by
+* The Treasuror sends a detailed accounting of rewards granted by
   Proposal 8311 to compensate for a rule being broken (fixed by that
   same proposal). Thread: "[Treasuror] Statement on Proposal 8311's
   Effect"
@@ -202,8 +200,7 @@ last week's summary.
   granting a negative asset.
 
 * Questions about some "failure notice" emails, and an answer from the
-  H. Distributor, in the thread "Fwd: failure notice (attn.
-  Distributor)"
+  Distributor, in the thread "Fwd: failure notice (attn. Distributor)"
 
 * sukil asks about the way Reply-To headers are configured, which leads
   to a discussion about having a FAQ, past instances of FAQs, and how
