@@ -34,6 +34,9 @@
   * The Promotor takes advantage of eir new power from Proposal 8320.
     Thread: "[Promotor] Ministerial Referrals"
 
+  * Falsifian attempts to claim a Red Ribbon, prompting a CFJ about
+    whether eir Proposal 8308 changed a rule.
+
 * Voting begins on a new round of proposals. Thread: "[Promotor]
   Distribution of Proposals 8322-3541"
 
@@ -89,6 +92,11 @@ last week's summary.
   more money than e had in the February zombie auction. Murphy submits
   a proposal to clarify the rule. Thread: "[Registrar] February zombie
   auction status"
+
+* The H. Registrar drafts a message that would attempt to officially
+  handle the end of the auction while covering three possible states
+  the auction could be in. Thread: "[draft] [Registrar] End of February
+  zombie auction, if it exists"
 
 
 # The mailing list
@@ -193,9 +201,25 @@ last week's summary.
   seems to be that nothing would happen since there's no concept of
   granting a negative asset.
 
-* Aris forwards a "failure notice" email, asking what happened.
-  Falsifian says e received the message in question. Thread: "Fwd:
-  failure notice (attn. Distributor)"
+* Questions about some "failure notice" emails, and an answer from the
+  H. Distributor, in the thread "Fwd: failure notice (attn.
+  Distributor)"
 
-* sukil asks about the way Reply-To headers are configured. Thread:
-  "reply-to headers always pointing to this list"
+* sukil asks about the way Reply-To headers are configured, which leads
+  to a discussion about having a FAQ, past instances of FAQs, and how
+  we might make having a FAQ stick. Thread: "reply-to headers always
+  pointing to this list"
+
+* Alexis asks if anyone else has comments on eir draft proposals in the
+  thread "[Proto-Proposals] The beginnings of reform"
+
+* Alexis comments on Falsifian's "Retroactive Events" proto-proposal,
+  comparing it to eir own Ratification by Legal Fiction proto-proposal.
+  Thread: "[proto] Retroactive Events: a refactor of ratification-
+
+* twg calls a CFJ about whether a proposal with a title consisting of a
+  sequence of Unicode characters that looks like "Judicial Jocularity
+  Act" is in fact titled "Judicial Jocularity Act", partly in an effort
+  to create a long subject line. Thread: "[another CFJ] Re: [Proposal]
+  Re: DIS: Re: BUS: [CFJ] [attn Rulekeepor] Re: BUS: [attn: Tailor] Re:
+  OFF: [Assessor] Resolution of Proposals 8308-8321"
