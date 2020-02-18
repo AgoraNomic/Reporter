@@ -41,6 +41,12 @@
   * These include some fixes and clarifications, not listed here, as
     well as:
 
+    * Securing Ribbon ownership ("Secure Ribbons")
+
+      * twg laments the possible loss of such a juicy [low-power] scam
+        target. Jason suggests making black ribbons an exception, so
+        they can still be targetted by low-power scams.
+
     * An increase to the victory fee to a median of a vote ("Inflation
       Vote")
 
@@ -65,26 +71,35 @@
 
     * A re-submission of Alexis's "Support of the Person" proposal.
 
+      * twg argues for a review of the current Agoran Consent
+        thresholds before adopting it.
+
   * The Promotor accidentally assigns some of the proposals numbers
     35XX instead of 83XX, then makes a second mistake and apologises,
     expresses embarassement, and transfers some Coins and karma to
     other players. Other players reassure em.
 
 
-# Zombie auctions
+# Zombies
 
-Context: zombie auctions are likely broken. The February zombie auction
-might not have been successfully initiated. See CFJ 3793, and notes in
-last week's summary.
+Some context: zombie auctions are likely broken. The February zombie
+auction might not have been successfully initiated. See CFJ 3793, and
+notes in last week's summary.
 
-* Alexis starts a discussion on ways to fix zombie auctions, and
-  possibly redo or remove the auction rules. Thread: "Fixing zombie
-  auctions"
+* Ways to fix zombie auctions:
 
-* Murphy submits a proposal to fix it using a change to Rule 2549,
-  "Auction Initiation". A discussion follows on whether that rule has
-  the power needed to do that. Thread: "[attn Promotor] Proposal: Fix
-  Auctions"
+  * Alexis starts a discussion on ways to fix zombie auctions, and
+    possibly redo or remove the auction rules. Thread: "Fixing zombie
+    auctions"
+
+  * Murphy submits a proposal to fix them using a change to Rule 2549,
+    "Auction Initiation". A discussion follows on whether that rule has
+    the power needed to do that. Thread: "[attn Promotor] Proposal: Fix
+    Auctions"
+
+  * Falsifian submits a proposal involving increasing the power of the
+    Auction rules. Alexis says it lacks a mechanism by which Agora
+    transfers the auctions. Thread: "[proto] Fix zombie auctions"
 
 * The Referee finds that Jason did not break the rules by bidding more
   money than e had in the February zombie auction. Murphy submits a
@@ -95,6 +110,12 @@ last week's summary.
   handle the end of the auction while covering three possible states
   the auction could be in. Thread: "[draft] [Registrar] End of February
   zombie auction, if it exists"
+
+* Warrigal drafts a contract which would allow zombies to be traded.
+  Thread: "Proto-contract: the Zombie Market"
+
+* As anticipated, Judge Alexisfinds that zombie auctions are broken in
+  eir judgement of CFJ 3793.
 
 
 # The mailing list
@@ -189,10 +210,15 @@ last week's summary.
 
 * sukil asks some questions about numbers in the rules for dependent actions.
 
-* The Treasuror sends a detailed accounting of rewards granted by
-  Proposal 8311 to compensate for a rule being broken (fixed by that
-  same proposal). Thread: "[Treasuror] Statement on Proposal 8311's
-  Effect"
+* Proposal 8311 gives players rewards that officers were previously
+  unable to grant due to a bug (fixed by that same proposal).
+
+  * The Treasuror sends a detailed accounting of these rewards. Thread:
+    "[Treasuror] Statement on Proposal 8311's Effect"
+
+  * G. calls a CFJ on whether officers are still required to grant the
+    rewards already back-filled by that proposal. Thread: "[cfj] double
+    payments"
 
 * Jason raises a question: what would happen if a proposal were passed
   where the reward calculation results in a negative number? The answer
@@ -220,3 +246,23 @@ last week's summary.
   to create a long subject line. Thread: "[another CFJ] Re: [Proposal]
   Re: DIS: Re: BUS: [CFJ] [attn Rulekeepor] Re: BUS: [attn: Tailor] Re:
   OFF: [Assessor] Resolution of Proposals 8308-8321"
+
+* G. judges CFJ 3795 FALSE: sending a message to yourself and then
+  forwarding it to a public forum doesn't make it so that you published
+  it at the original time you sent it to yourself.
+
+* Discussion of using one apology for multiple offenses, or
+  re-publishing an apology multiple times to expunge more blots, in the
+  thread "Missed report".
+
+* Alexis proposes to exclude "interpretation" from the "substantive"
+  aspects of an instrument as defined by Rule 2140. Thread: "Is
+  interpretation substantive?"
+
+* Warrigal publishes an updated draft of a proto-contract e published
+  near the end of January. Thread: "Proto-contract: the Dragon
+  Corporation (the new TTC Corporation)"
+
+* Jason proposes to allow players to grant themselves blots, as a tool
+  for use in contracts. Thread: "[Proposal] Blots here! Come get your
+  Blots!"
