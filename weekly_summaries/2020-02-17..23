@@ -4,11 +4,23 @@
   Leaving the bourgeoisie"
 
 
-# Zombie auctions
+# Zombie auctions and trade
 
-* Falsifian wors on eir of a zombie auction fix and receives comments.
-  E also asks a questions about rules performing regulated actions.
-  Thread: "[proto] Fix zombie auctions"
+Some context: zombie auctions are broken. See CFJ 3793.
+
+* Falsifian attempts to fix eir zombie auction fix proposal. Thread
+  includes discussion about regulated actions, and about the notion of
+  "at will" in auctions. Thread: "[proto] Fix zombie auctions"
+
+* The Registrar, Falsifian, calls CFJs about the zombie auction
+  relevent to eir report. First, whether the auction was initiated.
+  (Thread: "[CFJ] Did I initiate a zombie auction?") Second, whether
+  Jason's attempt to conditionally flip eir zombie's master to Agora if
+  there was an auction succeeded. (Thread: "[CFJ] Re: BUS: Zombie
+  cleanup (attn. Registrar)")
+
+* Warrigal creates a contract allowing the effective trade of zombies.
+  Thread: "Contract: the Zombie Market"
 
 
 # Miscellaneous
@@ -20,3 +32,13 @@
 * Falsifian responds to comments on eir "Retroactive Events"
   proto-proposal. Thread: "[proto] Retroactive Events: a refactor of
   ratification"
+
+* Jason works on a proposal to make the recent securing of Ribbon
+  Ownership not apply to Black Ribbons, since some people commented
+  that Black Ribbons should remain targets of scams of any power.
+  Thread: "[proposal] De-secure Black Ribbons"
+
+* The Arbitor calls for judges to help with a high caseload, and
+  receives volunteers. Thread: "[Arbitor] State of the Bench"
+
+* Various CFJs are judged (see Arbitor official reports).
