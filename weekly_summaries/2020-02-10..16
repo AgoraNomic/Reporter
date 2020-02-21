@@ -149,6 +149,38 @@
   newsletter" reported under the Miscellaneous section below.
 
 
+# Rules questions
+
+* Discussion continues on whether Agora is still a contract, after
+  Cuddle Beam pointed out last week that this may interact badly with
+  the new notion of "visible" and "invisible" contracts. Cuddle Beam
+  calls a CFJ. Thread: "humble agoran farmer makes Agora visible"
+
+* G. calls a CFJ on whether Proposal 8311 removes officers' obligations
+  to grant rewards for events from before its adoption. Thread: "[cfj]
+  double payments"
+
+* Jason raises a question: what would happen if a proposal were passed
+  where the reward calculation results in a negative number? The answer
+  seems to be that nothing would happen since there's no concept of
+  granting a negative asset.
+
+* twg calls a CFJ about whether a proposal with a title consisting of a
+  sequence of Unicode characters that looks like "Judicial Jocularity
+  Act" is in fact titled "Judicial Jocularity Act", partly in an effort
+  to create a long subject line. Thread: "[another CFJ] Re: [Proposal]
+  Re: DIS: Re: BUS: [CFJ] [attn Rulekeepor] Re: BUS: [attn: Tailor] Re:
+  OFF: [Assessor] Resolution of Proposals 8308-8321"
+
+* G. judges CFJ 3795 FALSE: sending a message to yourself and then
+  forwarding it to a public forum doesn't make it so that you published
+  it at the original time you sent it to yourself.
+
+* Discussion of using one apology for multiple offenses, or
+  re-publishing an apology multiple times to expunge more blots, in the
+  thread "Missed report".
+
+
 # Zombies
 
 Some context: zombie auctions are broken. The February zombie auction
@@ -216,11 +248,6 @@ last week's summary.
 
 * New player sukil registers.
 
-* Discussion continues on whether Agora is still a contract, after
-  Cuddle Beam pointed out last week that this may interact badly with
-  the new notion of "visible" and "invisible" contracts. Cuddle Beam
-  calls a CFJ. Thread: "humble agoran farmer makes Agora visible"
-
 * The Registrar asks who wants to be listed as a Watcher in the
   unofficial list. Former players ais523 and Publius Scribonius
   Scholasticus are added to the list. Thread: "[Registrar] Want to be
@@ -235,19 +262,9 @@ last week's summary.
   actions.
 
 * Proposal 8311 gives players rewards that officers were previously
-  unable to grant due to a bug (fixed by that same proposal).
-
-  * The Treasuror sends a detailed accounting of these rewards. Thread:
-    "[Treasuror] Statement on Proposal 8311's Effect"
-
-  * G. calls a CFJ on whether officers are still required to grant the
-    rewards already back-filled by that proposal. Thread: "[cfj] double
-    payments"
-
-* Jason raises a question: what would happen if a proposal were passed
-  where the reward calculation results in a negative number? The answer
-  seems to be that nothing would happen since there's no concept of
-  granting a negative asset.
+  unable to grant due to a bug (fixed by that same proposal). The
+  Treasuror sends a detailed accounting of these rewards in the thread
+  "[Treasuror] Statement on Proposal 8311's Effect".
 
 * Questions about some "failure notice" emails, and an answer from the
   Distributor, in the thread "Fwd: failure notice (attn. Distributor)"
@@ -256,21 +273,6 @@ last week's summary.
   to a discussion about having a FAQ, past instances of FAQs, and how
   we might make having a FAQ stick. Thread: "reply-to headers always
   pointing to this list"
-
-* twg calls a CFJ about whether a proposal with a title consisting of a
-  sequence of Unicode characters that looks like "Judicial Jocularity
-  Act" is in fact titled "Judicial Jocularity Act", partly in an effort
-  to create a long subject line. Thread: "[another CFJ] Re: [Proposal]
-  Re: DIS: Re: BUS: [CFJ] [attn Rulekeepor] Re: BUS: [attn: Tailor] Re:
-  OFF: [Assessor] Resolution of Proposals 8308-8321"
-
-* G. judges CFJ 3795 FALSE: sending a message to yourself and then
-  forwarding it to a public forum doesn't make it so that you published
-  it at the original time you sent it to yourself.
-
-* Discussion of using one apology for multiple offenses, or
-  re-publishing an apology multiple times to expunge more blots, in the
-  thread "Missed report".
 
 * Warrigal publishes an updated draft of a proto-contract e published
   near the end of January. Thread: "Proto-contract: the Dragon
