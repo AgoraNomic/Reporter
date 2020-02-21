@@ -228,7 +228,15 @@ last week's summary.
   the list software. Haraka is now handling mail delivery and incoming
   mail, and we should notify em if there are any issues. Thread:
   "[Distributor] List update"
-  
+
+* Questions about some "failure notice" emails, and an answer from the
+  Distributor, in the thread "Fwd: failure notice (attn. Distributor)"
+
+* sukil asks about the way Reply-To headers are configured, which leads
+  to a discussion about having a FAQ, past instances of FAQs, and how
+  we might make having a FAQ stick. Thread: "reply-to headers always
+  pointing to this list"
+
 
 # Miscellaneous
 
@@ -268,14 +276,6 @@ last week's summary.
   unable to grant due to a bug (fixed by that same proposal). The
   Treasuror sends a detailed accounting of these rewards in the thread
   "[Treasuror] Statement on Proposal 8311's Effect".
-
-* Questions about some "failure notice" emails, and an answer from the
-  Distributor, in the thread "Fwd: failure notice (attn. Distributor)"
-
-* sukil asks about the way Reply-To headers are configured, which leads
-  to a discussion about having a FAQ, past instances of FAQs, and how
-  we might make having a FAQ stick. Thread: "reply-to headers always
-  pointing to this list"
 
 * Warrigal publishes an updated draft of a proto-contract e published
   near the end of January. Thread: "Proto-contract: the Dragon
