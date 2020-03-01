@@ -65,7 +65,10 @@ Some context: zombie auctions are broken. See CFJ 3793.
   this rule is enacted, a player is deregistered." without saying whom.
 
 
-# Miscellaneous
+# Proposals
+
+(See also: attempts to fix zombie auctions in the "Zombie auctions and
+trade" section in this document.)
 
 * Falsifian drafts a proposal describing a new office responsible for
   maintaining a FAQ and helping new players. Thread: "reply-to headers
@@ -80,13 +83,16 @@ Some context: zombie auctions are broken. See CFJ 3793.
   that Black Ribbons should remain targets of scams of any power.
   Thread: "[proposal] De-secure Black Ribbons"
 
-* The Arbitor calls for judges to help with a high caseload, and
-  receives volunteers. Thread: "[Arbitor] State of the Bench"
-
 * Based on a question of whether rules need to explicitly state methods
   when they perform actions (threads: "[proto] Fix zombie auctions" and
   "[proposal] De-secure Black Ribbons"), Jason proposes to increase the
   power of Rule 2141 (thread: "[Proposal] Rules are important").
+
+
+# Miscellaneous
+
+* The Arbitor calls for judges to help with a high caseload, and
+  receives volunteers. Thread: "[Arbitor] State of the Bench"
 
 * Gaelan suggests using CC or BCC as a way to notify officers instead
   of putting [Attn: (office)] in the subject line. Thread: "RFC: Cc/Bcc
