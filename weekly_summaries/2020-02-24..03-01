@@ -7,8 +7,82 @@
   (and awards emself an Emerald ribbon, which was eir reason for
   calling the election). Thread: "[ADoP] Resolving elections"
 
+* Proposals 8322-8341 are resolved.
+
+  * Adopted proposals:
+
+    * 8322: Undoes possible repeated adoption of proposals.
+
+    * 8323: Secure the Ribbon Ownership switch.
+
+    * 8324: Slight wording change to the Proposal Chambers rule.
+
+    * Testing temporary rules:
+
+      * 8326: Repeals a rule which claims to re-enact itself one week
+        after being repealed. (Also repeals a rule we're finished
+        with.)
+
+      * 8327: Tests the ability of the old text of Rule 2601 to have an
+        effect, even though the rule was amended to remove that text.
+
+    * 8329: Reschedules Read the Ruleset Week to this week.
+
+    * 8330: Protects zombies from having eir white ribbon powers
+      looted.
+
+    * 8331: Allows the Notary to destroy obsolete pledges without
+      objection.
+
+    * 8336: Defines "publicly".
+
+    * 8338: Clarifies how quorum is computed.
+
+    * 8340: Allows a Loweled Prime Minister to choose whether to become
+      Speaker or remain Prime Minister.
+
+* Voting begins on Proposals 8342-8348, including:
+
+  * 8342: Allows officers to publish Administrative Opinions about
+    CFJs, and assign them as judgements without objection.
+
+    * G. argues against it.
+
+  * 8343: Submitted at least partly to test when proposal titles are
+    the same. (The original title used script-style letters.) The
+    actual effect of the proposal is to rename the "DISMISS" judgement
+    to "¯\_(ツ)_/¯"
+
+  * 8344: Excludes interpretation from "substantive" aspects of
+    instruments as described by Rule 2140.
+
+  * 8345: Allows players to grant themselves blots.
+
+  * 8346: Allow players to earn Black Ribbons with low-powered
+    instruments. (Follow-up to Proposal 8323, which secures Ribbon
+    Ownership.)
+
+  * 8347: Increases the power of Rule 2141 (Role and Attributes of
+    Rules).
+
+  * 8348: remove the provision in Rule 1551 that allows the main part
+    of a document to self-ratify if the document has a summary that
+    contradicts it.
+
+    * G. argues against it.
+
+
+# Culture
+
+* The Herald attempts to award the Patent Title of Champion to Jason
+  and to twg for (separately) winning the game, but accidentally writes
+  "Falsifian" instead of "twg". Threads: "[Herald] Hear ye, hear ye! A
+  new Champion!", "[Herald] The Scroll of Agora"
+
 
 # Rules questions
+
+Lots of rules questions related to zombies recently.
 
 * The Treasuror intends to interpret Rule 2579 such that attempting to
   pay a fee to claim a zombie in an auction, while zombie auctions are
@@ -18,7 +92,56 @@
 * twg comments on actions being POSSIBLE but also impossible. Thread:
   "[proto] Fix zombie auctions"
 
+* Jason judges CFJ 3810 FALSE, finding that zombies cannot be used to
+  transfer karma. This leads to questions on whether a master can act
+  on behalf of a zombie to vote or publish an official report. Thread:
+  "[Arbitor] CFJ 3810 Assigned to Jason"
+
+* G. judges CFJ 3817 FALSE: no zombie auction was initiated in the
+  month of February; and therefore CFJ 3809 is FALSE: Cuddle Beam did
+  not bid in the non-existent auction.
+
+
+# On inconsistent documents
+
+* Aris judges CFJs 3811 and 3812 False, finding that a message
+  distributing proposals but listing inconsistent AI values for one of
+  them fails and does not self-ratify.
+
+* Gaelan submits a proposal to remove the provision in Rule 1551 that
+  allows the main part of a document to self-ratify if the document has
+  a summary that contradicts it.
+
 
 # Miscellaneous
 
-* twg makes use of Gaelan's TTttPF contract. Thread: "[ADoP] More elections".
+* twg makes use of Gaelan's TTttPF contract. Thread: "[ADoP] More
+  elections".
+
+* Cuddle Beam suggests changing the word "master" in the ruleset to
+  something else, since "Master" is a masculine noun. Following
+  discussion suggests it is also sometimes gender-neutral. Thread:
+  "Master/Mistress, gender inclusivity"
+
+* R. Lee re-registers just over a month after deregistering, and
+  indicates interest in judging CFJs.
+
+* Gaelan becomes Notary again (by deputization) after e accidentally
+  lost the office last week. Subject: "[Notary] Weekly Report"
+
+* Cuddle Beam creates a contract allowing another player to control em
+  like a zombie (but with fewer restrictions), provided that player
+  pledge that Cuddle Beam will win with a penalty of a googleplex blots
+  for failing. After a detail is ironed out, twg takes em up on it.
+  Gaelan calls a CFJ asking whether the pledge would work as apparently
+  intended. Thread: "humble agoran farmer becomes chattel"
+
+* Alexis proposes to make apologizing under R2557 not interfere with a
+  player's ability to expunge blots from others. Thread: "Expungement
+  Proposal"
+
+* Alexis submits an updated version of eir earlier "Bodies of Law"
+  draft as a proposal. Thread: "[Proposals] Onward with bodies of law"
+
+* Warrigal destroys eir "Zombie Market" contract, possibly because
+  nobody joined it.
