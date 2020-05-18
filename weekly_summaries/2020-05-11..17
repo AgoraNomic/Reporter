@@ -1,6 +1,5 @@
-This report is not yet complete. It currently covers all messages sent
-up to 02:28 (UTC) on Sunday, and possibly a few more.
-
+Status of this document: It covers all events during the week, but still
+needs a summary, and possibly editing.
 
 # Voting and elections
 
@@ -64,20 +63,31 @@ up to 02:28 (UTC) on Sunday, and possibly a few more.
     Subject line starts as "[Promotor] Distribution of Proposals
     8377-8387" and changes to "Treason".
 
-* Economic changes:
+* P.S.S. circulates some draft proposals that would make some things
+  cost coins. Thread: "Protos: Coins have Value"
 
-  * P.S.S. circulates some draft proposals that would make some things
-    cost coins. Thread: "Protos: Coins have Value"
+* nch circulates an economy idea based around four new assets, based
+  on arguments e made in the thread P.S.S. started. Lots of
+  discussion. Thread: "Proto: Sets"
 
-  * nch circulates an economy idea based around four new assets, based
-    on arguments e made in the thread P.S.S. started. Lots of
-    discussion. Thread: "Proto: Sets"
+  * G. drafts a possible side-game to go with it. Thread: "a side-game
+    for sets".
 
 * Jason proposes to retire the Dragon Corporation. Subject: "[Notary]
   Weekly Nonsense (Report) [attn Promotor]"
 
 * G. proposes to remove some old protections against abuse of Referee
   power. Thrad: "[proposal] no-longer needed protection"
+
+* R. Lee proposes to rename the offices of Registrar and Notary to
+  Registror and Notory.
+
+* Aris circulates a draft to bring back an old Agoran system of
+  promises.
+
+* Jason proposes to make penalties for breaking the rules depend on the
+  rules at the time the violation occurred. Thread: "[proposal] Prior
+  violations"
 
 
 # Ideas
@@ -88,7 +98,7 @@ up to 02:28 (UTC) on Sunday, and possibly a few more.
   force"
 
 
-# Rules questions
+# Rules questions and bugs
 
 * Does writing actions on lines starting with "> " make them fail?
   Probably not necessarily. Thread: "[Registrar] May Zombie Auction"
@@ -106,11 +116,16 @@ up to 02:28 (UTC) on Sunday, and possibly a few more.
   IRRELEVANT, citing the responsibility of eir office to administer
   justice in a fair manner.
 
+* Does a pledge to perform an action cease to exist before its maker can
+  become guilty of not honouring it? R. Lee asks in the thread "Pledge
+  Bug". It also comes up in the thread "[proposal] Prior violations".
+
 
 # Miscellaneous
 
-* Jason gets eir last bid in the May zombie auction in just under the
-  wire. Thread: "[Registrar] May zombie auction status"
+* The May zombie auction ends. Jason gets eir last bid in just under the
+  wire. Threads: "[Registrar] May zombie auction status", "[Registrar]
+  End of May zombie auction"
 
 * Trigon appreciates Aris's draft Promotor reports. Thread: "[Promotor]
   Draft".
@@ -122,6 +137,12 @@ up to 02:28 (UTC) on Sunday, and possibly a few more.
 * Aris starts a discussion on what happened to the MUD, and there's some
   talk of organizing a time to meet there. Thread: "MUD Post Mortem".
 
-* Jason and Aris join the Dragon Corporation and Aris propose amendments
-  to make the office of President elected and to make the voting periods
-  shorter. Threads have "Dragon" in the subject line.
+* Three players join the Dragon Corporation. Aris proposes amendments to
+  make the office of President elected and to make the voting periods
+  shorter. Falsifian becomes president after buying the most shares.
+  Threads have "Dragon" in the subject line.
+
+* R. Lee announces intent to enter CFJ 3831 into moot. CFJ 3831 is about
+  whether Murphy's Notice of Honour with "-1 kudo" and "+1 kudo" worked.
+  There is discussion of the moot process and talk of bringing back an
+  appeals process. "Moot Attempt"
