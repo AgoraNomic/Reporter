@@ -1,13 +1,86 @@
 In progress.
 
 
+# New registrations
+
+* grok, who last played in 2017, re-registers and expresses interest in
+  judging cases. G. refers to em as the judge of the excellent CFJ 3514.
+
+* New player Bögtil registers.
+
+
 # Voting
+
+* Proposals 8377-8387 are resolved. Adopted proposals:
+
+  * 8377: Adjustments to the justice system: change the burden of proof,
+    and rename a couple of rules.
+
+  * 8379: Expand the conditions for winning by paradox.
+
+  * 8381: Award R. Lee the Patent Title of Money Launderer.
+
+  * 8386: Close a loophole for judges.
 
 * The Promotor points out the distribution of Proposal 8387 got somewhat
   close to being self-ratified.
 
 
-# Proposals
+# Culture
+
+* The Herald announces intent to award "Long Service Award" patent
+  titles, after receiving a list of long-term office holders from the
+  ADoP. Threads: "[Herald] Petition of the Associate Director of
+  Personnel", "[Herald, attn: PM, Speaker] Long Service Awards"
+
+petitions the ADoP to recommend candidate recipients of
+  Long Service Awards, and the ADoP responds with a list of long-term
+  office-holders.
+
+
+# Auctions and zombies
+
+* G. notices that auctions are broken because all auctions end
+  immediately. Thread: "Do all auctions end immediately?"
+
+  * Aris says it has been noticed before.
+
+  * grok proposes an interim fix while G. works on a larger auction
+    overhaul. Thread: "[Proposal] Auction End Clarification"
+
+* G. circulates some draft text for overhauling how auctions work, since
+  there have been many problems with them. Partial credit to earlier
+  language by Alexis. Thread: "Auction overhaul first cut"
+
+  * There's a side discussion about auctioning off switch states, since
+    zombie ownership is currently represented by switches. ais523
+    suggests allowing Agora to create Promises.
+
+    * G. drafts a proposal for relating assets to switches. Thread:
+      "keys".
+
+* Jason circulates draft text for handling zombie ownership with assets
+  instead of switches, which could simplify zombie auctions. The assets
+  are called talismans, after a contract Warrigal created earlier.
+  Thread: "[proto] Talismans"
+
+
+# Rules questions
+
+* Jason judges CFJ 3833; e circulated a draft last week.
+
+* Can Aris refer a proposal to a chamber using those words? P.S.S.
+  proposes to just add the definition to the rules.
+
+* G. submits a proposal that attempts to create a contract. Thread:
+  "Protos: Referral and High Crimes"
+
+* Murphy judges CFJ 3836 true: a CFJ R. Lee called would make em
+  eligible to win by paradox if it had a judgement of PARADOXICAL
+  assigned to it for seven days.
+
+
+# Other Proposals
 
 * Aris proposes an improvement to the definition of uncontested
   elections. Thread: "[Proposal] Elections Aren't Over Till They End"
@@ -35,14 +108,46 @@ In progress.
 * G. proposes a simplified replacement to the Moot process for CFJs.
   Thread: "[Proposal] Mooting moots"
 
-* nch circulates a new draft of eir proposal "Sets" for an economy with
+* nch circulates more versions of eir proposal "Sets" for an economy with
   different kinds of cards that can be converted to corresponding useful
-  assets.
+  assets. Threads have "Sets" in the subject line.
 
+  * One concern is to make sure it doesn't accidentally become
+    impossible to submit proposals (but for R1698).
 
-# Rules questions
+  * nch's proposal includes auctions of the Lost and Found Department's
+    possessions. There's concern this could lead to problems.
 
-* Jason judges CFJ 3833; e circulated a draft last week.
+  * nch withdraws their latest version of the proposal for now while
+    discussion continues. A tricky part to fix is the VP auction.
+
+* P.S.S. circulates a draft proposal based on eir "Treason" idea from
+  last week. Lots of discussion .Thread: "Protos: Referral and High
+  Crimes"
+
+* grok proposes to close a loophole where a Writ of FAGE can allow a
+  player to skip the 30-day window between deregistering and
+  reregistering. ais523 is quoted appealing to keep the loophole open
+  after last year's scam. Thread: "[Proposal] Cantus Counterscam"
+
+* G. proposes to define WILL as a shorthand combining "CAN once by
+  announcement" with "SHALL", leading to much debate. Thread: "Agora
+  willing"
+
+  * G. funds a contest for finding a concise definition of WILL. Thread:
+    "[Contest: Rule Golf] Re: Agora willing"
+
+  * As an alternative, Murphy proposes that "CAN and SHALL" implicitly
+    include "by announcement" as a default method.
+
+* Jason proposes to repeal Rule 2599, which defined Editorial
+  Guidelines, and which e wrote. Thread: "[proposal] RIP the editor"
+
+* R. Lee proposes to repeal twg's "Temporary CFJ Setup", Rule 2609, twg
+  having had two months and not used it, and also G.'s Rule 2597,
+  "Line-item Veto", which has been around for over a year without doing
+  much, though G. has called in the past for it to be kept. Thread:
+  "Short Proposal"
 
 
 # Contracts
@@ -55,9 +160,6 @@ In progress.
 
 # Miscellaneous
 
-* grok, who last played in 2017, re-registers and expresses interest in
-  judging cases. G. refers to em as the judge of the excellent CFJ 3514.
-
 * CFJ 3831 is entered into Moot (with 5 support, after time ran out for
   doing it with 4 support), and the decision to determine public
   confidence in the decision begins. Threads: "Moot Attempt", "[Arbitor]
@@ -65,3 +167,18 @@ In progress.
 
 * There's some fuss about karma, and Trigon is no longer interetsed in
   judging, in thread "[Proposal] Elections Aren't Over Till They End".
+
+* Discussion continues on using Agora's rules or judicial system for
+  things not directly relevant to Agora. Thread: "coherent vision for
+  Agora Nomic as an independent policing/judiciary force"
+
+* R. Lee is punished for violating eir pledge to top-post at most five
+  times over a million-year period. Thread: "It hasn't been 1 million
+  years yet"
+
+
+# History
+
+* G. recalls that a coin-destroying proposal was associated with the
+  scam that created the Town Fountain. Thread: "Protos: Referral and
+  High Crimes"
