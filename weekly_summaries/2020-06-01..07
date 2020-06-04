@@ -90,6 +90,8 @@ accounted for.
   winners have had a chance to claim their winnings. Thread: "a
   regulatory experiment (auctions)"
 
+* The June zombie auction begins.
+
 
 # Contracts
 
@@ -116,9 +118,22 @@ accounted for.
   Lime") and there's discussion in the thread "Question About Lime
   Ribbons".
 
-* The Promotor asks whether people would be interested in a second
-  distribution this week. Thread: "Possible Second Distribution [Attn.
-  Assessor]"
+* The Promotor plans to do a second distribution this week. Threads:
+  "Possible Second Distribution [Attn. Assessor]", "Administrative
+  Guidance Regarding Distribution Timetables"
+
+* On the thread "Aris Reshapes the Legislative Process", there's
+  discussion about writing rules about player intent, in the context of
+  banning "vote manipulation" to game Legislative Cards.
+
+  * This develops into a discussion about how seriously people take
+    Notices of Honour.
+
+    * Historical note: ais523 said the honour system used to be defined
+      by a contract.
+
+  * R. Lee proposes an amendment to the No Faking rule to not mention
+    intent.
 
 
 # Other Proposals
@@ -131,8 +146,9 @@ accounted for.
 * R. Lee proposes some fixes to pledges. Thread: "[Proposal] Small
   Pledge Amendments"
 
-* Aris proposes several changes to the rules on proposals, and receives
-  comments, in the thread "Aris Reshapes the Legislative Process"
+* Aris proposes several changes to the rules on proposals and how Legislative
+  Cards are earned, and receives comments, in the thread "Aris Reshapes the
+  Legislative Process"
 
 * Our H. Prime Minister proposes some new Executive Orders. (At least
   some them which had been discussed in a somewhat earlier thread.) G.
@@ -147,6 +163,17 @@ accounted for.
 * P.S.S. starts a discussion on removing references to rule numbers in
   other rules, and submits proposals, in the thread "No More Numbers!".
 
-* After others point out the Rulekeepor may be able to change rule ID
-  numbers, Falsifian proposes to prevent that to close a possible scam.
-  Thread: "Aris Reshapes the Legislative Process"
+* Stop the Rulekeepor from changing ID numbers or assigning the same ID
+  twice. Threads: "Aris Reshapes the Legislative Process", "Identity
+  theft protection act v1.1"
+
+* Aris proposes to make it free to pend proposals by certifying they are
+  bug fixes, leading to discussion about whether this could generate
+  CFJs. Thread: "Certifiable Patches"
+
+* Aris submits two proposals to remove punishments for being stuck in an
+  impractical or impossible situation. Thread: "New Defenses"
+
+* R. Lee proposes to allow the referee to issue zero-blot fines, saying
+  it will soon be harder to remove blots (under the new Sets economy).
+  Thread: "No Punishment For Nominal Crimes"
