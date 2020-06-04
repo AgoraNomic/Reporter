@@ -1,11 +1,62 @@
-Status: in progress. All messages up to 2020-06-02 at 18:46 UTC are
+Status: in progress. All messages up to 2020-06-04 at 00:32 UTC are
 accounted for.
+
+
+# Notes for summary
+
+* The week's busy enough the Promotor is considering a second
+  distribution.
 
 
 # Voting and Elections
 
 * ATMunn becomes a candidate for Notary. R. Lee withdraws and instead
-  tries to initiate an ADoP election, saying e wants that office.
+  tries to initiate elections for Promotor, ADoP, Assessor, Arbitor and
+  Registrar, saying e's interested in ADoP and Registrar, in the thread
+  "Election Time"
+
+* Voting begins on proposals 8405-8408:
+
+  * A small fix (8405)
+
+  * Replace the Line-item Veto rule with a Cabinet Order. (8406)
+
+    * After 8406 was composed, proposal 8400 repealed Line-item Veto.
+
+  * Repeal auction definitions and defer the mechanism to the auctineer
+    and Treasuror instead. (8407)
+
+  * A new game / economy! (8408)
+
+* The decisions on whether to adopt proposals 8388-8404 are resolved.
+  Adopted:
+
+  * The office of the Webmastor (8388)
+
+  * Strip old rule text including the Editor and Line-item Veto (8389,
+    8395, 8399, 8400)
+
+  * Make crimes are punishable according to the rules at the time of the
+    event (8392)
+
+  * Allow late nominations to otherwise uncontested elections. (8393)
+
+  * Ban zombies from office (8394; originally attempted in 8228)
+
+  * Fix auctions (8396)
+
+  * Define "to refer" (8397)
+
+  * Outlaw doing things that would harm Agora if it were not for R1698,
+    and introduce a new process for "high crimes" (8401, 8404)
+
+  * Bring back Promises (8402)
+
+
+# Culture and History
+
+* R. Lee pledges a bounty for filling in all the gaps in the CFJ
+  database in the years 2018 and 2019. Thread: "Pledge (attention COTC)"
 
 
 # Rules questions
@@ -19,6 +70,17 @@ accounted for.
   separate instances of earning that colour of ribbon? The Herald opines
   yes. Thread: "Long Service Awards".
 
+* Jason asks: Will the game of Agora ever end? Thread: "Is death
+  inevitable?"
+
+* Do actions and CFJs in Spanish work? ATMunn tries, and some past
+  examples of use of languages other than English are discussed. Thread:
+  "¿Puedo realizar acciónes en español?"
+
+* Can confusion about ID numbers invalidate a proposal distribution? The
+  Promoter opines it can't, in thread "Distribution of Proposals
+  8388-8404".
+
 
 # Auctions and zombies
 
@@ -29,9 +91,62 @@ accounted for.
   regulatory experiment (auctions)"
 
 
+# Contracts
+
+* Trigon circulates more drafts of the LoAFER contract for players who
+  want to help officers keep accurate records, and solicits preferences
+  from officers about how they would prefer messages requiring their
+  attention to be marked.
+
+* nch creates the Needlesly Abstract Exchange, a contract for trading,
+  and players join.
+
+
 # Miscellaneous
 
-* Trigon circulates a second draft of the LoAFER contract for players
-  who want to help officers keep accurate records.
-
 * Jason announces eir birthday and receives messages and coin grants.
+
+* Some players object to R. Lee's Flappy Bird tournament.
+
+* nch becomes Agora's first Webmastor (to my knowledge) and publishes
+  eir first report, Agora OnLine.
+
+* Should being an author rather than a co-author also help someone get a
+  Lime ribbon? R. Lee submits a proposal to make it so ("Proposal: Edit
+  Lime") and there's discussion in the thread "Question About Lime
+  Ribbons".
+
+* The Promotor asks whether people would be interested in a second
+  distribution this week. Thread: "Possible Second Distribution [Attn.
+  Assessor]"
+
+
+# Other Proposals
+
+* Aris submits a proposal, drafted earlier, reforming Agora's academic
+  system. Thread: "College of Letters, Arts, and Sciences"
+
+* Bug fix: "Promise Powers Patch".
+
+* R. Lee proposes some fixes to pledges. Thread: "[Proposal] Small
+  Pledge Amendments"
+
+* Aris proposes several changes to the rules on proposals, and receives
+  comments, in the thread "Aris Reshapes the Legislative Process"
+
+* Our H. Prime Minister proposes some new Executive Orders. (At least
+  some them which had been discussed in a somewhat earlier thread.) G.
+  responds with a proposal to allow any player to vacate the office of
+  Prime Minister whenever the Executive Orders rule is changed. Thread:
+  "Executive Expansion"
+
+* "Transmutation": nch proposes a rule allowing a player to transmute
+  any three Cards to a Card of a specified type. (Draft circulated last
+  week.)
+
+* P.S.S. starts a discussion on removing references to rule numbers in
+  other rules, and submits proposals, in the thread "No More Numbers!".
+
+* After others point out the Rulekeepor may be able to change rule ID
+  numbers, Falsifian proposes to prevent that to close a possible scam.
+  Thread: "Aris Reshapes the Legislative Process"
