@@ -1,4 +1,4 @@
-Status: in progress. All messages up to 2020-06-07 at 05:00 UTC are
+Status: in progress. All messages up to 2020-06-07 at 21:49 UTC are
 accounted for.
 
 
@@ -16,36 +16,67 @@ accounted for.
 # Voting and elections
 
 * ATMunn becomes a candidate for Notary, and R. Lee tries to withdraw
-  but it's pointed out there's no mechanism for doing that. Thread:
-  "Notary Election"
+  but it's pointed out there's no mechanism for doing that. Voting
+  begins. Threads: "Notary Election", "Notary Election Enters Next
+  phase"
 
   * P.S.S. proposes to add a mechanism for withdrawing candidacy
     (thread: "Termination of Candidacy").
 
-* R. Lee announces intent to initiate elections for Promotor, ADoP,
-  Assessor, Arbitor and Registrar, saying e's interested in ADoP and
-  Registrar, in the thread "Election Time", and later Prime Minister in
-  the thread "Prime Minister Election Attempt".
+  * R. Lee resigns as Notary.
 
-  * R. Lee announces intent to deputise to publish the ADoP report,
-    which would cause em to take the office from Murphy.
+* R. Lee takes the office of ADoP from Murphy by deputisation, and
+  initiates elections for Prime Minister, ADoP, and Webmastor.
 
-  * The Prime Minister intent gains traction; the current H. Prime
-    Minister says e will not run for a second term, in accordance with
-    tradition.
+  * The Prime Minister election was actually initiated before e took
+    over ADoP; e also attempted to start elections for Promotor, ADoP,
+    Assessor, Arbitor and Registrar, saying e's interested in ADoP and
+    Registrar. Threads: "Election Time", "Prime Minister Election
+    Attempt".
 
-* Voting begins on proposals 8405-8408:
+  * The current H. Prime Minister says e will not run for a second term,
+    in accordance with tradition.
 
-  * A small fix (8405)
+* Due to a large number of proposals in flight, there are two proposal
+  distributions this week. Voting begins on the following:
 
-  * Replace the Line-item Veto rule with a Cabinet Order. (8406)
+  * Proposals 8405-8408:
 
-    * After 8406 was composed, proposal 8400 repealed Line-item Veto.
+    * A small fix (8405)
 
-  * Repeal auction definitions and defer the mechanism to the auctineer
-    and Treasuror instead. (8407)
+    * Replace the Line-item Veto rule with a Cabinet Order. (8406)
 
-  * A new game / economy! (8408)
+      * After 8406 was composed, proposal 8400 repealed Line-item Veto.
+
+    * Repeal auction definitions and defer the mechanism to the auctineer
+      and Treasuror instead. (8407)
+
+    * A new game / economy! (8408)
+
+  * Proposals 8409-8430:
+
+    * Fixes and other small changes (8410, 8412, 8413, 8415, 8416, 8417,
+      8422, 8423, 8428)
+
+    * Academic reform (8409)
+
+    * New patent title about contracts (8411)
+
+    * Change ministry descriptions (8414)
+
+    * Define a new term "Referenda" for proposal decisions (8418)
+
+    * Define new executive orders (8419) but allow the Prime Minister to
+      be recalled when that happens (8420)
+
+    * Allow exchanging any 3 Cards for 1 of a specified type (8421)
+
+    * Allow pending fixes without paying a Pendant (8424)
+
+    * Decreasing or removing punishment in certain cases: (8425, 8426,
+      8427, 8429)
+
+    * Back-award the 2016 Silver Quill (8430)
 
 * The decisions on whether to adopt proposals 8388-8404 are resolved.
   Adopted:
@@ -97,11 +128,11 @@ accounted for.
   yes. Thread: "Long Service Awards".
 
 * Jason asks: Will the game of Agora ever end? Thread: "Is death
-  inevitable?"
+  inevitable?". This becomes CFJ 3839.
 
 * Do actions and CFJs in Spanish work? ATMunn tries, and some past
   examples of use of languages other than English are discussed. Thread:
-  "¿Puedo realizar acciónes en español?"
+  "¿Puedo realizar acciónes en español?". CFJs 3840 and 3841.
 
 * Can confusion about ID numbers invalidate a proposal distribution? The
   Promoter opines it can't, in thread "Distribution of Proposals
@@ -126,14 +157,15 @@ accounted for.
   from officers about how they would prefer messages requiring their
   attention to be marked.
 
-* nch creates the Needlesly Abstract Exchange, a contract for trading,
-  and players join. E later proposes an amendment.
+* nch creates the Needlesly Abstract Exchange, a contract for trading.
+  Players join and amendments are applied. Threads: "The Needlessly
+  Abstract Exchange" or others with "NAX" in the subject line.
 
 * Dragon Corporation President Aris announces that some new plans are
   afoot related to Sets. Subject: "State of the Dragon"
 
 
-# Honour, minor crimes; being nice to each other
+# Honour, minor crimes, being nice to each other, gaming
 
 * Some discussion of how seriously people take negative karma and
   punishment, and about treating each other well and how to handle
@@ -153,6 +185,14 @@ accounted for.
 
 * There's discussion about relaxing the rules on officer reports in the
   thread "No Punishment For Nominal Crimes".
+
+* Some emotions are shared on the thread "Distribution of Proposals
+  8409-8430", after Aris is accused of submitting proposals for money.
+  This leads to discussion of the benefits and downsides of offering
+  rewards for proposals.
+
+  * Aris later proposes to remove the AI multiplier from proposal
+    rewards in the thread "Proposal Reward Trimming".
 
 
 # Miscellaneous
@@ -188,6 +228,13 @@ accounted for.
   2020-05-11..17.)
 
 * Discussion begins on what to do for this year's birthday tournament.
+  It looks like Diplonomic is likely.
+
+* There's discussion of how best to choose terminology, in the thread
+  "Distribution of Proposals 8409-8430".
+
+  * G. posts some examples of old terminology, Nomic Properties. Thread:
+    "some ancient type language"
 
 
 # Proposals on proposals
@@ -240,6 +287,9 @@ accounted for.
 
 # Other proposals
 
+* R. Lee proposes a new patent title, Terms of Service, for fun or
+  impactful contracts. Subject: "Patent Title Proposal (just a fun one)"
+
 * Aris submits a proposal, drafted earlier, reforming Agora's academic
   system. Thread: "College of Letters, Arts, and Sciences"
 
@@ -288,3 +338,8 @@ accounted for.
 
 * Aris drafts a proposal laying groundwork for having multiple types of
   judicial cases. Thread: "Judicial Diversification"
+
+* Aris proposes to make motions of no confidence easier to pass, but to
+  say the Prime Minister shouldn't take it personally. This leads to
+  discussion about the right way to say that. Thread: "Moving Forward
+  With Confidence"
