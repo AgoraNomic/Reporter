@@ -1,0 +1,6 @@
+# Miscellaneous
+
+
+* There's discussion about threading being messed up for some messages,
+  possibly due to KMail's behaviour when changing a To: address. Thread:
+  "[NAX] Improved Amendment Procedures"
