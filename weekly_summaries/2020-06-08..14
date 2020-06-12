@@ -1,4 +1,4 @@
-Status: In progress. Covers all messages sent up to 2020-06-11 at 20:01
+Status: In progress. Covers all messages sent up to 2020-06-12 at 18:09
 UTC.
 
 
@@ -66,7 +66,13 @@ UTC.
   rolling"
 
   * There's some debate about phrasing triggering R2579 to make winning
-    require payment of 100 barrels.
+    require payment of 100 barrels, and whether winning the game is an
+    action.
+
+    * G. proposes to rephrase winning by paradox to be a new action
+      (Transcending Logic) which causes winning, to address potential
+      bugs related to fee-based actions and whether winning the game is
+      an action. Thread: "indirect wins"
 
   * There's discussion of ways players could collude to win.
 
@@ -77,10 +83,12 @@ UTC.
   related proposals, and whether this is an unavoidable part of starting
   a new system. Thread: "Victory auctions"
 
-  * Cuddle Beam proposes to ban scamming rules less than 90 days old.
+  * Cuddlebeam proposes to ban scamming rules less than 90 days old.
 
 * ATMunn drafts a proposal for "amulets" that are auctioned off and
-  grant powers.
+  grant powers. Discussion includes mention of an earlier proto "Stones"
+  by G., tuning the power of the amulets, and the possibility of an
+  unusual auction mechanism.
 
 
 # Miscellaneous
@@ -89,51 +97,43 @@ UTC.
   possibly due to KMail's behaviour when changing a To: address. Thread:
   "[NAX] Improved Amendment Procedures"
 
-* Cuddle Beam opens an "occult shop" selling "Mystical Items and
-  Spells". E attracks some customers. Thread: "humble agoran farmer
-  opens a humble agoran occult shop"
-
-  * Cuddle Beam also visits other threads to sell eir wares. ("Judicial
-    Diversification", "State of the Dragon")
-
-  * Falsifian attempts to get a CFJ judged PARADOXICAL, based on the
-    question of whether a purported anti-scam spell destroys its own
-    text.
-
-  * R. Lee Points er Finger at Cuddle Beam for Faking. This leads to
-    some comments on what exactly Cuddle Beam is selling. Thread: "Finger
-    Pointing at Cuddlebeam"
-
-    * The Referee finds the finger-pointing to be shenanegans because it
-      was too obvious to be misleading, and ais523 says this makes em
-      nostalgic because similar "too obviously false to be misleading"
-      arguments happened during a period in the past.
-
 * Aris and ATMunn indicate interest in judging cases. Thread: "Judicial
   Service"
 
 * The Reportor gets lovely compliments.
 
-* G. purports to ossify Agora, leading to: finger-pointing; the
-  initation of the indictment process for the High Crime of Engaging in
-  Forbidden Arts; bugs being found in that process; a proposal by P.S.S.
-  to fix the bugs; and a possible levying of a lesser fine for the same
-  conduct that might block the indictment from finally resulting in its
-  own fine. Thread: "criminal behavior"
-
-  * G. announces intent to deputise for Prime Minister to appoint emself
-    Speaker, which would have em hold all three offices in the priority
-    list for the Judge of the Indictment against em in R2619. Thread:
-    "criminal leadership"
-
-* Cuddle Beam attempts to hold Agora hostage with a contract that might
-  Agora's ruleset if anyone votes against a proposal that e wins (or
-  does something in a list of other conditions). Thread: "humble agoran
-  farmer sets up tripwire"
-
 * Aris objects to the ADoP's intent to flip the interest of Webmastor to
-  efficiency, arguing participation makes more sense. Thread: "Interest
-  intent"
+  efficiency, arguing participation makes more sense. The ADoP announces
+  intent to flip it to participation. Thread: "Interest intent"
+
+* The June zombie auction ends. Lets hope it worked this time!
+
+  * There's discussion about how the auction rules should work next
+    time, since it's expected the auction rules will be changed by then
+    to give a lot of leeway in how they're run.
+
+* Fun with nicknames:
+
+  * After Jason calls a CFJ that CFJ 3835 is G., G. changes eir nickname
+    to CFJ 3835. Thread: "[CFJs] on weird switch phrasing"
+
+  * G. submits a proposal that a player's legal nickname is the CFJ they
+    last judged (or Beverly). Thread: "can you believe nicknames are
+    entirely undefined?"
+
+    * R. Lee changes eir name to Proposal 8440.
+
+    * Trigon changes eir name to The Found and Lost Department.
+
+    * G., R. Lee and Trigon change their names back.
+
+  * The Rulekeepor dutifilly updates ruleset annotations to keep up with
+    the changes.
+
+* Cuddlebeam creates a themed contract to distribute Coins plundered
+  from the Lost and Found department, and announces intent to plunder
+  the coins without objection. Some people join. Thread: "humble agoran
+  farmer now has a pegleg and an eyepatch"
 
 
 # Other Proposals
@@ -172,12 +172,32 @@ UTC.
   announcement, since self-filed motions to reconsider can already be
   used to do that. Thread: "motion for extension"
 
+* R. Lee proposes to allow the Promotor to ignore "excess proposals",
+  meaning more than 6 from the same person in a week. Thread: "Excess
+  Proposals"
+
 
 # Contracts
 
-* Cuddle Beam amends eir occult shop contract to include tarot cards
-  with hashed fortunes. Thread: "humble agoran occultist now also does
-  fortune telling (pick a card!)"
+* Cuddlebeam opens an "occult shop" selling "Mystical Items and
+  Spells". E attracks some customers. Thread: "humble agoran farmer
+  opens a humble agoran occult shop"
+
+  * Cuddlebeam also visits other threads to sell eir wares. ("Judicial
+    Diversification", "State of the Dragon")
+
+  * R. Lee Points er Finger at Cuddlebeam for Faking. This leads to
+    some comments on what exactly Cuddlebeam is selling. Thread: "Finger
+    Pointing at Cuddlebeam"
+
+    * The Referee finds the finger-pointing to be shenanegans because it
+      was too obvious to be misleading, and ais523 says this makes em
+      nostalgic because similar "too obviously false to be misleading"
+      arguments happened during a period in the past.
+
+  * E later amends the contract to include tarot cards with hashed
+    fortunes. Thread: "humble agoran occultist now also does fortune
+    telling (pick a card!)"
 
 * Work continues on the LoAFER contract (League of Agorans Facilitating
   Accurate Recordkeeping). Threads have "LoAFER" in the subject line.
@@ -190,11 +210,48 @@ UTC.
     would be a great way to do equity without needing to change the
     rules.
 
-  * There's also a tangent about modifying the CFJ system to handle
-    contract arbitration.
+  * There are tangents about modifying the CFJ system to handle contract
+    arbitration, or having an officer handle it, and about limiting
+    finger-pointings.
 
 
-# Rules questions
+# Rules questions and testing the rules
+
+* Falsifian attempts to get a CFJ judged PARADOXICAL, based on the
+  question of whether a purported anti-scam spell sold by Cuddlebeam's
+  occult shop destroys its own text.
 
 * Do actions and CFJs in Spanish work? Jason judges CFJ 3841 after
   circulating a draft receiving comments.
+
+* G. purports to ossify Agora, leading to: finger-pointing; the
+  initation of the indictment process for the High Crime of Engaging in
+  Forbidden Arts; bugs being found in that process; a proposal by P.S.S.
+  to fix the bugs; and a possible levying of a lesser fine for the same
+  conduct that might block the indictment from finally resulting in its
+  own fine. Threads: "criminal behavior", "Indictment Fixes"
+
+  * G. announces intent to deputise for Prime Minister to appoint emself
+    Speaker, which would have em hold all three offices in the priority
+    list for the Judge of the Indictment against em in R2619. Thread:
+    "criminal leadership"
+
+* Cuddlebeam attempts to hold Agora hostage with a contract that might
+  Agora's ruleset if anyone votes against a proposal that e wins (or
+  does something in a list of other conditions). Thread: "humble agoran
+  farmer sets up tripwire"
+
+* Jason Points eir Finger at the Arbitor, G., for not assigning a judge
+  to and old CFJ because its judge (the Pineapple Partnership) ceased to
+  be a person long ago. G. does a bit of research on the history of the
+  Pineapple Partnership and CFJ rules at the time. Thread: "Pineapples
+  aren't people"
+
+  * G. proposes fixes. Threads: "v. quick judicial fix", "The
+    other fix"
+
+  * G. proposes a fix to a different possible problem. Thread: "help
+    help i'm prisoner in a proposal-writing factory"
+
+* Jason calls CFJs and argues that CFJ 3835 is G.. Thread: "[CFJs] on
+  weird switch phrasing"
