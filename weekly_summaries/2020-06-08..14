@@ -1,8 +1,67 @@
-Status: In progress. Covers all messages sent up to 2020-06-12 at 18:09
+Status: In progress. Covers all messages sent up to 2020-06-13 at 20:17
 UTC.
 
 
-# Voting
+# Games and the Sets Economy
+
+* The Sets economy (Proposal 8408) is adopted.
+
+* G. proposes a game built on the new Sets economy. Thread: "Barrel
+  rolling"
+
+  * There's some debate about phrasing triggering R2579 to make winning
+    require payment of 100 barrels, and whether winning the game is an
+    action.
+
+    * G. proposes to rephrase winning by paradox to be a new action
+      (Transcending Logic) which causes winning, to address potential
+      bugs related to fee-based actions and whether winning the game is
+      an action. Thread: "indirect wins"
+
+    * The question of whether winning the game should be an action comes
+      up in the thread "ribbon win question".
+
+  * There's discussion of ways players could collude to win.
+
+* G. proposes regular auctions of Victory Cards together with assets
+  owned by the Lost and Found Department. Thread: "Victory auctions"
+
+* There's some discussion about possible economic loopholes in Sets and
+  related proposals, and whether this is an unavoidable part of starting
+  a new system. Thread: "Victory auctions"
+
+  * Cuddlebeam proposes to ban scamming rules less than 90 days old.
+
+* ATMunn drafts a proposal for "amulets" that are auctioned off and
+  grant powers. Discussion includes mention of an earlier proto "Stones"
+  by G., tuning the power of the amulets, the possibility of an unusual
+  auction mechanism, and pooling resources.
+
+* Trading and pooling:
+
+  * The Needlessly Abstract Exchange gets tested out. Mistake(s) are
+    made and bugs are fixed. Threads have "NAX" in the subject line.
+
+  * Contracts for pooling cards to efficiently convert them to products:
+
+    * Aris announces DracoLotto, a pooling contract where the Dragon
+      Corporation contract earning some profit. Thread: "DracoLotto"
+
+    * R. Lee announces the Combinotron, which does not take a profit.
+      Thread: "[Important and Very Cool Contract] Combinotron"
+
+  * Cuddlebeam suggests making a contract to pool Coins for zombie
+    auctions, with the actual winner of the zombie paying the
+    contributors in cards. There's discussion of adding other uses of
+    Coins to the rules, other than zombie auctions. Thread: "Summoning
+    contract idea, with a doodle"
+
+  * Jason creates a Promise which would trade a granted Justice card for
+    a granted Legislative card. Thread: "[Promise] Legislative for
+    Justice"
+
+
+# Voting and Elections
 
 * Voting begins on Proposals 8431-8441:
 
@@ -31,8 +90,21 @@ UTC.
     * G. argues against it, leading to some changed votes, and and nch
       debates G.
 
+* The decisions on whether to adopt Proposals 8405-8408 are resolved.
+  Adopted:
+
+    * A small fix (8405)
+
+    * Repeal auction definitions and defer the mechanism to the auctineer
+      and Treasuror instead. (8407)
+
+    * A new game / economy called Sets. (8408)
+
 * The Prime Minister election enters the voting phase, with candidates
   R. Lee, nch and ATMunn.
+
+* The Webmastor and ADoP elections end with just one candidate each: nch
+  is Webmastor and R. Lee is ADoP. Thread: "Election Initiations"
 
 
 # Victory and Culture
@@ -60,37 +132,6 @@ UTC.
   decided by judges again, in the thread "Criminal Cases".
 
 
-# Games and the Sets Economy
-
-* G. proposes a game built on the new Sets economy. Thread: "Barrel
-  rolling"
-
-  * There's some debate about phrasing triggering R2579 to make winning
-    require payment of 100 barrels, and whether winning the game is an
-    action.
-
-    * G. proposes to rephrase winning by paradox to be a new action
-      (Transcending Logic) which causes winning, to address potential
-      bugs related to fee-based actions and whether winning the game is
-      an action. Thread: "indirect wins"
-
-  * There's discussion of ways players could collude to win.
-
-* G. proposes regular auctions of Victory Cards together with assets
-  owned by the Lost and Found Department. Thread: "Victory auctions"
-
-* There's some discussion about possible economic loopholes in Sets and
-  related proposals, and whether this is an unavoidable part of starting
-  a new system. Thread: "Victory auctions"
-
-  * Cuddlebeam proposes to ban scamming rules less than 90 days old.
-
-* ATMunn drafts a proposal for "amulets" that are auctioned off and
-  grant powers. Discussion includes mention of an earlier proto "Stones"
-  by G., tuning the power of the amulets, and the possibility of an
-  unusual auction mechanism.
-
-
 # Miscellaneous
 
 * There's discussion about threading being messed up for some messages,
@@ -106,11 +147,18 @@ UTC.
   efficiency, arguing participation makes more sense. The ADoP announces
   intent to flip it to participation. Thread: "Interest intent"
 
-* The June zombie auction ends. Lets hope it worked this time!
+* Zombies and zombie auctions:
 
-  * There's discussion about how the auction rules should work next
-    time, since it's expected the auction rules will be changed by then
-    to give a lot of leeway in how they're run.
+  * The June zombie auction ends. Lets hope it worked this time!
+
+    * There's discussion about how the auction rules should work next
+      time, since it's expected the auction rules will be changed by
+      then to give a lot of leeway in how they're run.
+
+  * Jason circulates an updated draft of eir Talismans proto in the
+    thread "Talismans (hopefully) final draft" after G. points out in
+    the thread "zombie auctions broken again" that the zombie auction
+    rules need to be updated.
 
 * Fun with nicknames:
 
@@ -130,10 +178,18 @@ UTC.
   * The Rulekeepor dutifilly updates ruleset annotations to keep up with
     the changes.
 
-* Cuddlebeam creates a themed contract to distribute Coins plundered
-  from the Lost and Found department, and announces intent to plunder
-  the coins without objection. Some people join. Thread: "humble agoran
-  farmer now has a pegleg and an eyepatch"
+* Cuddlebeam creates a pirate-themed contract to distribute Coins
+  plundered from the Lost and Found department, and announces intent to
+  plunder the coins without objection. Some people join. Threads:
+  "humble agoran farmer now has a pegleg and an eyepatch", "Piracy",
+  "Changing my nickname to R."
+
+* Jason suggests archiving nomic-related pages from the Wayback Machine,
+  in case the Internet Archive is sued out of existence. Thread: "Agora
+  OnLine"
+
+* There's discussion of Cuddlebeam's Agoran birthday in the thread
+  "humble agoran farmer's birthday".
 
 
 # Other Proposals
@@ -176,8 +232,13 @@ UTC.
   meaning more than 6 from the same person in a week. Thread: "Excess
   Proposals"
 
+* There's some discussion of Proposal 8410, "Promise Powers Patch", in
+  the voting thread ("Distribution of Proposals 8409-8430").
+
 
 # Contracts
+
+See also: "Trading and pooling" under Games and the Sets Economy.
 
 * Cuddlebeam opens an "occult shop" selling "Mystical Items and
   Spells". E attracks some customers. Thread: "humble agoran farmer
@@ -214,15 +275,19 @@ UTC.
     arbitration, or having an officer handle it, and about limiting
     finger-pointings.
 
+* Presumptive Notary ATMunn asks whether we care about having precise
+  timestamps in eir report.
+
 
 # Rules questions and testing the rules
 
 * Falsifian attempts to get a CFJ judged PARADOXICAL, based on the
   question of whether a purported anti-scam spell sold by Cuddlebeam's
-  occult shop destroys its own text.
+  occult shop destroys its own text. Thread: "humble agoran farmer opens
+  a humble agoran occult shop". This becomes CFJ 3842.
 
 * Do actions and CFJs in Spanish work? Jason judges CFJ 3841 after
-  circulating a draft receiving comments.
+  circulating a draft receiving comments, and G. judges CFJ 3840.
 
 * G. purports to ossify Agora, leading to: finger-pointing; the
   initation of the indictment process for the High Crime of Engaging in
@@ -238,8 +303,8 @@ UTC.
 
 * Cuddlebeam attempts to hold Agora hostage with a contract that might
   Agora's ruleset if anyone votes against a proposal that e wins (or
-  does something in a list of other conditions). Thread: "humble agoran
-  farmer sets up tripwire"
+  does something in a list of other conditions). Aris calls CFJs 3843
+  and 3844. Thread: "humble agoran farmer sets up tripwire"
 
 * Jason Points eir Finger at the Arbitor, G., for not assigning a judge
   to and old CFJ because its judge (the Pineapple Partnership) ceased to
@@ -253,5 +318,17 @@ UTC.
   * G. proposes a fix to a different possible problem. Thread: "help
     help i'm prisoner in a proposal-writing factory"
 
-* Jason calls CFJs and argues that CFJ 3835 is G.. Thread: "[CFJs] on
-  weird switch phrasing"
+* Jason calls CFJs 3845 and 3846 and argues that CFJ 3835 is G.. Thread:
+  "[CFJs] on weird switch phrasing"
+
+* If an impure person Raises a Banner, is eir Ribbon Ownership reset
+  even though e does not win the game? G. calls CFJ 3847. Thread:
+  "ribbon win question"
+
+* Can actions work when people use the wrong words? P.S.S. judges CFJ
+  3831 (about "kudos" for karma) and CFJ 3838 (about "shinies" for
+  coins) both TRUE. CFJ 3831 was previously judged FALSE and then
+  entered into moot.
+
+  * G. raises concerns with the judgement, about terms keeping their
+    meanings around after the rules stop defining them.
