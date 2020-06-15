@@ -42,13 +42,19 @@ UTC.
   * The Needlessly Abstract Exchange gets tested out. Mistake(s) are
     made and bugs are fixed. Threads have "NAX" in the subject line.
 
-  * Contracts for pooling cards to efficiently convert them to products:
+  * Contracts for pooling Cards to efficiently convert them to Products:
 
     * Aris announces DracoLotto, a pooling contract where the Dragon
-      Corporation contract earning some profit. Thread: "DracoLotto"
+      Corporation contract earning some profit. Same players contribute.
+      Thread: "DracoLotto"
 
-    * R. Lee announces the Combinotron, which does not take a profit.
-      Thread: "[Important and Very Cool Contract] Combinotron"
+    * R. Lee announces the Combinotron, which does not take a profit. E
+      later reveals it to be an attempted scam and destroys it,
+      forgetting that e had transferred some of eir assets to it, which
+      go to the Lost and Found Department (L&FD). Discussion turns to a
+      question about specifying assets when announcing intent to
+      transfer assets from the L&FD. Threads: "[Important and Very Cool
+      Contract] Combinotron", 'Fine, I destroy "Combinotron"'
 
   * Cuddlebeam suggests making a contract to pool Coins for zombie
     auctions, with the actual winner of the zombie paying the
@@ -115,7 +121,8 @@ UTC.
   * There is some discussion about using latin in official
     proclamations.
 
-* G. wins by raising a banner. Thread: "on to World 1-4"
+* G. wins by raising a banner. Threads: "on to World 1-4", "Hear ye,
+  hear ye! A new Champion!"
 
 
 # Justice reforms
@@ -180,16 +187,30 @@ UTC.
 
 * Cuddlebeam creates a pirate-themed contract to distribute Coins
   plundered from the Lost and Found department, and announces intent to
-  plunder the coins without objection. Some people join. Threads:
-  "humble agoran farmer now has a pegleg and an eyepatch", "Piracy",
-  "Changing my nickname to R."
+  plunder the coins without objection. Some people join and an amendment
+  to the amendment process is proposed. Threads: "humble agoran farmer
+  now has a pegleg and an eyepatch", "Piracy", "Changing my nickname to
+  R."
 
 * Jason suggests archiving nomic-related pages from the Wayback Machine,
   in case the Internet Archive is sued out of existence. Thread: "Agora
   OnLine"
 
-* There's discussion of Cuddlebeam's Agoran birthday in the thread
-  "humble agoran farmer's birthday".
+* Birthdays:
+
+  * There's discussion of Cuddlebeam's Agoran birthday in the thread
+    "humble agoran farmer's birthday".
+
+  * R. Lee and nch figure out their birthdays, and it's suggested the
+    Registrar could highlight upcoming birthdays, in the thread "Agora
+    Birthday".
+
+* Are precise timestamps useful in reports? Thread: "timestamps"
+
+* Agorans start adding long strings of honorifics to their signatures.
+  See thread "Amendment: Fixing Fulfillment and Mess Cleaning".
+
+* R. Lee bribes the Tailor for a Grey ribbon. Thread: "PSS: Bribery"
 
 
 # Other Proposals
@@ -260,16 +281,17 @@ See also: "Trading and pooling" under Games and the Sets Economy.
     fortunes. Thread: "humble agoran occultist now also does fortune
     telling (pick a card!)"
 
-* Work continues on the LoAFER contract (League of Agorans Facilitating
-  Accurate Recordkeeping). Threads have "LoAFER" in the subject line.
+* The LoAFER contract (League of Agorans Facilitating Accurate
+  Recordkeeping) is created after (and before) more revising, and
+  players join. Threads have "LoAFER" in the subject line.
 
-* Jason drafts a contract for handling arbitration related to other
-  contracts. Thread: "Arbitration"
+* Jason creates a contract for handling arbitration related to other
+  contracts. Threads: "Arbitration", "AAA open for business"
 
-  * Discussion turns to having game mechanics be put in contracts
-    instead of in the rules, starting with ais523 saying a contract
-    would be a great way to do equity without needing to change the
-    rules.
+  * Discussion in the first thread ("Arbitration") turns to having game
+    mechanics be put in contracts instead of in the rules, starting with
+    ais523 saying a contract would be a great way to do equity without
+    needing to change the rules.
 
   * There are tangents about modifying the CFJ system to handle contract
     arbitration, or having an officer handle it, and about limiting
@@ -278,13 +300,18 @@ See also: "Trading and pooling" under Games and the Sets Economy.
 * Presumptive Notary ATMunn asks whether we care about having precise
   timestamps in eir report.
 
+* Cuddlebeam creates a contract for players to make agreements to pay
+  each other when Cards and Products are reset following a Victory Point
+  victory. Thread: "humble agoran farmer cRoSsEs tHe VoId"
+
 
 # Rules questions and testing the rules
 
 * Falsifian attempts to get a CFJ judged PARADOXICAL, based on the
   question of whether a purported anti-scam spell sold by Cuddlebeam's
   occult shop destroys its own text. Thread: "humble agoran farmer opens
-  a humble agoran occult shop". This becomes CFJ 3842.
+  a humble agoran occult shop". This becomes CFJ 3842, and R. Lee judges
+  it FALSE.
 
 * Do actions and CFJs in Spanish work? Jason judges CFJ 3841 after
   circulating a draft receiving comments, and G. judges CFJ 3840.
@@ -322,8 +349,8 @@ See also: "Trading and pooling" under Games and the Sets Economy.
   "[CFJs] on weird switch phrasing"
 
 * If an impure person Raises a Banner, is eir Ribbon Ownership reset
-  even though e does not win the game? G. calls CFJ 3847. Thread:
-  "ribbon win question"
+  even though e does not win the game? G. calls CFJ 3847 and ATMunn
+  judges it TRUE. Threads: "ribbon win question", "CFJ 8347 found TRUE"
 
 * Can actions work when people use the wrong words? P.S.S. judges CFJ
   3831 (about "kudos" for karma) and CFJ 3838 (about "shinies" for
@@ -332,3 +359,10 @@ See also: "Trading and pooling" under Games and the Sets Economy.
 
   * G. raises concerns with the judgement, about terms keeping their
     meanings around after the rules stop defining them.
+
+* If I announce intent to transfer all the Coins owned by the Lost and
+  Found Department, does that mean all the Coins owned now or when I act
+  on that intent? Jason brings this up in the thread 'Fine, I destroy
+  "Combinotron"'
+
+* Will the game of Agora ever end? nch judges CFJ 3839 DISMISS.
