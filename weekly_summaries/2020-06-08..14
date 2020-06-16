@@ -1,8 +1,7 @@
-Status: In progress. Covers all messages sent up to 2020-06-14 at 17:28
-UTC, inclusive.
+Status: The report covers the full week, but still needs a summary.
 
 
-# Polls, putting things on the web, and a new person
+# Polls, report formats, putting things on the web, and a new person
 
 * The Webmastor asks some questions to Agorans. Thread: "[Webmastor]
   Informal Polling"
@@ -24,6 +23,9 @@ UTC, inclusive.
 
 * The Webmastor makes some small updates to the homepage. Thread:
   "[Webmastor] Tiny Homepage Updates"
+
+* A tweak to the Assessor's assessment format is suggested and
+  implemented in the thread "Resolution of Proposals 8409-8430"
 
 
 # Games and the Sets Economy
@@ -90,6 +92,11 @@ UTC, inclusive.
     a granted Legislative card. Thread: "[Promise] Legislative for
     Justice"
 
+* Cuddlebeam asks who's aiming for Victory Points, and there's
+  discussion about the economic reset that comes with a Victory Points
+  win, and whether people may therefore try to prevent such wins, in the
+  thread "Who is aiming for Victory Cards/Points?"
+
 
 # Voting and Elections
 
@@ -120,8 +127,9 @@ UTC, inclusive.
     * G. argues against it, leading to some changed votes, and and nch
       debates G.
 
-* The decisions on whether to adopt Proposals 8405-8408 are resolved.
-  Adopted:
+* Decisions on whether to adopt proposals are resolved.
+
+  * Adopted among  Proposals 8405-8408:
 
     * A small fix (8405)
 
@@ -130,11 +138,36 @@ UTC, inclusive.
 
     * A new game / economy called Sets. (8408)
 
+  * Adopted among Proposals 8409-8430:
+
+    * Fixes and other small changes (8410, 8412, 8413, 8415, 8416, 8417,
+      8422, 8423, 8428)
+
+    * Academic reform (8409)
+
+    * New patent title about contracts (8411)
+
+    * Define a new term "Referenda" for proposal decisions (8418)
+
+    * Allow exchanging any 3 Cards for 1 of a specified type (8421)
+
+    * Allow pending fixes without paying a Pendant (8424)
+
+    * Decreasing or removing punishment in certain cases: (8425, 8426,
+      8427, 8429)
+
+    * Back-award the 2016 Silver Quill (8430)
+
 * The Prime Minister election enters the voting phase, with candidates
   R. Lee, nch and ATMunn.
 
 * The Webmastor and ADoP elections end with just one candidate each: nch
   is Webmastor and R. Lee is ADoP. Thread: "Election Initiations"
+
+* The previous ADoP, Murphy (before R. Lee took the office by
+  deputisation) returns to the game. E disputes R. Lee's salary records.
+  E attempts to become a candidate for the ADoP election, but it is too
+  late. Thread: "[ADoP] Salaries"
 
 
 # Victory and Culture
@@ -237,6 +270,10 @@ UTC, inclusive.
 
 * R. Lee bribes the Tailor for a Grey ribbon. Thread: "PSS: Bribery"
 
+* Aris reminds players that contracts can include secret text, and
+  there's discussion about whether that's needed to prevent betrayal in
+  secret deals, in the thread "[PSA] Secret Pacts"
+
 
 # Other Proposals
 
@@ -306,6 +343,9 @@ See also: "Trading and pooling" under Games and the Sets Economy.
     fortunes. Thread: "humble agoran occultist now also does fortune
     telling (pick a card!)"
 
+  * Murphy purports to buy a Scam Summoning Ritual for 0 coins (price
+    listed as 30 Coins).
+
 * The LoAFER contract (League of Agorans Facilitating Accurate
   Recordkeeping) is created after (and before) more revising, and
   players join. Threads have "LoAFER" in the subject line.
@@ -329,8 +369,14 @@ See also: "Trading and pooling" under Games and the Sets Economy.
   each other when Cards and Products are reset following a Victory Point
   victory. Thread: "humble agoran farmer cRoSsEs tHe VoId"
 
+  * E later destroys the contract in the thread "Who is aiming for
+    Victory Cards/Points?"
+
 * nch and R. Lee form a contract to pool resources in the thread
   "[Contract] Co Dependents".
+
+* Cuddlebeam transfers eir assets to a Cuddlebeam-only contract as
+  safety against scams. Thread: "humble agoran farmer’s locker"
 
 
 # Rules questions and testing the rules
@@ -360,6 +406,12 @@ See also: "Trading and pooling" under Games and the Sets Economy.
   Agora's ruleset if anyone votes against a proposal that e wins (or
   does something in a list of other conditions). Aris calls CFJs 3843
   and 3844. Thread: "humble agoran farmer sets up tripwire"
+
+  * Murphy judges CFJ 3843 FALSE: the Bazinga is not a destructible
+    private asset, because contract-backed assets only work when they
+    exist solely because the contract defines them. E judges CFJ 3844
+    DISMISS: speculating on what destroying the Bazinga would do is
+    overly hypothetical since it's not an asset.
 
 * Jason Points eir Finger at the Arbitor, G., for not assigning a judge
   to and old CFJ because its judge (the Pineapple Partnership) ceased to
@@ -397,3 +449,8 @@ See also: "Trading and pooling" under Games and the Sets Economy.
   "Combinotron"'
 
 * Will the game of Agora ever end? nch judges CFJ 3839 DISMISS.
+
+* Can G. earn a second Legislative Card for the same proposal because
+  the criteria in Rule 2623 were amended since? Also, what does "once"
+  mean in the new rule text, when overlapping 7-day windows are
+  possible? Thread: "PPPPPowerup"
