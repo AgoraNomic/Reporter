@@ -1,8 +1,34 @@
-Status: In progress. Currently covers all messages through 2020-06-16 at
-20:06 UTC.
+Status: In progress. Currently covers all messages through 2020-06-19 at
+04:01 UTC.
 
 
-# Offices and reports
+# Voting, and adoption of proposals
+
+* The decisions on whether to adopt Proposals 8431-8441 are resolved.
+  Adopted:
+
+  * Reduce rewards for high-AI proposals (8431)
+
+  * Lower the bar for motions of no confidence, and stress they're not
+    personal (8434, 8435)
+
+  * Remove much of the Defense Against the Dark Arts rule (8437)
+
+  * Give the Tailor an official weekly reporting duty (8438)
+
+  * Allow election candidates to withdraw (8439)
+
+* The Rulekeepor identifies bugs in Proposals 8412, 8426 and 8429 that
+  prevent them from being applied. Thread: "Notes on Application of
+  Proposals 8409-8430"
+
+
+  * R. Lee proposes fixes. Thread: "Rulekeeping Bug Fixes"
+
+
+# Offices, reports, website
+
+* nch is installed as our new Prime Minister.
 
 * ATMunn is elected Notary unanimously and gives the report a new look.
 
@@ -12,12 +38,26 @@ Status: In progress. Currently covers all messages through 2020-06-16 at
 
   * Aris writes a satirically bad campaign pitch.
 
-* The Treasuror gives an update on eir new report format, then another
-  preview. Threads: "[Treasuror] New Report Format", "Draft report
-  feedback"
+* The Treasuror gives an update on eir new report format, then more
+  previews. Threads: "[Treasuror] New Report Format", "Draft report
+  feedback", "Final unofficial draft"
 
 * The ADoP flips the interest of the new office Webmastor to
   Participation.
+
+* nch circulates some draft regulations for Agora's Github org.
+
+* The Assessor announces historical archives are on the web. Url:
+  https://agoranomic.org/assessor/ Thread: "Historical links now on web
+  archive"
+
+
+
+* The Webmastor announces reports are now online at
+  https://agoranomic.org/Webmastor/ . Thread: "AgoraOnline is now
+  Online"
+
+
 
 
 # Victory and Culture
@@ -30,8 +70,30 @@ Status: In progress. Currently covers all messages through 2020-06-16 at
 * Murphy proposes to simplify ribbon ownership switches. Thread: "Proto:
   Simpler ribbon switches"
 
+* After G. gets an Ultraviolet Ribbon for Raising a Banner, there's
+  discussion of ruling out that way of getting Ultraviolet (since it
+  means almost every ribbon can immediately be followed by re-earning
+  Ultraviolet). Thread: "re-tailor"
 
-# Contracts
+
+
+
+* Jason proposes to change the definition of "fee-based actions" to
+  "fee-based mechanisms" to avoid a possible bug where an actiong being
+  fee-based means the fee is associated with all methods for the action.
+  Thread: "Non-fee based mechanisms for fee-based actions"
+
+
+# Other Proposals
+
+* Jason pends a proposal, drafted earlier, to track zombies with assets
+  instead of switches. Thread: "Talismans"
+
+* ATMunn drafts a proposal for a Deck with a fee for drawing cards.
+  Thread: "What's a card game without a deck?"
+
+
+# Contracts and Trading
 
 * R. Lee and nch amend their "Co Dependants" contract to use the Agoran
   Arbitration Association, leading to a bit of discussion on what the
@@ -39,6 +101,31 @@ Status: In progress. Currently covers all messages through 2020-06-16 at
 
 * R. Lee buys five Tarot cards from Cuddlebeam, who reveals their texts.
   Thread: "Tarot"
+
+* The Plunder Partnership:
+
+  * Cuddlebeam finds a possible bug which may have prevented everyone
+    else from joining. Thread: "Honor among Pirates"
+
+    * E attempts to amend the contract so others can join.
+
+    * R. Lee calls CFJs. Thread: "Plunder Partnership"
+
+  * There's some discussion in the thread 'Fine, I destroy "Combinotron"'.
+
+* P.S.S. takes up Jason on eir Legislative for Justice promise-based
+  trade. It takes some tries to get the mechanics right. Thread:
+  "[Promise] Legislative for Justice"
+
+* The DracoLotto pools close after more players pay in Cards. Thread:
+  "DracoLotto"
+
+* Jason makes what may be the first card to product conversion,
+  converting three Legislative Cards into six Pendants. Thread:
+  "Legislative Card cashing"
+
+* Murphy creates the "Card Collective Contract, Agoran" or "CCCA", which
+  is another way to pool Cards to be converted into Products.
 
 
 # Rules questions
@@ -52,9 +139,33 @@ Status: In progress. Currently covers all messages through 2020-06-16 at
   Cuddlebeam announces a new intent. Thread: 'Fine, I destroy
   "Combinotron"'
 
+* What wordings work for "acting as emself" type conditions? Thread:
+  "humble agoran farmer’s locker"
+
+* What happens if you create a new contract saying you can't be a member
+  of it? Thread: "sanity clause"
+
+* Should a revision published in response to a CoE be back-dated to the
+  same date as the original report, or should it include new events?
+  (Maybe a practical question as well as a rules question.) Thread: "CoE
+  question"
+
+* Judge Aris is considering overturning a recent judicial decision
+  related to use of language and trying to develop unifying logic for
+  past standards. Thread: "CFJs 3831 and 3838 judged TRUE"
+
 
 # Miscellaneous
 
 * Murphy objects to all intents to transfer assets from the Lost and
   Found Department, and new intents are announced, in the thread 'Fine,
   I destroy "Combinotron"'
+
+* G. starts a discussion on whether methods for winning in the Rules
+  should say the player directly wins (as an action) or performs some
+  other action that causes em to win. Thread: "winning - more direct or
+  less direct?"
+
+* Does announcing intent to completely mess up the rules count as an
+  "attempt" under the Defense Against the Dark Arts rule? Thread: "Minor
+  cleaning"

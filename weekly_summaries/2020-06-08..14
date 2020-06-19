@@ -143,6 +143,9 @@ Status: The report covers the full week, but still needs a summary.
     * Fixes and other small changes (8410, 8412, 8413, 8415, 8416, 8417,
       8422, 8423, 8428)
 
+      * (In the following week, the Rulekeepor identified bugs allegedly
+        preventing 8412 from being applied.)
+
     * Academic reform (8409)
 
     * New patent title about contracts (8411)
@@ -155,6 +158,9 @@ Status: The report covers the full week, but still needs a summary.
 
     * Decreasing or removing punishment in certain cases: (8425, 8426,
       8427, 8429)
+
+      * (In the following week, the Rulekeepor identified a bug allegedly
+        preventing 8429 from being applied, and maybe .)
 
     * Back-award the 2016 Silver Quill (8430)
 
