@@ -1,5 +1,5 @@
 Status: In progress. Currently covers all messages through 2020-06-19 at
-04:01 UTC.
+14:45 UTC.
 
 
 # Voting, and adoption of proposals
@@ -33,13 +33,15 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
 
 * R. Lee initiates an election for ADoP because the previous ADoP,
   Murphy, wants the office back from em. They publish their campaign
-  pitches. Thread: "ADoP Initiating Election"
+  pitches and voting begins. Threads: "ADoP Initiating Election", "ADoP
+  election enters next phase
 
   * Aris writes a satirically bad campaign pitch.
 
-* The Treasuror gives an update on eir new report format, then more
-  previews. Threads: "[Treasuror] New Report Format", "Draft report
-  feedback", "Final unofficial draft"
+* The Treasuror redoes eir report format to accommodate Cards and
+  Products, and includes a web version. Threads: "[Treasuror] New Report
+  Format", "Draft report feedback", "Final unofficial draft",
+  "[Treasuror] [Weekly Report] The long anticipated Forbes 493"
 
 * The ADoP flips the interest of the new office Webmastor to
   Participation.
@@ -74,6 +76,10 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   "fee-based mechanisms" to avoid a possible bug where an actiong being
   fee-based means the fee is associated with all methods for the action.
   Thread: "Non-fee based mechanisms for fee-based actions"
+
+* Jason proposes to future-proof the Black ribbon rule against the possibility
+  of contracts and regulations becoming Instruments. Thread: "Black
+  ribbon patch"
 
 
 # Other Proposals
@@ -148,6 +154,10 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   related to use of language and trying to develop unifying logic for
   past standards. Thread: "CFJs 3831 and 3838 judged TRUE"
 
+* Does being Rulekeepor satisfy the "relates to a) an office e holds"
+  condition for certifying patches for every rule, just because the
+  Rulekeepor is responsible for rules? Thread: "Black ribbon patch"
+
 
 # Miscellaneous
 
@@ -163,3 +173,11 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
 * Does announcing intent to completely mess up the rules count as an
   "attempt" under the Defense Against the Dark Arts rule? Thread: "Minor
   cleaning"
+
+* Can one bar a player from a CFJ in a message separate from the one
+  calling the CFJ? Thread: "Black ribbon patch"
+
+* Would Jason's Talismans proposal make every Talisman a separate class
+  of asset? Thread: "classy assets". (This is relevant because the
+  Treasuror needs to list the classes of assets in eir report, as
+  discussed in a thread this week on Treasuror reports.)
