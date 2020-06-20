@@ -1,5 +1,5 @@
-Status: In progress. Currently covers all messages through 2020-06-19 at
-14:45 UTC.
+Status: In progress. Currently covers all messages through 2020-06-20 at
+18:54 UTC.
 
 
 # Voting, and adoption of proposals
@@ -43,6 +43,10 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   Format", "Draft report feedback", "Final unofficial draft",
   "[Treasuror] [Weekly Report] The long anticipated Forbes 493"
 
+  * E gets some feedback, and corrections, and there's discussion about
+    why the Treasuror is required to publish a list of all public
+    classes of assets.
+
 * The ADoP flips the interest of the new office Webmastor to
   Participation.
 
@@ -77,9 +81,15 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   fee-based means the fee is associated with all methods for the action.
   Thread: "Non-fee based mechanisms for fee-based actions"
 
-* Jason proposes to future-proof the Black ribbon rule against the possibility
-  of contracts and regulations becoming Instruments. Thread: "Black
-  ribbon patch"
+* Jason proposes to future-proof the Black ribbon rule against the
+  possibility of contracts and regulations becoming Instruments. Thread:
+  "Black ribbon patch"
+
+* nch proposes a change to the certification system in the thread "Ready
+  Proposals" (also listed in the Certification debate section).
+
+  * Here, there is some more general discussion about the idea of
+    charging for proposals.
 
 
 # Other Proposals
@@ -88,12 +98,13 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   instead of switches. Thread: "Talismans"
 
 * ATMunn drafts a proposal for a Deck with a fee for drawing cards.
-  Thread: "What's a card game without a deck?"
+  Thread: "What's a card game without a deck?". Discussion topics
+  include lessons from a past card game with a deck, discussion of
+  having different officers in charge of tracking different currencies,
+  and using the Deck idea to regulate the echonomy.
 
-  * Lessons from a past card game with a deck are relayed.
 
-
-# Contracts and Trading
+# Contracts and trading
 
 * R. Lee and nch amend their "Co Dependants" contract to use the Agoran
   Arbitration Association, leading to a bit of discussion on what the
@@ -104,18 +115,23 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
 
 * The Plunder Partnership:
 
-  * Cuddlebeam finds a possible bug which may have prevented everyone
-    else from joining. Thread: "Honor among Pirates"
+  * Cuddlebeam finds a possible bug: a lack of method, which may have
+    prevented everyone else from joining. Thread: "Honor among Pirates"
 
     * E attempts to amend the contract so others can join.
 
-    * R. Lee calls CFJs. Thread: "Plunder Partnership"
+    * R. Lee calls CFJs 3849 and 3850. Thread: "Plunder Partnership".
+      Judge G. drafts a preliminary judgement finding that people were
+      in fact able to join.
 
   * There's some discussion in the thread 'Fine, I destroy "Combinotron"'.
 
 * P.S.S. takes up Jason on eir Legislative for Justice promise-based
   trade. It takes some tries to get the mechanics right. Thread:
   "[Promise] Legislative for Justice"
+
+  * Later there's some work ironing out what happened, in the thread
+    "The long anticipated Forbes 493".
 
 * The DracoLotto pools close after more players pay in Cards. Thread:
   "DracoLotto"
@@ -126,6 +142,15 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
 
 * Murphy creates the "Card Collective Contract, Agoran" or "CCCA", which
   is another way to pool Cards to be converted into Products.
+
+* ATMunn creates a contract involving buying and growing banana trees
+  and selling the resulting bananas to take money back from the
+  contract. Thread: "We all need some bananas in our lives"
+
+* Trigon creates six contracts that involve agreeing to perform actions
+  matching hashes published in the contracts. E makes no promises the
+  actions don't just steall all your stuff.is Thread: "Six secret
+  contracts"
 
 
 # Rules questions
@@ -139,11 +164,27 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   Cuddlebeam announces a new intent. Thread: 'Fine, I destroy
   "Combinotron"'
 
+* Does announcing intent to completely mess up the rules count as an
+  "attempt" under the Defense Against the Dark Arts rule? Thread: "Minor
+  cleaning"; CFJ: 3851
+
+* Can one bar a player from a CFJ in a message separate from the one
+  calling the CFJ? Thread: "Black ribbon patch"
+
+* Would Jason's Talismans proposal make every Talisman a separate class
+  of asset? Thread: "classy assets"; CFJ 3852. (This is relevant because
+  the Treasuror needs to list the classes of assets in eir report, as
+  discussed in a thread this week on Treasuror reports.)
+
 * What wordings work for "acting as emself" type conditions? Thread:
   "humble agoran farmer’s locker"
 
+* What happens if a contract says you can join but doesn't give a
+  method? See "The Plunder Partnership" under Contracts and trading
+  above.
+
 * What happens if you create a new contract saying you can't be a member
-  of it? Thread: "sanity clause"
+  of it? Thread: "sanity clause"; CFJ: 3848
 
 * Should a revision published in response to a CoE be back-dated to the
   same date as the original report, or should it include new events?
@@ -154,9 +195,61 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   related to use of language and trying to develop unifying logic for
   past standards. Thread: "CFJs 3831 and 3838 judged TRUE"
 
+  * In eir judgement of CFJ 3846, e says "the big exciting part got cut
+    due to time constraints", presumably meaning eir work will wait
+    until later.
+
 * Does being Rulekeepor satisfy the "relates to a) an office e holds"
   condition for certifying patches for every rule, just because the
-  Rulekeepor is responsible for rules? Thread: "Black ribbon patch"
+  Rulekeepor is responsible for rules? Threads: "Black ribbon patch",
+  "CFJ 3853 Assigned to nch". nch judges no. See more under the
+  "Certification debate" section.
+
+* Falsifian tries to group-file a motion to reconsider CFJ 3844, about
+  the Bazinga asset (which turned out not to be an asset), arguing the
+  judgement should be IRRELEVANT, not DISMISS.
+
+* Is CFJ 3835 G. (or did it become G.)? Aris judges no.
+
+  * "To be honest, I'm pretty sure that most of Agora's interpretative
+    woes could be solved by rigorous application of the principle that
+    language means what people think it means coupled with rigorous
+    adherence to the text of the rules, but that's a matter for another
+    day (I may write a thesis)."
+
+
+# Certification debate
+
+There's debate about how and whether it should be possible to pend
+bugfix proposals for free.
+
+* Partly the debate this week is triggered by Jason's argument that
+  being Rulekeepor means all rules bugs relate to em so e's allowed to
+  certify patches. Threads: "Black ribbon patch", "CFJ 3853 Assigned to
+  nch"; this is also mentioned in the Rules questions section.
+
+* There's some discussion of the economic implications of being able to
+  pend any proposal for a blot penalty in the thread "Black ribbon
+  patch".
+
+* When CFJ 3853 is assigned to nch, e says: "As someone who strongly
+  opposed the relevant rule, specifically because of its ambiguity, I
+  feel like I've been Cassandra'd." - nch
+
+* Aris starts the thread "How and Whether to Change Patch Certification"
+  for discussion.
+
+* R. Lee proposes to make patching unconditionally a crime. Thread: "We
+  Might As Well Be Honest". The retitling of Rule 2626 to "Costly
+  Certification" in eir proposal probably relates to this ecomonic
+  perspective.
+
+* R. Lee then just goes ahead and certififies everything, then points
+  eir finger at emself, in the thread "actually fuck it".
+
+* nch proposes a change which allows (effectively) pending without
+  objection, and also tracks such proposals as "Special" instead of
+  "Pending". Thread: "Ready Proposals"
 
 
 # Miscellaneous
@@ -170,14 +263,6 @@ Status: In progress. Currently covers all messages through 2020-06-19 at
   other action that causes em to win. Thread: "winning - more direct or
   less direct?"
 
-* Does announcing intent to completely mess up the rules count as an
-  "attempt" under the Defense Against the Dark Arts rule? Thread: "Minor
-  cleaning"
-
-* Can one bar a player from a CFJ in a message separate from the one
-  calling the CFJ? Thread: "Black ribbon patch"
-
-* Would Jason's Talismans proposal make every Talisman a separate class
-  of asset? Thread: "classy assets". (This is relevant because the
-  Treasuror needs to list the classes of assets in eir report, as
-  discussed in a thread this week on Treasuror reports.)
+* The Arbitor reminds us we can favour cases, and mentions disfavouring
+  too, and writes more generally about eir policies. Thread: "Don't
+  forget favoring! (policy statement)"
