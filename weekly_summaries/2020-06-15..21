@@ -1,5 +1,21 @@
-Status: In progress. Currently covers all messages through 2020-06-20 at
-18:54 UTC.
+Status: Covers all messages for the week, but needs a summary.
+
+
+# Email volume and chat clients
+
+Bögtil triggers a discussion on moving some discussion to chat rooms
+when e announces that e is leaving for now in the thread "Leaving"
+(retitled to "Leaving or something like that").
+
+There's discussion about the advantages and disadvantages of IRC,
+Discord, Matrix and other options, which is continued in the threads
+"[Poll] A chat client for Agora" and "Fora and Accessibility", and a
+small side-discussion on archiving (thread: "Archival Continuity and
+Discussion Accessibility").
+
+R. Lee goes ahead and creates a Discord server at
+https://discord.gg/UGxm3v , and nch reports some activity. Thread:
+"Action Is better than words"
 
 
 # Voting, and adoption of proposals
@@ -23,6 +39,42 @@ Status: In progress. Currently covers all messages through 2020-06-20 at
   Proposals 8409-8430"
 
   * R. Lee proposes fixes. Thread: "Rulekeeping Bug Fixes"
+
+* Voting begins on Proposals 8442-8457:
+
+  * A subgame involving Cards. (8442)
+
+  * A term limit for Prime Minister. (8443)
+
+  * Change "in an officially timely fashion" to "in a sedate fashion".
+    (8444)
+
+  * Make it easier to change rule titles. (8445)
+
+  * Auction off Victory Cards. (8446)
+
+  * Ban scams involving new rules. (8447)
+
+  * Another pass at officer-approved administrative regulations with an
+    application for the Herald (8448, 8449)
+
+    * The difference from the previous attempt is that now all players,
+      not just officers, are eligible to support or object to
+      regulations.
+
+    * G. raises a concern about regulations staying around when a new
+      person is elected to the office.
+
+  * Grant extensions on CFJ deadlines. (8450)
+
+  * Cuddlebeam's attempt to win with the Defense Against the Dark Arts
+    rule. (8451)
+
+  * Limit large numbers of proposals from the same person. (8457)
+
+  * Fixes and other small changes. (8452, 8453, 8454, 8455)
+
+  * Silliness (8456)
 
 
 # Offices, reports, website
@@ -88,8 +140,11 @@ Status: In progress. Currently covers all messages through 2020-06-20 at
 * nch proposes a change to the certification system in the thread "Ready
   Proposals" (also listed in the Certification debate section).
 
-  * Here, there is some more general discussion about the idea of
-    charging for proposals.
+  * Here, there is some more general discussion about charging for
+    proposals.
+
+  * Past rule 1623/11, "Disinterested Proposals", is mentioned as one
+    way to handle allowing some proposals to be free.
 
 
 # Other Proposals
@@ -102,6 +157,12 @@ Status: In progress. Currently covers all messages through 2020-06-20 at
   include lessons from a past card game with a deck, discussion of
   having different officers in charge of tracking different currencies,
   and using the Deck idea to regulate the echonomy.
+
+* G. proposes to legislate that the Promotor's report gives a snapshot
+  of the proposal pool at the start of the week, since e's been doing
+  that anyway. This turns into a discussion about doing this for other
+  officers as well. Threads: "let's just match the promotor's reality
+  shall we", "Reports as snapshots of fixed time"
 
 
 # Contracts and trading
@@ -145,12 +206,25 @@ Status: In progress. Currently covers all messages through 2020-06-20 at
 
 * ATMunn creates a contract involving buying and growing banana trees
   and selling the resulting bananas to take money back from the
-  contract. Thread: "We all need some bananas in our lives"
+  contract. E later destroys it. Thread: "We all need some bananas in
+  our lives"
 
 * Trigon creates six contracts that involve agreeing to perform actions
   matching hashes published in the contracts. E makes no promises the
   actions don't just steall all your stuff.is Thread: "Six secret
   contracts"
+
+* Publicly-funded contracts:
+
+  * Falsifian posts an old draft by G. for publicly-funded contracts
+    when in comes up in another thread. Thread: "Contract charities (was
+    Re: DIS: How and Whether to Change Patch Certification)"
+
+  * Falsifian drafts a contract, intended to be funded, for paying for
+    Reportor duties. Thread: "Draft Reportor contract"
+
+* Trigon sells space in eir signature. Thread: "[Contract] Agoran
+  officer monetizes signature"
 
 
 # Rules questions
@@ -172,9 +246,10 @@ Status: In progress. Currently covers all messages through 2020-06-20 at
   calling the CFJ? Thread: "Black ribbon patch"
 
 * Would Jason's Talismans proposal make every Talisman a separate class
-  of asset? Thread: "classy assets"; CFJ 3852. (This is relevant because
-  the Treasuror needs to list the classes of assets in eir report, as
-  discussed in a thread this week on Treasuror reports.)
+  of asset? Jason judges CFJ 3852 FALSE. Thread: "classy assets" (This
+  is relevant because the Treasuror needs to list the classes of assets
+  in eir report, as discussed in a thread this week on Treasuror
+  reports.)
 
 * What wordings work for "acting as emself" type conditions? Thread:
   "humble agoran farmer’s locker"
@@ -216,6 +291,9 @@ Status: In progress. Currently covers all messages through 2020-06-20 at
     language means what people think it means coupled with rigorous
     adherence to the text of the rules, but that's a matter for another
     day (I may write a thesis)."
+
+* Is there a Shogun if players tie for most Karma? Thread: "[Herald]
+  Weekly Report"
 
 
 # Certification debate
@@ -266,3 +344,11 @@ bugfix proposals for free.
 * The Arbitor reminds us we can favour cases, and mentions disfavouring
   too, and writes more generally about eir policies. Thread: "Don't
   forget favoring! (policy statement)"
+
+* There's discussion on refreshing Agora's logo, possibly in a
+  tournament, in the thread "A logo for Agora". An old rule thad
+  described the current logo in text is described and the history of its
+  repeal related.
+
+* New player Zyborg joins and is welcomed and given advice in the htread
+  "Registration".
