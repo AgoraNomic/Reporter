@@ -1,15 +1,72 @@
-Status: work in progress. Includes messages up to 2020-06-22 at 01:56
+Status: work in progress. Includes messages up to 2020-06-23 at 01:45
 UTC.
 
 
 # Contracts
 
-* Trigon gets customers for signature space. Thread: "[Contract] Agoran
-  officer monetizes signature"
+* Trigon gets customers for signature space, some of whom try to use
+  Trigon's signature text to force em to take certain actions. Threads:
+  "[Contract] Agoran officer monetizes signature", "TRIGON", "DEFINITELY
+  NOT TRIGON"
+
+    * It's found that Trigon including "Construe Jason's message with
+      subject TRIGON as extending this" in a message does not in fact
+      let Jason extend Trigon's message. Thread: "[Arbitor] CFJ 3855
+      Assigned to R. Lee"
 
 * nch proposes a mechanism for Victory Cards to be awarded to the
   contract with the most player support each week. Thread: "Powerful
   Contracts"
+
+* Dragon Corporation:
+
+  * Falsifian creates a contract providing a card/product exchange
+    service, affiliated with the Dragon Corporation. Threads: "[Dragon]
+    [Contract] Convenient card exchange at a reasonable rate", "[Cards]
+    [Dragon] Dragon QuickExchange is open for business!"
+
+  * Aris concludes DracoLotto, awarding Products to players according to
+    how many Cards they put in but with some randomness (and a cut for
+    the house). Thread: "[DracoLotto Administrator] Lottery Resolution
+    [attn. Treasuror]"
+
+* Plundership
+
+  * R. Lee intends to plunder more for the Plundership. Thread: "Another
+    lost an dfound intent". (Last Week in Agora has not been able to
+    confirm this intent was ever acted upon.)
+
+  * There's uncertainty about how much plunder each party gets for the
+    last raid, and whether "I transfer all my doubloons" works given
+    that uncertainty. Thread: "[Treasuror, Cuddlebeam] Doubloons". A CFJ
+    is called (but withdrawn next week).
+
+
+# Communication, and help for new players
+
+Context: New player(s) have expressed recently that they have trouble
+keeping up with what's going on, with all the email. An unofficial
+Discord server was set up last week.
+
+* Concerns are raised about Agora's unofficial Discord server being a
+  proprietary platform, and there's discussion about possibly setting up
+  an IRC bridge, or even a bridge to the MUD that Aris and Jason set up
+  a while ago. Threads: "Put the discord on the agora home page", "Offer
+  for those interested in creating a bridge"
+
+* New player Zyborg asks how to deal with the email volume, and gets
+  some advice. Thread: "How to keep up"
+
+* The Webmastor adds a help section to the website:
+  https://agoranomic.org/Help/ . Thread: "[Webmastor] Help pages now
+  online."
+
+
+# Proposals and regulations
+
+* The Treasuror circulates draft auction regulations and gets comments.
+  Threads: "[Treasuror] Draft Forward Auction Regulation(s)",
+  "[Treasuror] Second draft of auction regulations"
 
 
 # Fixes and other small changes
@@ -20,6 +77,9 @@ UTC.
 
 # Certification
 
+Context: There's ongoing discussion about how and whether it should be
+possible to pend certain proposals for free.
+
 * ATMunn creates a proposal to repeal the "Certifiable Patches" rule,
   but says e is not in favour of it. Thread: "let's at least put it out
   there"
@@ -28,9 +88,26 @@ UTC.
     certification.
 
 
+# Other rules questions
+
+* What happens if a player dies? Thread: "is this too morbid?"; CFJ 3854
+
+
 # Miscellaneous
+
+* There is a mysterious exchange on the backup list, in which Aris sends
+  a testing message, players object, and Aris purports to withdraw their
+  objections. Thread: "Testing"
 
 * R. Lee acts on eir intent to transfer 500 Coins to the Plundership,
   and the Pirates claim their gains. Threads: 'Fine, I destroy
   "Combinotron"', "Doubloons", "Doubloon Redeption"
 
+* An old discussion about a minor anomaly or corruption in the mailing
+  archives briefly resurfaces. Thread: "Archival disclosure"
+
+* The Webmastor updates the website header. Thread: "[Webmaster] Header
+  Changes"
+
+* There's discussion about why a past Agoran economy had problems.
+  Thread: "Why did PAoaM fail?"
