@@ -2,6 +2,59 @@ Status: work in progress. Includes messages up to 2020-06-23 at 01:45
 UTC.
 
 
+# Exile scam
+
+nch and R. Lee begin an attempted scam: to have a player repeatedly
+exiled and then re-registered, collecting welcome packages in between.
+Since exiling must be done with 7 days notice, they are forced to give a
+hint about their plans ahead of time by announcing a deregistration
+intent. This starts a race to patch the bug before they can exploit it
+--- the voting period for a proposal is also 7 days.
+
+Timeline (UTC):
+
+* 2020-06-23 02:37: nch announces intent 36 times to deregister R. Lee,
+  starting the clock.
+
+* 2020-06-23 02:38: Aris submits a proposal to patch the bug. Thread:
+  "[Proposal] Welcome Package Patch"
+
+* 2020-06-23 02:39: The Treasuror certifies the proposal. Thread:
+  "certifying"
+
+  (This leads to a Finger Pointing and debate about whether it met the
+  conditions for certification.)
+
+* 2020-06-23 02:40: The Promotor (again Aris) distributes it as Proposal
+  8458, starting a second 7-day interval.
+
+  Depending on how quickly the Assessor acts 7 days from now, and how
+  voting for the proposal goes, the scammers may have a window as short
+  as three minutes long between when R. Lee can be exiled and when the
+  proposal can be adopted.
+
+* 2020-06-23 02:51: Jason begins a motion of no confidence. Thread:
+  "MOTION OF NO CONFIDENCE"
+
+  Prime Minister nch is one of the scammers.
+
+
+# Mysteries
+
+* Someone anonymously posts a message claiming to be a player and voting
+  for a proposal. Thread: "Vote on P8442"; CFJ 3857. A player petitions
+  em to reveal eir identity but e refuses. (Next week, Jason reveales
+  that e was em.)
+
+  * R. Lee submits proposals that would create severe consequences if
+    the player did not reveal eir identity, but withdraws them. Thread:
+    "[Proposal] Anonymity Busting"
+
+* There is a mysterious exchange on the backup list, in which Aris sends
+  a testing message, players object, and Aris purports to withdraw their
+  objections. Thread: "Testing"
+
+
 # Contracts
 
 * Trigon gets customers for signature space, some of whom try to use
@@ -99,10 +152,6 @@ possible to pend certain proposals for free.
 
 
 # Miscellaneous
-
-* There is a mysterious exchange on the backup list, in which Aris sends
-  a testing message, players object, and Aris purports to withdraw their
-  objections. Thread: "Testing"
 
 * An old discussion about a minor anomaly or corruption in the mailing
   archives briefly resurfaces. Thread: "Archival disclosure"
