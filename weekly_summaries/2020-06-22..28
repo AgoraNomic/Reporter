@@ -1,5 +1,5 @@
-Status: work in progress. Includes messages up to 2020-06-23 at 01:45
-UTC.
+Status: work in progress. Includes messages up to but not including
+2020-06-26 at 15:49 UTC.
 
 
 # Exile scam
@@ -10,6 +10,9 @@ Since exiling must be done with 7 days notice, they are forced to give a
 hint about their plans ahead of time by announcing a deregistration
 intent. This starts a race to patch the bug before they can exploit it
 --- the voting period for a proposal is also 7 days.
+
+Note: there is a good overview of some of the technical aspects in
+Jason's email starting the thread "Statement from the Opposition".
 
 Timeline (UTC):
 
@@ -32,6 +35,9 @@ Timeline (UTC):
   voting for the proposal goes, the scammers may have a window as short
   as three minutes long between when R. Lee can be exiled and when the
   proposal can be adopted.
+
+* 2020-06-23 02:46: nch announces intent 20 more times to deregister R.
+  Lee. Thread: "Perfectly Normal Gameplay Nothing to See Move Along."
 
 * 2020-06-23 02:51: Jason begins a motion of no confidence, to remove
   nch from the office of Prime Minister. Thread: "MOTION OF NO
@@ -62,6 +68,21 @@ Timeline (UTC):
 
   A CFJ is quickly called and assigned ID 3856.
 
+* 2020-06-24 01:59: Jason calls CFJ 3858: "An action to be performed
+  with 7 days notice depends on objections." The implication is that the
+  with notice action of exiling R. Lee can be temporarily blocked by
+  anyone who objects and then withdraws eir objection. Thread:
+  "Dependent dependencies"
+
+  (At the end of the week, grok judges CFJ 3858 TRUE.)
+
+* 2020-06-25 19:12: Jason publishes a Statement from the Opposition
+  outlining strategies for preventing the scam, including some which
+  would require making someone else be a winner. There's discussion of
+  whether it makes sense for (other) players to support a counter-scam
+  strategy that results in someone else winning instead. Thread:
+  "Statement from the Opposition"
+
 * 2020-06-28 01:59: The scam being apparently over, Jason retracts eir
   motion of no confidence. (Technically, e just objects to it.) Thread:
   "MOTION OF NO CONFIDENCE"
@@ -90,14 +111,22 @@ Other discussion:
 
 # Mysteries
 
-* Someone anonymously posts a message claiming to be a player and voting
-  for a proposal. Thread: "Vote on P8442"; CFJ 3857. A player petitions
-  em to reveal eir identity but e refuses. (Next week, Jason reveales
-  that e was em.)
+* Someone anonymously (from an unknown email address) posts a message
+  claiming to be a player and voting for a proposal. There's a CFJ about
+  whether it worked, which a couple of players disfavour. Threads: "Vote
+  on P8442", "CFJ 3857 assigned to grok".
+
+  * A player petitions the anonymous player to reveal eir identity but e
+    refuses.
 
   * R. Lee submits proposals that would create severe consequences if
     the player did not reveal eir identity, but withdraws them. Thread:
     "[Proposal] Anonymity Busting"
+
+  * ATMunn attempts to transfer karma from the anonymous player. Did it
+    work? Thread: "[NoH] Unspecified Honour"
+
+  * Next week, Jason reveales that e was the anonymous player.
 
 * There is a mysterious exchange on the backup list, in which Aris sends
   a testing message, players object, and Aris purports to withdraw their
@@ -134,8 +163,9 @@ Other discussion:
 
 * Plundership
 
-  * R. Lee acts on eir intent to transfer 500 Coins to the Plundership,
-    the Pirates claim their gains, and e indents to plunder more (though
+  * The Plundership does what it set out to do: R. Lee acts on eir
+    intent to transfer 500 Coins to the Plundership and the Pirates
+    claim their gains. R. Lee announces intent to plunder more (though
     Last Week in Agora has not been able to confirm this intent was ever
     acted upon). Threads: 'Fine, I destroy "Combinotron"', "Doubloons",
     "Doubloon Redeption", "Another lost an dfound intent"
@@ -165,11 +195,20 @@ Discord server was set up last week.
   https://agoranomic.org/Help/ . Thread: "[Webmastor] Help pages now
   online."
 
+* The Notary announces e's planning to create an online version of eir
+  report, and sends out a survey. Thread: "[Notary] Web Report Survey"
+
 * The Webmastor updates the website header. Thread: "[Webmaster] Header
   Changes"
 
 
 # Proposals and regulations
+
+* Jason drafts a proposal to integrate the "bodies of law" system
+  enacted in March with existing uses of Regulations in the ruleset. The
+  proposal seems to add complexity, which leads to discussion on the
+  "bodies of law" system generally. Thread: "[Proposal] Regulatory
+  Instruments"
 
 * The Treasuror circulates draft auction regulations and gets comments.
   Threads: "[Treasuror] Draft Forward Auction Regulation(s)",
@@ -180,6 +219,9 @@ Discord server was set up last week.
 
 * Don't outlaw attempts at forbidden actions that aren't public. Thread:
   "DADA Weakening". Certified by the Referee on petition.
+
+* Fix the way Jason's Zombie Talismans proposal handles auctions.
+  Thread: "Talismans Auction Patch"
 
 
 # Certification
@@ -194,10 +236,53 @@ possible to pend certain proposals for free.
   * R. Lee certifies it, continuing eir streak of willfully illegal
     certification.
 
+* nch submits a proposal to repeal Certifiable Patches and in its place
+  define dependent actions that pend proposals for free. E pends it
+  after getting positive feedback. Thread: "[Proposal] Interested
+  Proposals"
+
 
 # Other rules questions
 
 * What happens if a player dies? Thread: "is this too morbid?"; CFJ 3854
+
+
+# The Press
+
+* Falsifian submits a version of a proposal originally by G. to allow
+  contracts to be publicly funded, with the intention of using this to
+  fund a contract defining the work of the Reportor (essentially,
+  funding the report you're reading now). Threads: "Last Week in Agora",
+  "Contract charities"
+
+  * There's some discussion about allowing mixed
+    charitable/non-charitable contracts, or requiring such a contract to
+    be split into two separate ones.
+
+* There's a request for Reportor summaries to go to agora-official, even
+  though it's not a rules-defined office. Thread: "Report Routing"
+
+
+# Apathy attempts
+
+Rule 2465 allows any player to win if they can sneak a formal
+announcement of intent to Declare Apathy past other players (possibly
+unless people start defensively publishing general objections).
+
+* ATMunn announces intent in a spammy-looking email directly to all
+  players rather than to the list, hoping people's spam filters will
+  catch it and it will be overlooked. It doesn't work, and there's
+  speculation it wouldn't have even if players hadn't noticed. Thread:
+  "Congratulations !! You Just WON !!!"
+
+* Jason makes a similar attempt. E attaches the "EICAR antivirus test
+  file". Some players don't receive this one, but ais523 catches it.
+  Threads: "Definitely not an apathy intent", "Apathy warning (was: BUS:
+  [Proposal] Fuses)". (Technically there are two attempts here; e send
+  the second after finding a bug in the first.)
+
+* G. annouces a general objection, and there's discussion on whether
+  that works and some history. Thread: "general objection"
 
 
 # Miscellaneous
