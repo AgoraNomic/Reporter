@@ -1,5 +1,4 @@
-Status: work in progress. Includes messages up to but not including
-2020-06-27 at 23:45 UTC.
+Status: This covers the full week, but still needs an overall summary.
 
 
 # Exile scam
@@ -12,7 +11,10 @@ intent. This starts a race to patch the bug before they can exploit it
 --- the voting period for a proposal is also 7 days.
 
 Note: there is a good overview of some of the technical aspects in
-Jason's email starting the thread "Statement from the Opposition".
+Jason's email starting the thread "Statement from the Opposition", and
+another note from nch with the subject "Scam Wrap-Up" near the end of
+the week about how it apparently failed. (However, the scam unexpectedly
+continued next week.)
 
 Timeline (UTC):
 
@@ -86,6 +88,8 @@ Timeline (UTC):
 * 2020-06-28 01:59: The scam being apparently over, Jason retracts eir
   motion of no confidence. (Technically, e just objects to it.) Thread:
   "MOTION OF NO CONFIDENCE"
+
+* 2020-06-28 02:58: nch posts an explanation of why the scam is over.
 
 * Next week: the story continues with at least one unexpected twist.
 
@@ -209,8 +213,18 @@ Discord server was set up last week.
   https://agoranomic.org/Help/ . Thread: "[Webmastor] Help pages now
   online."
 
-* The Notary announces e's planning to create an online version of eir
-  report, and sends out a survey. Thread: "[Notary] Web Report Survey"
+* Reports going online:
+
+  * The Notary announces e's planning to create an online version of eir
+    report, and sends out a survey. Thread: "[Notary] Web Report Survey"
+
+  * Our new ADoP starts putting eir reports on the web at
+    https://leeonlaw.blogspot.com/2020/06/adop-metareport.html Thread:
+    "Archiving Metareports"
+
+  * The Arbitor puts a static version of the most recent gazette at
+    https://faculty.washington.edu/kerim/nomic/cases/report.html Thread:
+    "[Arbitor] online gazette"
 
 * The Webmastor updates the website header. Thread: "[Webmaster] Header
   Changes"
@@ -228,6 +242,19 @@ Discord server was set up last week.
   Threads: "[Treasuror] Draft Forward Auction Regulation(s)",
   "[Treasuror] Second draft of auction regulations"
 
+* Murphy proposes to expand victory card auctions to generate one
+  additional new card. Thread: "Generalized card auctions"
+
+  * There's discussion about the proposal, including the question of
+    whether the current rate of Legislative Card creation is enough.
+
+* Murphy proposes to describe certain violations as crimes and others as
+  infractions. There was discussion about bringing back such a
+  distinction at the start of the month. This proposal doesn't seem to
+  actually create any differences between the two, but may lay the
+  groundwork for doing so in the future. Thread: "Proposal:
+  Decriminalization"
+
 
 # Fixes and other small changes
 
@@ -236,6 +263,10 @@ Discord server was set up last week.
 
 * Fix the way Jason's Zombie Talismans proposal handles auctions.
   Thread: "Talismans Auction Patch"
+
+* Jason proposes an amendment to the wording of Rule 208, about how
+  Agoran decisions can be resolved. Thread: "[Proposal] Resolving
+  Ambiguous Decisions"
 
 
 # Certification
@@ -255,10 +286,19 @@ possible to pend certain proposals for free.
   after getting positive feedback. Thread: "[Proposal] Interested
   Proposals"
 
+* R. Lee Points eir Finger at Jason for allegedly illegally certifying a
+  proposal in the thread "[Proposal] Resolving Ambiguous Decisions", but
+  the Referee finds Shenanigans.
+
+* omd proposes to remove the requirement thet the player certifying a
+  patch have an official duty related to it. Thread: "Proposal: Stop
+  disincentivizing bugfixes"
+
 
 # Other rules questions
 
-* What happens if a player dies? Thread: "is this too morbid?"; CFJ 3854
+* What happens if a player dies but others don't know? Is e still a
+  player? Thread: "is this too morbid?" CFJ 3854 is judged DISMISS.
 
 * What would happen if every word in the ruleset were changed to "meep"
   except in Power 4 rules?
@@ -349,3 +389,9 @@ unless people start defensively publishing general objections).
 
   * The thread briefly diverges into a discussion of the incentive for
     avoiding getting blots.
+
+* Our Herald P.S.S. announces intent to start a Diplonomic birthday
+  tournament, after circulating draft rules. (Discussion earlier in the
+  month settled on Diplonomic, which is a version of Diplomacy that
+  allows players to change the rules.) Threads: "Draft Regulations for
+  Diplonomic Birthday Tournament", "Birthday Tournament Regulations"
