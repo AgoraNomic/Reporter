@@ -1,5 +1,4 @@
-Status: Work in progress. This accounts for all emails up to but not
-including 2020-07-03 at 18:32.
+Status: This covers the whole week, but still needs a summary.
 
 
 Rough notes on this week's exile / welcome package scam:
@@ -14,7 +13,7 @@ Rough notes on this week's exile / welcome package scam:
 
 WIP
 
-* Happy Birthday, Agora!
+* Welcome, Fred! And Happy Birthday, Agora!
 
 
 # Exile scam
@@ -109,10 +108,13 @@ Timeline continues (UTC):
   do the scam anyway"
 
 * 2020-07-02 17:41 .. 2020-07-03 20:45: ATMunn judges CFJ 3860 FALSE,
-  after e first publishes a draft judgement, folleowed by discussion of
-  some past precedents and some history of hidden actions. The FALSE
-  judgement means the scam failed. Threads: "Draft Judgement of CFJ
-  3860", "CFJ 3860 judged FALSE"
+  after e first publishes a draft judgement, followed by discussion of
+  some past precedents and some history of hidden actions. Threads:
+  "Draft Judgement of CFJ 3860", "CFJ 3860 judged FALSE"
+
+  The FALSE judgement means the scam failed (but R. Lee still
+  deregistered and registered a bunch of times and granted emself a
+  bunch of blots).
 
 * 2020-07-03 00:39: Murphy takes back the office of ADoP from R. Lee by
   deputisation. R. Lee lost the office when e was deregistered during
@@ -142,6 +144,25 @@ Other activity:
 
   * On the thread it's mentioned that the same loophole was fixed for
     apathy attempts a long time ago.
+
+
+# Birthday
+
+* The Herald enacts an updated version of the Birthday Tournament
+  Regulations with some fixes. Thread: "Birthday Tournament Regulations
+  v1.1"
+
+* P.S.S. identifies a problem with the birthday tournament regulations
+  and a possible way to fix them in the thread "I'm stupid, and we've
+  got a problem." then proposes fixes in the threds "Birthday Tournament
+  Fix" and "Birthday Tournament Fix Fix".
+
+* Now that we have regulations (the birthday tournament) the Rulekeepor
+  publishes a new document, the Agora Nomic Code of Regulations. Thread:
+  "[Rulekeepor] ACORN - 4 Jul 2020"
+
+* Players wish Agora a happy birthday in the thread "[Glitter] Happy
+  Birthday!"
 
 
 # Voting
@@ -227,6 +248,9 @@ Other activity:
   to remove that uncertainty. Thread: Thesis Reprocessing Request [attn.
   Herald]"
 
+  * The Herald starts a new peer review process. Thread: "Peer Review
+    for Aris"
+
 * ATMunn asks some questions about what's expected in a thesis. G. posts
   a link to some past theses:
   https://github.com/AgoraNomic/Herald/tree/master/Theses
@@ -238,6 +262,9 @@ Other activity:
 
 
 # Contracts and the economy
+
+* The Notary asks players to summarize their contracts, and offers 3
+  coins per summary. Thread: "[Pledge] Contract Summaries"
 
 * omd creates a new contract for people to convert Cards to Products
   efficiently, and includes a comparison to similar contracts. Players
@@ -259,6 +286,10 @@ Other activity:
   * Falsifian sells four shares of DRGN to P.S.S. for 40 Coins and 2
     Justice cards, and P.S.S. joins the contract. Thread: "DRGN sale"
 
+  * omd identifies a bug in a recent amendment to the Dragon
+    Corporation, and it is quickly patched. Thread: "[Contract
+    amendment] BUS: [Dragon] Faster Ordinary Proposals"
+
 * The Notary announces informal "Contract Awards" for participating in
   contracts, creating popular contracts, and creating wealthy contracts.
   Thread: "[Notary] Informal Contract Awards"
@@ -271,6 +302,17 @@ Other activity:
 
 
 # Other Proposals
+
+* There are proposals about redoing the Karma system.
+
+  * omd proposes to eliminate negative karma and allow players to
+    transfer karma at will in addition to being able to create one new
+    Karma per week. E lists detailed reasoning behind eir proposal.
+    Thread: "Proposal: Upvotes"
+
+  * G. proposes a different change: keep everything the same, except
+    players can take karma from or give it to Agora, and all karma
+    decays quarterly.  Thread: "Agora the karma bank"
 
 * R. Lee proposes to take away the Referee's ability to arbitrarily give
   players blots. Thread: "Easy Summary Judgement Repeal"
@@ -293,6 +335,11 @@ Other activity:
   * There's discussion of whether players who already have Black Ribbons
     would earn glitter.
 
+* There's discussion on extending the definition of "person" so a person
+  continues to be so after death, after CFJ 3854 asks what happens when
+  a person dies. Such a change was previously attempted in February.
+  Thread: "is this too morbid?"
+
 
 # Other rules questions
 
@@ -312,6 +359,11 @@ Other activity:
   motion to reconsider CFJ 3851 is filed so that the judgement can
   consider this question. Thread: "CFJ 3851 judged TRUE"
 
+  * It is judged TRUE again, finding that although it would likely be
+    possible to recover from such a situation, the situation nonetheless
+    is the kind that Rule 1698 is designed to prevent. Thread: "CFJ 3851
+    judged TRUE on Reconsideration"
+
 * Is it possible to resolve an Agoran decision by announcement if
   conditions 1-4 in R208 aren't satisfied? No: CFJ 3859 is judged FALSE.
   Threads: "[CFJ] Agoran Announcements", "CFJ 3859 Judgement"
@@ -328,6 +380,10 @@ Other activity:
 * If a contract defines a switch and what it means to "flip" that
   switch, can that definition override Rule 2162's definition of
   flipping a switch? Thread: "[Contract, CFJ] Amusing Test Case"
+
+* When a player submits a CFJ to the Referee, is the Referee required to
+  publish a weekly report like the Arbitor's that includes that case?
+  Thread: "[@nobody this subject line was too long] referee CFJs"
 
 
 # The anonymous voter
@@ -356,15 +412,14 @@ email address casting a vote on Proposal 8442.
 
 # Miscellaneous
 
-* The Herald annouces an updated version of the Birthday Tournament
-  Regulations with some fixes. Thread: "Birthday Tournament Regulations
-  v1.1"
+* New player Fred registers, and is given some advice about starting
+  out. Thread: "Registration - Fred"
+
+* The Arbitor asks players to include CFJ ID numbers in any official
+  business related to them. Thread: "[Arbitor] Signalling request"
 
 * There's some discussion about backdated Promotor reports, related to
   G.'s proposal to make it official, in the thread "[Promotor] Draft"
-
-* Players wish Agora a happy birthday in the thread "[Glitter] Happy
-  Birthday!"
 
 * grok publishes a pledge to "do your will" for 24 hours. A silly dance
   or song is requested. Thread: "A Pledge"
@@ -384,3 +439,17 @@ email address casting a vote on Proposal 8442.
 * There's a history lesson about the Annabel Crises and the Quantum
   Crisis, both about propagation of mistakes, in the thread "[CotC] CFJ
   3854 Judged DISMISS by Murphy"
+
+* There's discussion on the best way to signal officers in the thread
+  "[Treasuror] Reward Re: BUS: CFJ 3860 judged FALSE".
+
+* ATMunn is surprised to learn that e was Prime Minister for a while
+  while e was a zombie. Thread: "wait what now?"
+
+* The Registrar announces that there will be no July zombie auction, and
+  that e has stopped hunting for inactive players, leaving it up to
+  others to turn them into zombies. Thread: "No July zombie auction"
+
+* The Notary publishes an example of the new web report e is thinking of
+  using at https://atmunn.gitlab.io/notary/template.html . Thread:
+  "Notary Web Report Progress"
