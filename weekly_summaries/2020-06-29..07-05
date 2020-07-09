@@ -1,4 +1,6 @@
-Work in progress.
+Status: Work in progress. This accounts for all emails up to but not
+including 2020-06-30 at 21:47 UTC.
+
 
 Rough notes on this week's exile / welcome package scam:
 * Could be blocked by objecting and withdrawing objections.
@@ -8,14 +10,157 @@ Rough notes on this week's exile / welcome package scam:
 * We thought it was over but then it was revealed G. cast a hidden vote in https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043813.html
   * Aris mentions e's working on fix. Thread: "Hidden Action Fixes"
 
+# Summary
+
+WIP
+
+* Happy Birthday, Agora!
+
 
 # Exile scam
 
-Timeline contiues (UTC):
+Timeline continues (UTC):
 
-* 2020-06-30: G. hides a vote for the fix proposal by putting in the
-  middle of a long quoted part of an email. Subject line "[Herald]
+* 2020-06-29 05:58 and 06:04: Aris objects to the intents to deregister
+  R. Lee then withdraws eir objections, exploiting the bug that this
+  prevents the with-notice action from being performed for the next 24
+  hours (CFJ 3858).  Threads: "Perfectly Normal Gameplay Nothing to See
+  Move Along", "In Case I Missed Any..."
+
+* 2020-06-30 01:52: G. hides a vote for the fix proposal by putting in
+  the middle of a long quoted part of an email. Subject line "[Herald]
   Weekly Report".
+
+* 2020-06-30 01:11: The Assessor purports to resolve the decision to
+  adopt Proposal 8458, which closes the scam loophole. Thread:
+  "[Assessor] Resolution of Proposal 8458"
+
+* 2020-06-30 13:15: The Assessor said the previous resolution was too
+  early, and again announces the resolution of the decision.
+
+  It's pointed out that the Assessor's accidental incorrect announcement
+  opened up a window for the scam to be exploited which wasn't taken
+  advantage of. R. Lee says that G. and em were in favour of taking
+  advantage of it, but nch was not available to enable it. This is
+  probably referring to the fact that the effect of Aris's withdrawn
+  objections expired at 05:58. Thread: "Notice of Honour"
+
+* 2020-06-30 14:26: R. Lee identifies an alleged error in the
+  resolution: the Assessor missed G.'s hidden vote. Claiming the
+  assessment was invalid, R. Lee purportedly goes ahead and performs the
+  scam. Thread: "@Notary @Treasuror, I do the scam anyway"
+
+  * The scam includes repeatedly being de-registered, registering,
+    claiming a Welcome Package, and giving it to nch.
+
+  * The effect is that R. Lee and nch win. R. Lee pledges to give G.
+    enough victory points to win as well, after using Blot-B-Gones from
+    the scam to wipe away any penalty from the indictments against
+    emself.
+
+    * Later in the thread, P.S.S. calls this last part an overreach, and
+      there's discussion of how many blots R. Lee will end up with.
+
+* 2020-06-30 14:27: Jason objects to all intents to deregister R. Lee,
+  then withdraws those intents. Just barely too late to prevent R. Lee's
+  message from working.  Thread: "Objections"
+
+* 2020-06-30 15:09: R. Lee announces intent to ratify without objection
+  a document restoring the state of the economy as if eir scam hadn't
+  happened, except R. Lee and G. have some additional assets. Thread:
+  "Ratification Scam Fix Proposal"
+
+  Players object to this intent later in the thread, for different
+  reasons. Falsifian objects initially, but withdraws after P.S.S. says
+  this was an understanding previously discussed. Aris objects saying it
+  is broken. omd also objects later, not giving a reason.
+
+* 2020-06-30 15:36: Jason again announces the resolution of the decision
+  to adopt Proposal 8458, this time accounting for G.'s vote. Thread:
+  "[Assessor] Resolution of Proposal 8458 (Third time's the charm)"
+
+* 2020-07-02 04:44: omd calls CFJ 3861 saying a card-to-product
+  conversion in R. Lee's message wasn't specified precisely enough,
+  leading to much discussion. Still on the thread "@Notary @Treasuror, I
+  do the scam anyway"
+
+Other activity:
+
+* There's discussion (starting with a proposal) about the best way to
+  fix the bug being exploited, and more generally whether exiled players
+  should be welcomed back and how exile should work. Thread: "Welcoming
+  Back Outlaws"
+
+* Aris proposes a fix to the exile scam bug in the thread "Welcoming
+  Back Outlaws".
+
+* CFJ 3856 is judged FALSE, meaning omd's attempt to block the scam
+  using a counter-scam involving a contract that threatens to amend
+  itself with secret text didn't work.
+
+* Cuddlebeam mentions e was conspiring with two other players to pull
+  off the same scam but nch did it first. Thread: "[Herald] Weekly
+  Report"
+
+* Aris drafts a fix to the kind of "hidden action" G. used to cast eir
+  secret vote. Thread: "Hidden Action Fixes"
+
+  * On the thread it's mentioned that the same loophole was fixed for
+    apathy attempts a long time ago.
+
+
+# Voting
+
+* Voting begins on Proposals 8459-8472.
+
+  * Handle zombies with assets ("Talismans") instead of switches. (8459,
+    8467)
+
+  * Don't let players immediately reclaim an Ultraviolet Ribbon after
+    Raising a Banner. (8460)
+
+  * Re-try a proposal that was adopted but failed to apply. (8461)
+
+  * Fixes and future-proofing. (8462, 8463, 8468, 8472)
+
+    * The FALSE judgement of CFJ 3859 means the problem patched by
+      Proposal 8468 wasn't an exploitable bug.
+
+    * 8472 is a fix related to the exile scam.
+
+    * Power escalations in 8462 and in the rule text it replaces are
+      identified in the voting thread.
+
+  * Proposed changes to certification. (8464, 8466, 8470)
+
+    * There's some discussion about Proposal 8470 on the voting thread.
+      (It uses a dependent action, so would slow down the process of
+      submitting a proposal quickly.)
+
+  * Make it not a crime to attempt actions harmful to Agora on
+    non-public fora. (8465)
+
+  * Another go at officer regulations, this time letting an officer
+    repeal them after being elected. (8469)
+
+  * Remove the Referee's power to arbitrarily impose fines. (8471)
+
+
+# Awards
+
+* Past Rulekeepor Trigon is awarded the patent title of Long Service,
+  class 12 months, for past service, after a petition to the Herald.
+  Threads: "Justice for Trigon", "Long Service Awards".
+
+  * P.S.S. also gets the 3-month title as Referee.
+
+  * The possibility of awarding Trigon the 12-month title had been
+    mentioned before, but initially rejected because others missed out
+    on long service awards too in the past and we didn't want to go find
+    all of them. This time, we decided to make an exception for Trigon
+    (R. Lee: "But as this is relatively recent, an exceptionally long
+    and difficult period, and a current player, I wouldn't mind making
+    an exception.")
 
 
 # Contracts and the economy
@@ -23,6 +168,47 @@ Timeline contiues (UTC):
 * omd creates a new contract for people to convert Cards to Products
   efficiently, and includes a comparison to similar contracts. Players
   join. Thread: "Contract: SNOCS (Simple, No-Opportunity-Cost Sets)"
+
+* Dragon Corporation:
+
+  * Falsifian creates a contract allowing an officer with card-granting
+    power to cooperate with another party to give eir card to the Dragon
+    Corporation. Thread: "[Contract] [Dragon] Political outreach"
+
+    * It gets used in the thread "[Dragon] Political Involvement [attn.
+      Treasuror, Notary]"
+
+  * R. Lee tries out the Dragon QuickExchange contract. E accidentally
+    gives things to it getting nothing in exchange, but that gets fixed.
+    Thread: "Quickexchange use"
+
+  * Falsifian sells four shares of DRGN to P.S.S. for 40 Coins and 2
+    Justice cards, and P.S.S. joins the contract. Thread: "DRGN sale"
+
+* The Notary announces informal "Contract Awards" for participating in
+  contracts, creating popular contracts, and creating wealthy contracts.
+  Thread: "[Notary] Informal Contract Awards"
+
+* With the approval of other Pirates, R. Lee amends the Plundership to
+  make em the recordkeepor for the contract's currency of "doubloons",
+  and destroy any existing doubloons to remove uncertainty. Threads:
+  "[ATTENTION PIRATES: IMPORTANT]: Recordkeeping Parley", "[attn
+  Treasuror] arrrr"
+
+
+# Other Proposals
+
+* R. Lee proposes to take away the Referee's ability to arbitrarily give
+  players blots. Thread: "Easy Summary Judgement Repeal"
+
+* Aris pends a new version of eir Administrative State proposal. Eir
+  proposal allows officers to, with approval from others, manage
+  regulations related to their offices. This version adds a provision
+  that an officer can repeal existing regulations upon being elected.
+  Thread: "Beaurocratic Reengineering"
+
+* nch submits a version of a Competitive Finger Pointing idea e had
+  talked about earlier.
 
 
 # Rules questions
@@ -44,8 +230,17 @@ Timeline contiues (UTC):
   consider this question. Thread: "CFJ 3851 judged TRUE"
 
 * Is it possible to resolve an Agoran decision by announcement if
-  conditions 1-4 in R208 aren't satisfied? Thread: "[CFJ] Agoran
-  Announcements"
+  conditions 1-4 in R208 aren't satisfied? No: CFJ 3859 is judged FALSE.
+  Threads: "[CFJ] Agoran Announcements", "CFJ 3859 Judgement"
+
+  * Related: Proposal 8468 would patch the problem that CFJ 3859 found
+    not to be a problem.
+
+* What happens if you try to amend a specific rule revision (rather than
+  a rule)? Discussion in the thread "Easy Summary Judgement Repeal".
+
+* Is 2+2=5 if Agorans believe it? Thread: "humble agoran farmer is
+  curious"
 
 
 # The anonymous voter
@@ -55,7 +250,21 @@ email address casting a vote on Proposal 8442.
 
 * The first judge assigned to the case recuses emself. (Note that
   players disfavoured the case last week. Maybe they consider this a
-  hard case.)
+  hard case.) R. Lee quickly favours it and is re-assigned within
+  minutes of the recusal. Threads: "CFJ 3857 recusal", "CFJ 3857
+  assigned to R. Lee"
+
+* CFJ 3857 is judged DISMISS: the judge cannot determine whether the
+  anonymous voter cast a vote in eir message, even assuming they are
+  a player. The reason is unexpected: eir vote could only have succeeded
+  if e did not already have a valid ballot in the decision, and eir
+  attempt to withdraw any previous votes in the message would not
+  satisfy the conditions required for the "by announcement" action of
+  withdrawing a ballot. Thread: "CFJ 3857 Judgement: This is a weird
+  one."
+
+* After CFJ 3857 is judged, Jason reveals that e was the anonymous
+  voter. Thread: "CFJ 3857 Judgement: This is a weird one."
 
 
 # Miscellaneous
@@ -63,3 +272,18 @@ email address casting a vote on Proposal 8442.
 * The Herald annouces an updated version of the Birthday Tournament
   Regulations with some fixes. Thread: "Birthday Tournament Regulations
   v1.1"
+
+* There's some discussion about backdated Promotor reports, related to
+  G.'s proposal to make it official, in the thread "[Promotor] Draft"
+
+* Players wish Agora a happy birthday in the thread "[Glitter] Happy
+  Birthday!"
+
+* grok publishes a pledge to "do your will" for 24 hours. A silly dance
+  or song is requested. Thread: "A Pledge"
+
+* The Promotor is forgivably fined for lateness, and G. writes a bit
+  about appropriate fines for lateness of reports vs. other duties, in
+  the thread "[Promotor] Tardiness".
+
+* G. publishes a mysterious hash. Thread: "preparatory"
