@@ -1,5 +1,5 @@
 Status: Work in progress. This accounts for all emails up to but not
-including 2020-06-30 at 21:47 UTC.
+including 2020-07-03 at 18:32.
 
 
 Rough notes on this week's exile / welcome package scam:
@@ -31,6 +31,9 @@ Timeline continues (UTC):
   the middle of a long quoted part of an email. Subject line "[Herald]
   Weekly Report".
 
+  It's later determined (CFJ 3860) that this wasn't a valid ballot, but
+  for now, play proceeds as G. successfully hid a vote.
+
 * 2020-06-30 01:11: The Assessor purports to resolve the decision to
   adopt Proposal 8458, which closes the scam loophole. Thread:
   "[Assessor] Resolution of Proposal 8458"
@@ -45,10 +48,11 @@ Timeline continues (UTC):
   probably referring to the fact that the effect of Aris's withdrawn
   objections expired at 05:58. Thread: "Notice of Honour"
 
-* 2020-06-30 14:26: R. Lee identifies an alleged error in the
-  resolution: the Assessor missed G.'s hidden vote. Claiming the
-  assessment was invalid, R. Lee purportedly goes ahead and performs the
-  scam. Thread: "@Notary @Treasuror, I do the scam anyway"
+* 2020-06-30 14:26: R. Lee purportedly performs the scam after calling a
+  CoE identifying an alleged error in the resolution: the Assessor
+  missed G.'s hidden vote. Claiming the assessment was invalid, R. Lee
+  purportedly goes ahead and performs the scam. Thread: "@Notary
+  @Treasuror, I do the scam anyway"
 
   * The scam includes repeatedly being de-registered, registering,
     claiming a Welcome Package, and giving it to nch.
@@ -61,9 +65,17 @@ Timeline continues (UTC):
     * Later in the thread, P.S.S. calls this last part an overreach, and
       there's discussion of how many blots R. Lee will end up with.
 
+  * Later, with the judgement of CFJ 3860, it's determined the scam
+    didn't work after all, and 2020-0703 at 21:02 the Assessor denies R.
+    Lee's CoE so that the second resolution of Proposal 8458 will
+    eventually self-ratify.
+
 * 2020-06-30 14:27: Jason objects to all intents to deregister R. Lee,
-  then withdraws those intents. Just barely too late to prevent R. Lee's
-  message from working.  Thread: "Objections"
+  then withdraws those intents, again attempting to exploit the bug
+  identified with CFJ 3858. Eir message is just barely too late to
+  prevent R. Lee's scam message from working.  Thread: "Objections"
+
+  (Falsifian posted a brief analysis of the timestamps.)
 
 * 2020-06-30 15:09: R. Lee announces intent to ratify without objection
   a document restoring the state of the economy as if eir scam hadn't
@@ -71,18 +83,41 @@ Timeline continues (UTC):
   "Ratification Scam Fix Proposal"
 
   Players object to this intent later in the thread, for different
-  reasons. Falsifian objects initially, but withdraws after P.S.S. says
-  this was an understanding previously discussed. Aris objects saying it
-  is broken. omd also objects later, not giving a reason.
+  reasons. Falsifian objects to leaving R. Lee with assets to give G. a
+  win, but withdraws after P.S.S. says this was an understanding
+  previously discussed. Aris objects saying the document doesn't achieve
+  what it's supposed to. omd objects after arguing that the scam didn't
+  work (CFJ 3860).
 
 * 2020-06-30 15:36: Jason again announces the resolution of the decision
   to adopt Proposal 8458, this time accounting for G.'s vote. Thread:
   "[Assessor] Resolution of Proposal 8458 (Third time's the charm)"
 
+* 2020-07-02 01:00, 02:52: R. Lee purports to give G. 60 Victory Points
+  and G. purports to win. Thread: "Giving G. a win"
+
+* 2020-07-02 02:57: omd claims G.'s vote on Proposal 8458 was invalid,
+  which would mean the second attempt at assessing it (2020-06-30 at
+  13:15) succeeded and so the scam failed. Eir argument is that G.'s
+  vote doesn't meet the standard of "clarity". E calls CFJ 3860 soon
+  after.  Thread: "[Assessor] Resolution of Proposal 8458 (Third time's
+  the charm)"
+
 * 2020-07-02 04:44: omd calls CFJ 3861 saying a card-to-product
   conversion in R. Lee's message wasn't specified precisely enough,
   leading to much discussion. Still on the thread "@Notary @Treasuror, I
   do the scam anyway"
+
+* 2020-07-02 17:41 .. 2020-07-03 20:45: ATMunn judges CFJ 3860 FALSE,
+  after e first publishes a draft judgement, folleowed by discussion of
+  some past precedents and some history of hidden actions. The FALSE
+  judgement means the scam failed. Threads: "Draft Judgement of CFJ
+  3860", "CFJ 3860 judged FALSE"
+
+* 2020-07-03 00:39: Murphy takes back the office of ADoP from R. Lee by
+  deputisation. R. Lee lost the office when e was deregistered during
+  the attempted scam. Thread: "[ADoP] Metareport (attempted, also attn
+  Treasuror)"
 
 Other activity:
 
@@ -140,13 +175,37 @@ Other activity:
   * Make it not a crime to attempt actions harmful to Agora on
     non-public fora. (8465)
 
-  * Another go at officer regulations, this time letting an officer
-    repeal them after being elected. (8469)
+  * Amend the new rule about officer regulations by letting an officer
+    repeal the regulations after being elected. (The proposal would also
+    create that new rule if Proposal 8448 failed.) (8469)
 
   * Remove the Referee's power to arbitrarily impose fines. (8471)
 
+* The decisions on whether to adopt Proposals 8442-8457 are resolved.
+  Adopted:
 
-# Awards
+  * A subgame involving Cards. (8442)
+
+    * With the adoption of this proposal, an election begins for the new
+      office of Cooper. R. Lee and G. nominate emselves.
+
+  * Make it easier to change rule titles. (8445)
+
+  * Auction off Victory Cards. (8446)
+
+  * Another pass at officer-approved administrative regulations with an
+    application for the Herald (8448, 8449)
+
+    * The difference from the previous attempt is that now all players,
+      not just officers, are eligible to support or object to
+      regulations.
+
+  * Grant extensions on CFJ deadlines. (8450)
+
+  * Fixes and other small changes. (8452, 8453, 8454, 8455)
+
+
+# Awards and academics
 
 * Past Rulekeepor Trigon is awarded the patent title of Long Service,
   class 12 months, for past service, after a petition to the Herald.
@@ -161,6 +220,21 @@ Other activity:
     (R. Lee: "But as this is relatively recent, an exceptionally long
     and difficult period, and a current player, I wouldn't mind making
     an exception.")
+
+* Aris requests the re-processing of eir thesis "The Very Worst Thing
+  That Could Possibly Happen", citing previous uncertainty about the
+  requirements for degrees followed by the adoption of eir legislation
+  to remove that uncertainty. Thread: Thesis Reprocessing Request [attn.
+  Herald]"
+
+* ATMunn asks some questions about what's expected in a thesis. G. posts
+  a link to some past theses:
+  https://github.com/AgoraNomic/Herald/tree/master/Theses
+  Thread: "On Theses"
+
+* G. starts a discussion about a possible second process for art
+  degrees, different from the usual degree process. Thread: "art
+  degrees"
 
 
 # Contracts and the economy
@@ -210,8 +284,17 @@ Other activity:
 * nch submits a version of a Competitive Finger Pointing idea e had
   talked about earlier.
 
+* Jason submits a proposal to award a Black Ribbon to everyone who votes
+  unconditionally FOR it. Thread: "With apologies to G."
 
-# Rules questions
+  * R. Lee submits a proposal to award Black Ribbons to everyone who
+    votes unconditionally AGAINST Jason's proposal.
+
+  * There's discussion of whether players who already have Black Ribbons
+    would earn glitter.
+
+
+# Other rules questions
 
 * If the speaker posts a second objection, does that count as objecting
   for the purpose of R2124's "if the Speaker has objected to it in the
@@ -241,6 +324,10 @@ Other activity:
 
 * Is 2+2=5 if Agorans believe it? Thread: "humble agoran farmer is
   curious"
+
+* If a contract defines a switch and what it means to "flip" that
+  switch, can that definition override Rule 2162's definition of
+  flipping a switch? Thread: "[Contract, CFJ] Amusing Test Case"
 
 
 # The anonymous voter
@@ -287,3 +374,13 @@ email address casting a vote on Proposal 8442.
   the thread "[Promotor] Tardiness".
 
 * G. publishes a mysterious hash. Thread: "preparatory"
+
+* P.S.S. asks why Assessor and ADoP are listed as incompatible under
+  R2472. It turns out it's because the Assessor used to be the vote
+  collector for ADoP elections. Should we bring that back? Thread:
+  "R2472 Question: Incompatibility between Assessor and Associate
+  Director of Personnel"
+
+* There's a history lesson about the Annabel Crises and the Quantum
+  Crisis, both about propagation of mistakes, in the thread "[CotC] CFJ
+  3854 Judged DISMISS by Murphy"
