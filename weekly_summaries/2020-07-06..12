@@ -1,0 +1,181 @@
+Status: WIP. Covers everything through 2020-07-10 at 16:48 UTC.
+
+
+# Voting
+
+* The decisions on whether to adopt Proposals 8459-8472 are resolved.
+  Adopted:
+
+  * Handle zombies with assets ("Talismans") instead of switches. (8459,
+    8467)
+
+  * Don't let players immediately reclaim an Ultraviolet Ribbon after
+    Raising a Banner. (8460)
+
+  * Re-try a proposal that was adopted but failed to apply. (8461)
+
+    * The Rulekeepor identifies an error with the new proposal.
+
+  * Fixes and future-proofing. (8462, 8463, 8468, 8472)
+
+    * 8472 is a fix related to the exile scam.
+
+  * Repeal certification, and put in a replacement. (8466, 8470)
+
+    * 8470 distinguishes proposals that were paid for as "sponsored",
+      and thus eligible for rewards, but this status doesn't apply to
+      proposals submitted before 8470. The Promotor submits a proposal
+      to fix that in thge thread "Saving Sponsorship".
+
+  * Make it not a crime to attempt actions harmful to Agora on
+    non-public fora. (8465)
+
+  * Amend the new rule about officer regulations by letting an officer
+    repeal the regulations after being elected. (The proposal would also
+    create that new rule if Proposal 8448 failed.) (8469)
+
+
+# Rules questions
+
+* Discussion continues on what a "bug" is on the thread "[Arbitor] CFJ
+  3864 Assigned to G."
+
+
+# Birthday Tournament
+
+* Aris announces that e will be teaming up with non-contestant Trigon.
+  Thread: "[Diplonomic] Regulation BT7 Declaration"
+
+  * Other Contestants announce they'd be happy to have teammates.
+    Thread: "Diplonomic Teammate Request"
+
+* Gamemaster P.S.S. assigns Great Powers to players and the game begins.
+  Thread: "OFF: [Diplonomic 2020] Promulgation of Rules, Assignment of
+  Powers, and Start of Play"
+
+
+# Contracts
+
+* Trigon, in the context of the LoAFER contract, asks officers to tell
+  Agorans how they can make officers' lives easier. Thread: "[LoAFER]
+  [Poll] Thread of Grievances @Officers"
+
+* Cuddlebeam creates a contract that automatically sells off eir cards.
+  Thread: "humble agoran farmer opens a card shop [Attn. Notary]"
+
+* nch destroys the NAX contract, saying it needs to be reworked and e
+  will submit a new version later. Thread: "[NAX] [@Treasuror] Shutting
+  down for now"
+
+* Trigon's secret contracts:
+
+    * Jason tries out Trigon's secret contract number 4. Thread:
+      "[Notary] The Notes (weekly report)"
+
+      * E first stashes all eir assets except 20 Coins (joining the
+        contract requries 10) into a temporary holding contract for
+        safekeeping.  Thread: "Temporary Lockbox"
+
+      * It turns out the contract allows Trigon to sell Jason one Voting
+        Card for 10 Coins, which e does.
+
+    * R. Lee becomes a party to each of them. Thread: "Secret
+      Contracts".
+
+      * ATMunn also joins numbers 5 and 2.
+
+      * R. Lee tries to leave number 6. This leads to a debate about
+        whether e can leave the contract, which says e cannot. (Trigon
+        meanwhile proposes to amend the contract so e can.) (E also
+        presents evidence in the thread "Evidence for my most recent
+        CFJ".)
+
+        * This is CFJ 3865. Jason judges it FALSE, meaning R. Lee was
+          not able to leave.
+
+* ATMunn proposes a generic locker contract, where players can stash
+  their goods for safekeeping. Thread: "Public Lockers"
+
+  * In the discussion that follows, omd points out that putting in
+    "acting as emself" as an anti-contract-scam protection can be worked
+    around using promises, since promises don't require consent to
+    create.
+
+* ATMunn objects to an attempt by the Plundership to take the "Treasure"
+  promise from the Lost and Found Department in the thread "Shiny Loot",
+  suggesting it would be difficult to divide.
+
+  * R. Lee announces intent to transfer the "Treasure" promise to emself
+    instead, and pledges (class 1 million crime) to distribute the
+    treasure e gets from omd. omd objects.
+
+  * ATMunn proposes a parley to ban anybody who has objected to any
+    plundering, not just coins. E later says it's been pointed out eir
+    own parley would kick em out of the contract.
+
+* Cuddlebeam destroys eir Mystical Menagerie contract.  Thread: "humble
+  agoran farmer does some contract cleanup"
+
+* Cuddlebeam tries to create a contract that periodically reproduces.
+  Thread: "humble agoran farmer creates life"
+
+  * There's debate about whether the contract can reproduce itself
+    automatically.
+
+  * Cuddlebeam restarts the experiment with a typo fixed and a shorter
+    time between reproducing, then stops the experiment after waiting a
+    few minutes for reproduction to happen. Thread: "humble agoran
+    farmer continues to play god [Attn. Notary]"
+
+
+# Proposals
+
+* ATMunn proposes to increase the number of Coins in a Welcome Package
+  from 10 to 25, based on a Discord discussion. Thread: "Warmer Welcomes"
+
+  * P.S.S. suggests allowing the Treasuror to control it, and ATMunn
+    submits an updated proposal. Thread: "Regulated Welcomes"
+
+* ATMunn circulates some new ideas related to an earlier proposal e had
+  about having a Deck of cards. Thread: "Ideas for a Deck System"
+
+* Jason suggests making card crants once per office per months rather
+  than once per officer per month. Thread: "Definitely not a ploy to get
+  more pendants"
+
+* Trigon proposes to let unpended proposals disappear. Thread: "Some
+  ideas I've been kicking around"
+
+* Trigon proposes to give more difficult offices higher rewards. ATMunn
+  suggests some assignments of difficulty, which are discussed. Thread:
+  "Some ideas I've been kicking around"
+
+* ATMunn re-submits a "Contract Charities" proposal originally by G.
+  (and submitted but not pended by Falsifian). Threads: "Removals",
+  "Contract Charities version 3 or something"
+
+
+# Auctions
+
+* Discussion of the Treasuror's draft auction regulations continues in
+  the thread "[Treasuror] Second draft of auction regulations"
+
+* The Treasuror initiates the first Victory Card auction. Thread:
+  "[Treasuror] Victory Auction: July 2020"
+
+  * Players try to bid fractional numbers of coins. The Treasuror says e
+    plans to null any bids that exploit loopholes or are "generally
+    unfair play". Later in the thread it's decided bids have to be
+    integers because R2509 says a "number of (items)" is an integer by
+    default.
+
+
+# Miscellaneous
+
+* ATMunn tries to take a "Treasure" promise that omd created on June 22
+  from the Lost and Found Department by mixing the intent in with other
+  business, but is discovered. Thread: "More Pledge Destruction"
+
+* ATMunn declares that e ceases to exist, but is foiled by the fact that
+  that is probably a regulated action. We learn what ATEOISIDTIDWHPAFALT
+  stands for. Thread: "just a normal action"

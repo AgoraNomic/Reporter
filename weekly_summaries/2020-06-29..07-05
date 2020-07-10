@@ -123,13 +123,12 @@ Timeline continues (UTC):
 
 Other activity:
 
-* There's discussion (starting with a proposal) about the best way to
-  fix the bug being exploited, and more generally whether exiled players
+* There's discussion (starting with a proposal) about the best long-term
+  fix for the bug being exploited, and more generally whether exiled players
   should be welcomed back and how exile should work. Thread: "Welcoming
   Back Outlaws"
 
-* Aris proposes a fix to the exile scam bug in the thread "Welcoming
-  Back Outlaws".
+  * Aris proposes a fix in the thread "Welcoming Back Outlaws".
 
 * CFJ 3856 is judged FALSE, meaning omd's attempt to block the scam
   using a counter-scam involving a contract that threatens to amend
@@ -144,6 +143,11 @@ Other activity:
 
   * On the thread it's mentioned that the same loophole was fixed for
     apathy attempts a long time ago.
+
+* G. judges CFJ 3864 TRUE, finding that the loophole being exploited is not a
+  "bug", and so the Treasuror broke the rules last week when e certified
+  Proposal 8458 as a bugfix. This leads to some discussion on what a bug is,
+  continuing from the judge's arguments. Thread: "CFJ 3864 Assigned to G."
 
 
 # Birthday
