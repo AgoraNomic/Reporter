@@ -1,24 +1,54 @@
-Status: This covers the whole week, but still needs a summary.
-
-
-Rough notes on this week's exile / welcome package scam:
-* Could be blocked by objecting and withdrawing objections.
-* Payload date: 2020-06-30 14:26 ("@Notary @Treasuror, I do the scam anyway")
-* Aris's last objection withdrawal was 2020-06-29 06:04 at the latest.
-* Jason withdrew objections a minute too late: 20202-06-30 14:26, thread: "Objections"
-* We thought it was over but then it was revealed G. cast a hidden vote in https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043813.html
-  * Aris mentions e's working on fix. Thread: "Hidden Action Fixes"
-
 # Summary
 
-WIP
+Welcome, Fred! And congratulations to Trigon and P.S.S. for eir new 12-
+and 3-month service awards.
 
-* Welcome, Fred! And Happy Birthday, Agora!
+Fred joins us on the week of Agora's Birthday. It's an exciting week,
+with the start of the Birthday Tournament immenent, and unexpected new
+life for last week's exile scam keeping us thoroughly entertained in the
+meantime. This latest twist centred on a hidden vote, and was put to
+rest by a new judgement (CFJ 3860) finding that hidden ballots are
+invalid because they are not "clear". The scam generated many other
+interesting CFJs this week and last.
+
+Last week's mystery of the anonymous voter is resolved, but G. creates a
+new mystery by publishing a hash. Is another scam afoot?
+
+We continue to ask silly questions. Is 2+2=5 true if we believe hard
+enough? More under "Other rules questions". We also ask questions about
+Agora's history, and learn of the Annabel Crises and Quantum Crises in
+the thread "[CotC] CFJ 3854 Judged DISMISS by Murphy".
+
+Plenty of proposals were adopted this week. The Sets economy new has a
+new subgame involving, appropriately, sets of cards, and we have a new
+regular auction: a Victory Card together with some stuff from Lost and
+Found. On the political/legislative side, officers can now make
+limited regulations, with public approval.
+
+Agorans' contract fun continues to keep our Notary busy, but not too
+busy to announce some new (informal) Contract Awards. Let's hope this
+becomes a tradition.
+
+Plenty of new proposals were drafted or submitted this week, including
+competing re-workings of the karma system, and some plain old proposal
+bribery.
 
 
 # Exile scam
 
-Timeline continues (UTC):
+A scam that started last week got unexpected new life this week. The
+scam was thought to be dead because CFJ 3858 found that players could
+delay the exile step 24 hours at a time by withdrawing objections,
+leaving enough time for the fix proposal to be adopted. However, G. hid
+a vote for that proposal, possibly rendering the message resolving the
+decision to adopt the proposal INEFFECTIVE. In the end, the judgement of
+CFJ 3860 found that G.'s hidden vote was not a valid ballot, based on an
+analysis of the meaning of the word "clear".
+
+In the end, this scam and the counter-efforts generated many CFJs: at
+least CFJs 3856, 3858, 3860, 3864; possibly others.
+
+Timeline continues from last week (UTC):
 
 * 2020-06-29 05:58 and 06:04: Aris objects to the intents to deregister
   R. Lee then withdraws eir objections, exploiting the bug that this
@@ -201,8 +231,8 @@ Other activity:
     non-public fora. (8465)
 
   * Amend the new rule about officer regulations by letting an officer
-    repeal the regulations after being elected. (The proposal would also
-    create that new rule if Proposal 8448 failed.) (8469)
+    repeal existing regulations after being elected. (The proposal would
+    also create that new rule if Proposal 8448 failed.) (8469)
 
   * Remove the Referee's power to arbitrarily impose fines. (8471)
 
