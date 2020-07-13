@@ -1,4 +1,4 @@
-Status: WIP. Covers everything before 15:39 UTC on 2020-07-12.
+Status: Covers all messages for the week, but needs a summary.
 
 
 # Voting
@@ -34,11 +34,31 @@ Status: WIP. Covers everything before 15:39 UTC on 2020-07-12.
     repeal the regulations after being elected. (The proposal would also
     create that new rule if Proposal 8448 failed.) (8469)
 
+* Voting begins on Proposals 8473-8476:
+
+  * Everyone who votes FOR gets a Black Ribbon. (8473)
+
+    * There's some discussion of the legitimacy of this method, and of
+      forcing through proposals generally.
+
+  * Allow karma to be given to (or taken from) a player without
+    balancing with another player. (8474)
+
+  * Make the authors of the previous two proposals eligible for rewards,
+    patching over a hiccup caused by a rule change. (8476)
+
+  * Allow charities to be publicly funded. (8476)
+
 
 # Rules questions
 
 * Discussion continues on what a "bug" is on the thread "[Arbitor] CFJ
   3864 Assigned to G."
+
+* CFJ 3863 is judged FALSE, meaning a message by Aris that tried to
+  redefine what it meant to flip a particular contract-defined "switch"
+  didn't actually redefine that. Some discussion of the judgement
+  follows. Thread: "CFJ 3863 Assigned to Murphy"
 
 
 # Birthday Tournament: Diplonomic
@@ -57,22 +77,31 @@ Threads have "[Diplonomic]" or "[Diplonomic 2020]" in the subject line.
 
 * Proposals:
 
-    * Some proposals pass. One ("Team Play" by Aris) allows
-      non-contestent "teammates" to win along with the contestants
-      they're working with. The rest are clarifications or fixes.
+  * Some proposals pass. One ("Team Play" by Aris) allows non-contestent
+    "teammates" to win along with the contestants they're working with.
+    Another ("Proposal Timing" by Aris) make the timing of proposal
+    resolution predictable.
 
-    * omd proposes to give each player another unit, but only if they
-      voted for their proposal. Thread: "Disagreeable Proposal"
+  * omd proposes to give each player another unit, but only if they
+    voted for their proposal. Thread: "Disagreeable Proposal"
 
-      * Jason points out omd's proposal would require the Judge to
-        violate the rule about not revealing votes. Falsifian submits a
-        proposal to allow the Judge to reject proposals with problems
-        like this.
+    * Jason points out omd's proposal would require the Judge to violate
+      the rule about not revealing votes. Falsifian submits a proposal
+      to allow the Judge to reject proposals with problems like this.
+
+    * ais523 CFJs that one of these proposals is also an Agoran proposal
+      because the message submitting it met the requirements.
+
+  * G. proposes to make proposals anonymous. Thread: "anonymous
+    proposal"
 
 * The first turn (Spring 1901) ends. ATMunn and omd make maps:
   https://puu.sh/G5ZuN/d9ca580a07.png
   https://a.qoid.us/diplonomic-S1901M.svg
   https://a.qoid.us/diplonomic-F1901M.svg
+  (the last one is attached to an agora-discussion message with subject
+  "[Diplonomic] network view")
+  Threads: "Resolution of Spring 1901", "network view"
 
 
 # Contracts
