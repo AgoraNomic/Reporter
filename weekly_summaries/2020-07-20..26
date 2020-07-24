@@ -1,22 +1,49 @@
-Status: WIP.
+Status: WIP. Covers emails through 2020-07-24 at 17:38 UTC.
+
+
+# Voting
+
+* The Assessor initiates an Assessor election in order to get a Green Ribbon,
+  having recently lost eirs when e Raised a Banner. Thread: "[Assessor]
+  Election"
 
 
 # Victory, titles, etc.
 
-* The Prime Minister appoints Jason to the office of Speaker. (E won
-  last week.) Thread: "New Speaker"
+* The Prime Minister appoints Jason to the office of Speaker, and the Herald
+  awards em the title Champion, for eir victory last week. Threads: "New
+  Speaker", "Hear, ye! Hear, ye! A new Champion!"
 
 
 # Birthday Tournament
 
 The Birthday Tournament, which is a game of Diplonomic, continues.
 
+* A proposal is enacted allowing a Contestant to authorize a teammate to submit
+  orders for eir country.
 
-# Miscellaneous
+
+# Websites
 
 * Gaelan announces that the ruleset viewer at
   https://agora-ruleset.gaelan.me is working again. Thread: "Rules
   Viewer Fixed"
+
+* Gaelan petitions the Webmastor or Distributor to set up HTTPS. Thread:
+  "Petition to Webmastor and/or Distributor"
+
+
+# Miscellaneous
+
+* Another indictment process begins in the thread "The Notes (pledges &
+  promises) - revision 2".
+
+  "Maybe this time, we'll finally get to see how the process works."
+  - The Referee
+  (Last time, the indictment rules were broken.)
+
+* The second Victory Card auction begins. Thread: "Second Victory Auction of
+  July 2020"
 
 
 # Contracts
@@ -46,10 +73,38 @@ The Birthday Tournament, which is a game of Diplonomic, continues.
   Thread: "Talisman Revocation"
 
   * Jason submits a fix proposal in the thread "(another) talismans
-    fix".
+    fix" (and revises it a couple of times).
 
-* An email address sends some strange messages borrowing other players'
-  names, beginning with a purported registration attempt borrowing other
-  players' names. It's probably a bot. Threads: "Registration",
-  "[Bertrand Russell] Re: [Power-5]", "[Proposal] Contract-Specific
-  Contracts"
+* An email address sends some strange messages, beginning with a purported
+  registration attempt borrowing other players' names. After some speculation,
+  Gaelan reveals it's a bot e created.  Threads: "Registration" and "Coming
+  clean"
+
+  * For the messages, look for anything sent by "Greg P. Thomas II
+    <thomasgregoryp2@gmail.com>", and see also links Gaelan posted in the
+    thread "Coming Clean" pointing to more generated text.
+
+  * Were Greg's emails effectively sent by Gaelan? This is discussed in the
+    context of finger-pointing in the threads "Registration" and "[Proposal]
+    Contract-Specific Contracts"; the Referee finds that Gaelan was responsible
+    for Greg's emails. It's also mentioned in the thread "Coming clean".
+
+  * Jason tries to pend a proposal submitted by the bot, but it's decided (a)
+    the message was too ambiguous to actually create a proposal, and (b) it
+    wasn't sent by a person, so it wouldn't have worked anyway. ais523 wonders
+    if a non-person can ever take an action by announcement. Thread:
+    "[Proposal] Minion Plan"
+
+  * There's some discussion about what an "organism" is (part of Agora's
+    definition of "person"). Thread: "Registration"
+
+* R. Lee tries to call "N CFJs" where "N is the number of CFJs that it would be
+  reasonable for [em] to fully write out." The Arbitor says e considers it not
+  to have worked. Thread: "@Arbitor Sillyness"
+
+
+# Rule refactoring
+
+* Jason circulates another draft of eir "Regulatory Instruments" proposal,
+  which brings regulations into the "bodies of law" framework set up by Alexis
+  earlier. Thread: "Regulatory Instruments vN+1"
