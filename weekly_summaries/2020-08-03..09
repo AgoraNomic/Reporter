@@ -1,11 +1,17 @@
-Status: WIP. Covers messages trough 2020-08-09 at 18:40 UTC.
+Status: WIP. Covers all messages for the week, but needs a summary.
 
 
 # Registration
 
 * New player Shelvacu (or Shel) Registers. In the same message, e
-  announces eir Agoran Birthday, leading to a CFJ and debate. Thread: "I
+  announces eir Agoran Birthday, leading CFJ 3873 and debate. Thread: "I
   wish to register"
+
+
+# Victory and culture
+
+* The winners of this year's Birthday Tournament are awarded the title
+  Champion: ATMunn, G. and Jason.
 
 
 # Miscellaneous
@@ -34,15 +40,16 @@ Status: WIP. Covers messages trough 2020-08-09 at 18:40 UTC.
 See also: Registration (when a player first registers, is it immediately
 eir Agoran Birthday?).
 
-* CAN we send public messages? Yes (but the judge of CFJ 3869
-  accidentally judges it FALSE instead of TRUE).
+* CAN we send public messages? Yes. (But the judge of CFJ 3869
+  accidentally assigns the wrong judgement the first time.)
 
 * There's discussion about Agora's definition of "person" and plural
   collectives in the thread "Badge Problems".
 
 * Are a contract's full provisions "publicly available" if one of the
   provisions refers to "a document that G. has previously published that
-  has the SHA-256 hash ..."? Thread: "But I Won't Do That"
+  has the SHA-256 hash ..."? The consensus seems to be: yes. Thread:
+  "But I Won't Do That"
 
 * Did Trigon's attempt to neutralise the "DISCLAIMER: There are no game
   actions in this message." added to eir signature by putting it in its
@@ -52,6 +59,10 @@ eir Agoran Birthday?).
 * Jason proposes to remove the part about a "scope" in the rule about
   ratification without objection, and suggests recent attempts may have
   failed because no "scope" was specified. Thread: "RWO fix"
+
+* Discussion continues on whether Proposal 8486 correctly fixes an
+  escalation bug in R2579 (Fee-based Actions) in the thread "Fee-based
+  method fix".
 
 
 # Regulations
@@ -63,3 +74,11 @@ eir Agoran Birthday?).
 * The Treasuror promulgates the first auction regulations, having
   previously circulated drafts and doing test runs via the Victory
   Auctions. Thread: "Intent to promulguate auction regulations"
+
+
+# Miscellaneous
+
+* Our first functional Indictment under Rule 2619 concludes. R. Lee is
+  fined one blot for failing to honour eir pledge to grant Victory Cards
+  to G. after their recent scam failed. Thread: "Voting on the
+  Indictment of R. Lee"
