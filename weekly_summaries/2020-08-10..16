@@ -1,7 +1,58 @@
-Status: WIP
+Status: Covers the whole week, but needs a summary.
+
+
+# Players old and new
+
+* New player Nathan joins Agora.
+
+* Bayushi makes an appearance in the thread "Somewhat Annoying Experiment".
+
+
+# Voting
+
+* The decisions on adopting Proposals 8478-8487 are resolved.
+
+  * Only 8481 is rejected. It would have made non-pending Proposals
+    disappear instead of having the Promotor track them. The Promotor
+    felt it wasn't needed.
+
+  * Adopted:
+
+    * Make Finger-Pointing competitive. (8479)
+
+    * Make the rewards higher for more "complex" offices. (8482)
+
+    * Apply the effects of "THE MYSTERY DOCUMENT", published last week
+      by G., which it turns enacts a new rule allowing certain players
+      to publish "Rulebending Forms" (8483)
+
+    * Clarify Rule 2576, about asset ownership. (In the past, there's been
+      confusion about whether assets are destroyed or go to the Lost and
+      Found department, when their owner deregisters, for example.) (8484)
+
+    * Make it so a person never ceases to be a person. (For one thing,
+      this means that keeping correct records doesn't require knowing who
+      is still alive.) (8485)
+
+    * Simplify how Ribbon ownership is defined. But also, it turns out,
+      make people eligible for Transparent Ribbons. (8487)
+
+    * Various fixes. (8478, 8480, 8486)
+
+* Voting begins on Proposals 8488 and 8489:
+
+  * Proposal 8488 is another tweak related to the fee-based action
+    rules.
+
+  * Proposal 8489 adds a new mechanic to the officer card-granting
+    rules.
 
 
 # Scams, rule questions, etc.
+
+* Can a Rulebending Form escape its limitations by explicitly taking
+  precedence over the rule that limits it? ais523 calls CFJ 3874 in the
+  thread "Resolution of Proposals 8478-8487".
 
 * Can a player be granted birthday gifts on the same day they register?
   Yes. (CFJ 3873)
@@ -13,8 +64,67 @@ Status: WIP
   recent auction overhaul, this was prohibited. Thread: "August zombie
   auction"
 
+* G. publishes the first "Rulebending Form", which gives names to the
+  five Eastman weeks of each month. Thread: "The First Form"
+
+* Are hard-to-compute contract provisions effective? Gaelan tries an
+  experiment in the thread "Somewhat Annoying Experiment", calling CFJ
+  3875.
+
+* Can multiple persons in the same body receive ribbons? ATMunn calls
+  CFJs in the thread "[Diplonomic 2020] BT3 Intent to Announce Winners,
+  Badge, and Clean-up".
+
+* When an officer's report includes a caveat, does the indicated
+  information still self-ratify if it's not separately CoE-ed? Thread:
+  "[Treasuror] [Weekly Report] Forbes 486"
+
+* Jason sends a message to the backup list that at first seems like it
+  might be an objection to an intent to Declare Apathy that nobody saw.
+  But it looks like e just manually added "Re:" to the start of the
+  subject line. Thread: "Re: BAK: Apathy Intent"
+
+* After eir Propsoal 8487 is adopted, Murphy grants emself a Transparent
+  Ribbon, because the proposal re-awarded em all eir ribbons. Was the
+  proposal a scam by Murphy from the start? (Other players follow suit.)
+  Thread: "Resolution of Proposals 8478-8487 (attn Tailor)"
+
+
+# Offices, titles, etc
+
+* Prime Minister nix appoints ATMunn to the office of Speaker.
+
+* The Herald awards the Badge of Diplonomic to the Contestants in this
+  year's Birthday Tournament, as well as people who assisted them.
+  Thread: "[Diplonomic 2020] BT3 Intent to Announce Winners, Badge, and
+  Clean-up"
+
 
 # Contracts
 
 * nix creates a contract allowing others to trade with em without em
   needing to interact. Thread: "Contract: Automatable Exchange Machine"
+
+
+# Agoran Press
+
+* Falsifian creates the Agoran Press contract as a way to allow players
+  to be rewarded for publishing weekly "Reportor" summaries. Thread:
+  "[Contract] Agoran Press"
+
+  * The Notary announces intent to fund the contract as a charity.
+    Thread: "@Notary Donation Level Petition"
+
+  * Falsifian calls for other players to write Reportor summaries. nix
+    says past reports recently helped em track down some past events.
+    Thread: "Call for Reportors. 5 Coins per summary!"
+
+
+# Miscellaneous
+
+* There's discussion of emails not lining up the same way in all email
+  clients, related to format=flowed formatting. Thread: "Agoran
+  Directory"
+
+* The Tailor starts a discussion on changing the way glitter prices
+  work, in the thread "[Tailor] Rethinking Glitter Prices"
