@@ -1,4 +1,4 @@
-Status: WIP
+Status: WIP. Includes messages through 19:29 UTC on 2020-10-25.
 
 Note: Many of this week's messages were sent to the backup list.
 
@@ -9,7 +9,8 @@ Note: Many of this week's messages were sent to the backup list.
 
   * Jason had eir zombie submit many of them, listing Jason as
     co-author, in an attempt to get a Lime ribbon. G. reacts by voting
-    AGAINST those.
+    AGAINST those, and then Jason responds by pledging not to go for a
+    lime ribbon.
 
   * The proposals:
 
@@ -17,8 +18,16 @@ Note: Many of this week's messages were sent to the backup list.
 
     * Add inflation to the economy. (8514)
 
-    * Redo the Ministry system. Each player chooses eir ministry and gets
-      an associated benefit. (8515)
+      * An ambiguity was brought up during voting in how some numbers
+        are computed, but it doesn't seem likely to sink the proposal.
+        Aris (the author) proposes a fix (thread: "[Proposal] Asset
+        Rounding").
+
+    * Redo the Ministry system. Each player chooses eir ministry and
+      gets an associated benefit. (8515)
+
+      * A missing definition was identified during voting, but it
+        doesn't seem like a dealbreaker.
 
     * Allow late birthday gifts (revised). (8507)
 
@@ -43,11 +52,24 @@ See also: Appreciation
   partway through Monday, the main lists hosted at agoranomic.org
   stopped working, and we switched to the backup list.
 
+* Gaelan, nix, Aris and Trigon set up a new mailing list and the
+  Registrar announces intent to make it public. Thread: "[Registrar] New
+  public forum (contains intent to flip Publicity)"
+
+  * (For different technical reasons, the announcement of intent does
+    not appear in any of the four prior mailing lists' archives: OFF,
+    BUS, DIS, BAK. But it was sent directly to all players, and also
+    appears in the new list's archive.)
+
+  * There was some discussion leading up to it in the thread "BAK's SPF
+    settings are incorrect".
+
+  * There's discussion on the thread about ways to make sure it really
+    becomes Public, in case some technicality arises, including
+    ratification and rulebending.
+
 * ais523 identifies a problem with the backup list's SPF settings.
   Thread: "BAK's SPF settings are incorrect"
-
-* There's discussion of switching to a different backup list in the
-  thread "BAK's SPF settings are incorrect".
 
 
 # Appreciation
@@ -59,12 +81,17 @@ See also: Appreciation
 * Aris proposes to grant our Distributor omd the title of Hero of Agora
   Nomic. Thread: "[Proposal] Our Heroic Distributor"
 
+* The Herald, with players' support, awards Jason the title of Roboticit
+  General "in recognition of eir technical services to Agora".
 
-# Contracts
+
+# Contracts and other agreements
 
 * Cuddlebeam drafts a contract that would create a currency backed by
   obligations to vote for someone to win. Thread: "humble agoran farmer
   makes money, literally (Proto Contract)"
+
+  * There's some discussion in the thread about promises vs. contracts.
 
 * Falsifian proposes some changes to the Dragon QuickExchange contract,
   but Gaelan points out a problem. Thread: "[Dragon Proposal]
@@ -73,6 +100,9 @@ See also: Appreciation
 * Cuddlebeam creates a contract letting people gain one "Potato" per
   week with no clear purpose, and people join. Threads: "humble agoran
   farmer, farms [Attn. Notary]", "[Farmer] Potato report".
+
+* Murphy sets up a reverse auction using a promise. Thread: "Reverse
+  auction (attn Notary)"
 
 
 # Rule-smithing
@@ -86,6 +116,10 @@ Various proposals were submitted this week; not all are listed here.
 * Jason brings back an old proto-proposal by G. for "Stones" that grant
   players special powers. Thread: "[Proto] Stones"
 
+* Aris drafts to possible replacements for the definition of "person",
+  aiming to make them simpler and a bit more inclusive, with CFJ 3877 in
+  mind. Thread: "Personhood Protos"
+
 
 # Rule questions
 
@@ -93,13 +127,20 @@ Various proposals were submitted this week; not all are listed here.
   to fix it by raising its power. Thread: "[Proposals] Lime Bait [attn.
   Treasuror]"
 
-* Falsifian calls a CFJ asking whether G.'s recent attempt to cause
-  people to win the game with Rulebending was successful. Thread: "[CFJ]
-  Re: BUS: Covering My Bases"
+* Was G.'s recent attempt to cause people to win the game with
+  Rulebending successful? Yes: Murphy judges CFJ 3887 TRUE. Threads:
+  "[CFJ] Re: BUS: Covering My Bases", "[Arbitor] CFJ 3887 Assigned to
+  Murphy"
 
 * Can a message to the discussion list be a public message if it's
   clearly intended to be? No (at least, not while we know someone's not
   described to that discussion list): Gaelan judges CFJ 3886 FALSE.
+
+* Aris submits some new CFJ annotations, and the Rulekeepor pays em in
+  accordance with eir pledge "CFJ annotations please".
+
+* Is an empty email body with subject line indicating it's a report
+  actually a self-ratifying report? No: G. judges CFJ 3885 FALSE.
 
 
 # Miscellaneous
