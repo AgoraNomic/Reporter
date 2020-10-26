@@ -1,4 +1,4 @@
-Status: WIP. Includes messages through 19:29 UTC on 2020-10-25.
+Status: WIP. Covers all messages for the week, but needs a summary.
 
 Note: Many of this week's messages were sent to the backup list.
 
@@ -50,7 +50,11 @@ See also: Appreciation
 
 * There was some trouble with the mailing lists this week. Starting
   partway through Monday, the main lists hosted at agoranomic.org
-  stopped working, and we switched to the backup list.
+  stopped working, and we switched to the backup list. Our Distributor,
+  omd, got it working again on Sunday.
+
+  * omd posted an explanation with subject "[Distributor] List
+    postmortem".
 
 * Gaelan, nix, Aris and Trigon set up a new mailing list and the
   Registrar announces intent to make it public. Thread: "[Registrar] New
@@ -119,6 +123,9 @@ Various proposals were submitted this week; not all are listed here.
 * Aris drafts to possible replacements for the definition of "person",
   aiming to make them simpler and a bit more inclusive, with CFJ 3877 in
   mind. Thread: "Personhood Protos"
+
+* Murphy drafts a regulation for a reverse auction. Thread:
+  "Proto-Regulation: Reverse Auctions"
 
 
 # Rule questions
