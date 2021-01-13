@@ -1,4 +1,4 @@
-Status: WIP. Covers emails through 2021-01-08 at 23:12 UTC.
+Status: WIP. Covers emails through 2021-01-10 at 18:31 UTC.
 
 
 # Mayhem
@@ -34,12 +34,16 @@ Status: WIP. Covers emails through 2021-01-08 at 23:12 UTC.
     and Jason explain how the dictatorship came to be, in the thread
     "Explaining the Current Dictatorship"
 
+* H. Dictator and controller of Rulebending G. drafts a proposal to
+  repeal eir Rulebending rule and patch over some bugs e has previously
+  exploited. Thread: "proto: dictator fixes"
+
 
 # The economy
 
 * Auctions:
 
-  * The year's first Victory Auction continues. Jason and Trigon engage
+  * The year's first Victory Auction concludes. Jason and Trigon engage
     in a bidding war across different lists. nix and Trigon each place
     a high bid and then withdraw. Threads: "[Treasuror] [Auction] First
     Victory Auction of January 2021", "@Treasuror Bid Adieu"
@@ -51,8 +55,12 @@ Status: WIP. Covers emails through 2021-01-08 at 23:12 UTC.
   "lets people send and trade made-up currencies". Threads are on
   agora-discussion and have "[AX]" in the subject line.
 
-  * Falsifian offers incentive to test it, through promises that pay
-    real Coins in exchange for Agoran Exchange currency.
+  * Falsifian pays people to test it, through promises that pay real
+    Agoran Coins in exchange for Agoran Exchange currency. Thread:
+    "[Promise] Paid testing"
+
+  * There's some discussion about what should be included in the emails
+    sent by the bot. Thread: "[AX] 2 events"
 
 
 # Miscellaneous
@@ -66,6 +74,11 @@ Status: WIP. Covers emails through 2021-01-08 at 23:12 UTC.
 * Discussion continues about adding recent events to Agora's homepage.
   Thread: "[Webmastor] Homepage Updates"
 
+* Jason submits a proposal to clarify that an apology can't expunge
+  more blots than someone has. Then e withdraws it and JTAC submits a
+  more general fix. Threads: "[proposal] Apologetic clarification",
+  "[Proposal] Extension to Blot Expungement Definitions"
+
 * The Stonemason petitions the Ministor for an office Interest. The
   Ministor denies the petition but announces intent to assign one
   anyway. Thread: "[Petition] Stonemason switches [attn. Ministor,
@@ -74,6 +87,15 @@ Status: WIP. Covers emails through 2021-01-08 at 23:12 UTC.
 * Aris reveals that e was the publisher of an anonymous "newspaper"
   during last year's Birthday Tournament of Diplonomic. Thread:
   "Confession"
+
+* Aris drafts a proposal to ratify a recent publication of the ruleset,
+  as is done from time to time. There is some discussion about which
+  version we should ratify. Thread: "[Proto] SLR Ratification"
+
+* Our new Herald, nix, proposes to repeal Rule 2510, Such is Karma.
+
+* The Rulekeepor solicits suggestions for Read the Ruleset Week
+  activities. Thread: "[Rulekeepor] RTRW Festivities"
 
 
 # Elections and Referee rules
@@ -93,13 +115,9 @@ Status: WIP. Covers emails through 2021-01-08 at 23:12 UTC.
   * Gaelan becomes a candidate as well, briefly outlining a platform of
     platonism, saying the Referee should be subservient to the rules.
 
-* Proposals:
-
-  * Jason submits a proposal to clarify that an apology can't expunge
-    more blots than someone has. Then e withdraws it and JTAC submits a
-    more general fix. Threads: "[proposal] Apologetic clarification",
-    "[Proposal] Extension to Blot Expungement Definitions"
-
 * H. Notary ATMunn initiates an election for Notary, saying e's content
   to keep the office if nobody else wants it. Thread: "Initiation a
   Notary Election [@ADoP]"
+
+* nix wins an election for Herald as the only candidate, replacing
+  P.S.S. who left recently. Thread: "Filling Offices"
