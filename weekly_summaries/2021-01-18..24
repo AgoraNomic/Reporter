@@ -1,9 +1,9 @@
-Status: WIP. Covers messages through 2021-01-20 at 17:35 UTC.
+Status: WIP. Covers messages through 2021-01-20 at 28:28 UTC.
 
 
 # Players
 
-* Slam_Joe_Jr_Supreme joins the game.
+* Slam_Joe_Jr_Supreme joins the game. (Joe for short.)
 
 
 # Voting and elections
@@ -69,12 +69,14 @@ G. currently rules us via Rulebending.
   * Falsifian wonders whether the proposed definition rules out
     "not-very-smart" computer programs.
 
-* G. submits a revised version of eir proposal to replace the zombie
+* G. submits revised versions of eir proposal to replace the zombie
   rules. Thread: "third level Turn Undead"
 
   * There's some discussion about a requirement to send deregistration
     intents to a player's email address: can we tell whether it was
-    done?
+    done? G. replaces the requirement with a SHOULD, and allows the
+    deregistration to be blocked with three objections, in eir final(?)
+    version "Turn Undead v2".
 
 
 # Miscellaneous
@@ -93,14 +95,18 @@ G. currently rules us via Rulebending.
 
 * Jason disolves the AAA contract. Thread: "[AAA] Dissolution"
 
-* Cuddlebeam does some business, including buying the Concentration
-  Stone from ATMunn. Threads: "humble agoran farmer does business",
-  "humble agoran farmer does more business", "backroom dealings with a
-  humble agoran farmer"
+* Cuddlebeam does some business, including buying Victory Cards and
+  buying the Concentration Stone from ATMunn.
 
-  * E later announces that some of eir trades didn't work because e had
-    eir assets stored in eir "locker" contract. Thread: "humble agoran
-    farmer believes in safety"
+  - Some of it turns out to have failed because CuddleBeam had eir
+    assets stored in eir "locker" contract. E still prebably gets the
+    Concentration Stone; Jason points out ATMunn transferred it
+    unconditionally.
+
+  - Threads: "humble agoran farmer does business", "humble agoran
+    farmer does more business", "backroom dealings with a humble agoran
+    farmer", "humble agoran farmer does even more business", "humble
+    agoran farmer believes in safety"
 
 * Aris donates a pendant to JTAC since "e's had a lot of good ideas".
   Thread: "A Gift for JTAC"
