@@ -1,4 +1,4 @@
-Status: WIP. Covers messages through 2021-01-20 at 28:28 UTC.
+Status: WIP. Covers messages through 2021-01-24 at 20:53 UTC.
 
 
 # Players
@@ -6,10 +6,46 @@ Status: WIP. Covers messages through 2021-01-20 at 28:28 UTC.
 * Slam_Joe_Jr_Supreme joins the game. (Joe for short.)
 
 
+# Victory and economic reset
+
+* Cuddlebeam wins with Victory Points (e Takes Over the Economy) after
+  doing a bunch of trading with other players, and with the help of G.
+
+  * E buys victory cards by granting trade promises to players who own
+    them: generally new and less active players.
+
+  * G. transfers all eir Victory Cards and Victory Points to Cuddlebeam
+    (and uses up eir Blot-B-Gones in the same message). Cuddlebeam
+    rewards G. with a White Ribbon. Threads: "Amnesty, and spend em
+    while you got em.", "humble agoran farmer thanks their partner"
+
+  * Some of the transfers failed because CuddleBeam had eir assets
+    stored in eir "locker" contract. E still probably at least got the
+    Concentration Stone; Jason points out ATMunn transferred it
+    unconditionally.
+
+  * Thread with victory message: "humble agoran farmer NUKES THE ECONOMY".
+
+  * Other related threads: "humble agoran farmer does business",
+    "humble agoran farmer does more business", "backroom dealings with
+    a humble agoran farmer", "humble agoran farmer does even more
+    business", "humble agoran farmer believes in safety"
+
+  * The Prime Minister appoints em Speaker. Thread: "[PM] New Speaker"
+
+* People sell more Victory Cards to Cuddlebeam. Threads: "Buying a
+  Legislative Card", "Learning nothing from history", "humble agoran
+  farmer trades with Jason"
+
+* ATMunn creates a contract to auction off eir newly granted Cards.
+  Threads: "friendly neighborhood notary sells eir belongings", "I want
+  that!"
+
+
 # Voting and elections
 
-* Voting continues on the Referee election. Thread: "[ADoP] Voting for
-  Referee"
+* The Referee election ends, with JTAC elected. Threads: "[ADoP] Voting
+  for Referee", "[ADoP] Resolution of Referee election"
 
 * Voting begins on Proposals 8530 and 8531.
 
@@ -30,9 +66,27 @@ Status: WIP. Covers messages through 2021-01-20 at 28:28 UTC.
 * Can ID numbers actually be assigned to rules? Thread: "[CFJ] Rule
   Numbers"
 
-* G. tells an obvious lie and purports to intend to mislead us all.
-  Perhaps e is implying a question: did e violate Rule 2471 (No
-  Faking)?
+* Lies:
+
+  * G. tells an obvious lie and purports to intend to mislead us all.
+    Perhaps e is implying a question: did e violate Rule 2471 (No
+    Faking)?
+
+  * Later, Cuddlebeam says "This statement is a lie and I intend to
+    mislead with it." and calls a CFJ about violating Rule 2471. There
+    is discussion, and G. calls (and withdraws) a CFJ on whether
+    Cuddlebeam misled us by claiming e was intending to mislead us.
+    Thread: "humble agoran farmer plays russian roulette with GOD"
+
+* Aris and Jason try to use a promise with a cashing condition based on
+  the use of the promise succeeding. ais523 points out it's close to
+  being a paradox and so might not work. (Aris and Jason converge the
+  game state by doing the trade if it didn't work.) Thread:
+  "Legislating"
+
+* Jason mysteriously announces "I consent.", then takes it back.
+  There's a brief exchange speculating about what e consented to.
+  Thread: "Hopefully not a mosuetrap"
 
 
 # Dictatorship
@@ -52,9 +106,9 @@ G. currently rules us via Rulebending.
 
 * Justice:
 
-  * Aris drafts versions of a proto to remove Summary Judgement,
-    describing it as overpowered and rarely used. Thread: "[Proto]
-    Justice for All"
+  * Aris submits drafts then a proposal to remove Summary Judgement,
+    describing it as overpowered and rarely used. Threads: "[Proto]
+    Justice for All", "[Proposal] Justice for All"
 
   * G. submits a proposal that allows paying to give other players
     blots. Thread: "[proposal] unofficial injustice"
@@ -63,8 +117,10 @@ G. currently rules us via Rulebending.
   non-festive players ineligible to support or object to emergency
   regulations or impeachments. Thread: "[proto] Festival strengthening"
 
-* Aris submits a new draft of a proposal to redefine "person". Thread:
-  "[Proto] We the People"
+* Aris submits new drafts and a proposal (later withdrawn), to redefine
+  "person". There's discussion on getting the definition right; in
+  particular, ruling out current-technology computer programs. Threads:
+  "[Proto] We the People", "[Proposal] We the People"
 
   * Falsifian wonders whether the proposed definition rules out
     "not-very-smart" computer programs.
@@ -77,6 +133,15 @@ G. currently rules us via Rulebending.
     done? G. replaces the requirement with a SHOULD, and allows the
     deregistration to be blocked with three objections, in eir final(?)
     version "Turn Undead v2".
+
+* nix submits (and revises, after discussion) a proposal to change the
+  way Extra Votes work: now they would apply to all decisions with
+  ongoing voting periods; the limit of 3 strength-buyings is removed;
+  and there would be a prize for highest voting strength. Thread:
+  "[Proposal] Strengthening Extra Votes"
+
+* Aris submits a proposal to adjust the power levels of some high-power
+  rules. Thread: "[Proposal] Power Up"
 
 
 # Miscellaneous
@@ -94,19 +159,6 @@ G. currently rules us via Rulebending.
   "Ubercrow: Tailor's Weekly Glitter Report"
 
 * Jason disolves the AAA contract. Thread: "[AAA] Dissolution"
-
-* Cuddlebeam does some business, including buying Victory Cards and
-  buying the Concentration Stone from ATMunn.
-
-  - Some of it turns out to have failed because CuddleBeam had eir
-    assets stored in eir "locker" contract. E still prebably gets the
-    Concentration Stone; Jason points out ATMunn transferred it
-    unconditionally.
-
-  - Threads: "humble agoran farmer does business", "humble agoran
-    farmer does more business", "backroom dealings with a humble agoran
-    farmer", "humble agoran farmer does even more business", "humble
-    agoran farmer believes in safety"
 
 * Aris donates a pendant to JTAC since "e's had a lot of good ideas".
   Thread: "A Gift for JTAC"
