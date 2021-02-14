@@ -1,0 +1,239 @@
+Status: WIP. Covers messages up to but not necessarily including
+2021-02-06 at 23:08 UTC.
+
+
+# Voting on proposals
+
+* Proposals 8532-8537 are adopted:
+
+  * Change the definition of "person" to be more inclusive. (8535)
+
+  * Replace the zombie rules with a simple inactivity mechanism. (8532)
+
+  * Dethrone dictator G., and patch some bugs e exploited. (8533)
+
+  * Remove Summary Judgement. (8536)
+
+  * Let people pay to give each other blots. (8537)
+
+  * Adjust some rule powers, without significantly changing their
+    relative powers. (8534)
+
+* Voting begins on Proposals 8538-8540.
+
+  * Repeal all emergency regulations. See the "Dictatorship" section
+    below. (8538)
+
+  * Roll back the Bodies of Law framework. (8539)
+
+  * Make Extra Votes stronger. (8540)
+
+    * Trigon is sad that eir "Proposal Chambers" rule repealed as part
+      of it.
+
+
+# Miscellaneous highlights
+
+Events that would otherwise go under "Miscellaneous", but that the
+Reportor felt merit earlier mention.
+
+* The Rulekeepor kicks off a Rule Golf contest for Read the Ruleset
+  Week. Thread: "[Rulekeepor] RTRW Contest"
+
+* G. hosts a "hobbit-style birthday" for emself, in which e gives gifts
+  of Coins to other players. Pleasant words are exchanged. (The rule
+  governing birthday gifts is broken.) Thread: "a hobbit-style
+  birthday"
+
+* Cuddlebeam publishes the second episode of eir Speaker Show: an
+  interview with G.
+
+* Someone calling emself "Bunny" creates a contest to guess eir
+  identity. Thread: "[Promise] Guess That Agoran!"
+
+* Cuddlebeam takes over Nommit, a Reddit nomic with little activity,
+  and connects it to Agora. Thread: "humble agoran farmer collects dead
+  nomics [Nommit]"
+
+* Cuddlebeam steals the Concentration Stone using the Soul Stone.
+  Thread: "humble agoran farmer wields the Soul Stone [Attn.
+  Stonemason]"
+
+* Trigon applies a fix to eir SEAMSTRESS contract. Thread: "@Notary Re:
+  BUS: @Jason @nix SEAMSTRESS Amendment"
+
+* Aris and Cuddlebeam enter a secret pact. Thread: "Secret Dealings
+  [attn. Notary]"
+
+
+# Dictatorship
+
+A bit of a scuffle this week.
+
+2021-02-02 22:27:
+
+  G. enacts two Emergency Regulations (the First and Second Regulation
+  of G.ravity), claiming to allow em to extend dependent action
+  deadlines, and also to allow em to do anything in a document with a
+  particular hash (the "LAWS OF G.RAVITY"). Thread: "[Emergency] a
+  fundamental force"
+
+  * Jason calls a CFJ: is a time limit for a dependent action really a
+    "deadline" that an Emergency Regulation can extend?
+
+  * Cuddlebeam publishes a document purporting to be the LAWS of
+    G.RAVITY, containing the specified hash in its text rather than its
+    hash actually being that, as a (joking?) attempt to thwart eir
+    plan.
+
+2021-02-03 04:06:
+
+  Jason petitions the Prime Minister (ATMunn) to repeal all Emergency
+  Regulations. (ATmunn responds at 15:16.) Thread: "[petition] Down
+  with the dictator [attn. Prime Minister]"
+
+2021-02-03 04:50:
+
+  Aris creates a contract, "Agorans for a Democratic Society", with the
+  purpose of removing G.'s dictator power, with membership limited to
+  those Aris nominates. E nominates Gaelan, Jason, Trigon and ATMunn,
+  who all join. Thread: "Agorans for a Democratic Society"
+
+2021-02-03 08:28
+
+  Aris submits a proposal to repeal the Emergency Regulations. Thread:
+  "[Proposal] All Good Things Must Come to an End"
+
+2021-02-03 15:16
+
+  Prime Minister ATMunn announces intent to repeal all Emergency
+  Regulations, and also attempts to issue a Cabinet Order of Manifesto
+  to distribute Aris's proposal.
+
+  The cabinet order fails because e didn't specify the proposal's text.
+  Thread: "[Emergency] [Proposal Distribution] Dictator Dethronement"
+
+2021-02-03 15:22
+
+  G. purports to remove ATMunn from the office of Prime Minister, and
+  then to appoint emself in eir place.
+
+  Since the "LAWS OF G.RAVITY" which govern G.'s powers are
+  unpublished, it is unclear whether this works.
+
+  ("Prime mininster -> controls Emergency Regs -> Controls PM is too
+  unfortunate of a tidy logical loop to leave sitting there")
+
+  Thread: "[Emergency] Please remain calm (@ADoP)"
+
+2021-02-03 18:44
+
+  Aris certifies eir proposal with 2 support.
+
+2021-02-03 21:34
+
+  As Promotor, Aris distributes eir own proposal, along with two
+  others. Thread: "OFF: [Promotor] Distribution of Proposals 8538-8540"
+
+2021-02-06 22:24
+
+  H. ADoP Murphy petitions G. as possibly Prime Minister to disclose
+  the secret document to em, so e can confirm whether the changes to
+  the office of Prime Minister were effective.
+
+
+# Submitted proposals, and related events
+
+* Aris submits eir proposal (previously discussed) to "roll back" the
+  Bodies of Law framework introduced by Alexis. Thread: "[Proposal] The
+  Great Rollback"
+
+* Finger Pointing to get Justice Cards:
+
+  * Cuddlebeam deliberately falsely Points eir Finger at emself, then
+    points eir finger at emself for doing that. H. Referee JTAC
+    publishes a detailed analysis, then attempts to resolve both Finger
+    Pointings simultaneously. Thread: "humble agoran farmer
+    fingerdances for a good reason [Attn. Referee]"
+
+  * nix makes a class-0 pledge (thread: "Weak Pledges") then proposes
+    to ban them (thread: "[Proposal] Pledge Fix").
+
+* Jason submits then withdraws proposals to make stones more likely to
+  escape if they're "bored" from not being used. Thread: "[proposal]
+  Bored stones"
+
+* Jason proposes to reword 478 to make it clear that a player cannot
+  deliberately take simultaneous actions. Thread: "[proposal]
+  Anti-Simultaniety Act". Also covered under "Rule questions and
+  strange behaviour" below.
+
+  * G. and Aris point out that Jason's proposal would break some
+    things, and e withdraws it.
+
+
+# Rule questions and strange behaviour
+
+See also: the Dictatorship section
+
+* Aris asks: would the propsal "destroy agora" be stopped by Rule 1698
+  (Agora is a Nomic) or before it got that far? Thread: "[CFJs] How
+  Hard is it to Destroy Agora?"; CFJ 3896
+
+  * G. publishes a draft judgement finding that Rule 101 or 105 would
+    stop it first. Thread: "[Arbitor] CFJ 3896 Assigned to G."
+
+* There's no way to assign IDs to rules: Gaelan judges CFJ 3893 FALSE.
+  Threads: "[Arbitor] CFJ 3893 Assigned to Gaelan", "CFJ 3893 judged
+  FALSE"
+
+  * G. publishes a counter-argument, and is considering a motion to
+    reconsider.
+
+* Cuddlebeam's scam to take Victory Cards from people by rounding 0 up
+  to 1 didn't work: Aris judges CFJ 3895 FALSE. Threads: "CFJ 3895
+  Assigned to Aris", "CFJ 3895 Judged FALSE"
+
+* Birthday gifts are broken. See thread "a hobbit-style birthday".
+
+* Gaelan attempts to "transfer coin to coin". Trigon explains e changed
+  eir nickname to Coin. Thread: "[@Coin] Transfer"
+
+* H. Referee JTAC attempts to perform two actions simultaneously. Does
+  it work? Thread: "humble agoran farmer fingerdances for a good reason
+  [Attn. Referee]" (also covered above under "Submitted proposals, and
+  related events").
+
+  * Jason proposes an "Anti-Simultaniety Act" in response.
+
+* H. Speaker Cuddlebeam creates a contract selling eir Speaker veto for
+  Victory Points. ("Agora is not satisfied with an intent if the
+  Speaker has objected to it in the last 48 hours.") The contract
+  relies on acting-on-behalf to object, and it's questioned whether
+  that works. Thread: "humble agoran farmer becomes an assassin for
+  hire via his Speaker powers [Attn. Notary]"
+
+
+# Economics and Victory Points
+
+* Falsifian creates a contract allowing players to lend their Victory
+  Points to a player forbidden from winning, so that that player's high
+  Victory Point balance will make it difficult for anyone else to win.
+  It's also a mechanism to pool Victory Cards to be exchanged for
+  Victory Points. Threads: "[Proto Contract] Obstructive Pooling",
+  "[Contract] Obstructive Pooling"
+
+* ATMunn's post-economic-reset contract-governed auction ends. Thread:
+  "Auction results [attn. Aris, Jason, G.]", "Cleaning up auction
+  contract"
+
+* The total Buoyancy is flipped. A Boatload is now 6.1328. Thread:
+  "[Treasuror] [Monthly Report] Floating Rate Schedule"
+
+* The (first) February Victory Auction begins. Thread: "[Treasuror]
+  [Auction] First Victory Auction of February 2021"
+
+* Gaelan simulates a Victory Card auction, by creating a promise that
+  causes em to execute the highest-priced buy order on the Splat Market
+  contract on a given future date. Thread: "[Promise] Slightly Janky
+  Victory Card Auction"
