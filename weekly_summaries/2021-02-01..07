@@ -1,8 +1,7 @@
-Status: WIP. Covers messages up to but not necessarily including
-2021-02-06 at 23:08 UTC.
+Status: Covers all messages in the week, but needs a summary.
 
 
-# Voting on proposals
+# Voting
 
 * Proposals 8532-8537 are adopted:
 
@@ -31,6 +30,11 @@ Status: WIP. Covers messages up to but not necessarily including
     * Trigon is sad that eir "Proposal Chambers" rule repealed as part
       of it.
 
+    * H. Ministor nix warns players with the Economy focus to collect
+      their Coins, because the proposal will eliminate it.
+
+* Voting for Prime Minister begins. The candidates: Aris, ATMunn, nix,
+  Trigon. Aris suspends eir campaign.
 
 
 # Miscellaneous
@@ -63,6 +67,12 @@ Status: WIP. Covers messages up to but not necessarily including
 * Aris and Cuddlebeam enter a secret pact. Thread: "Secret Dealings
   [attn. Notary]"
 
+* Falsifian publishes another draft revision to the Agoran Press
+  contract. Thread: "[Contract Proto] Press revisions"
+
+* Jason publishes intent to revoke all Coins from the Lost and Found
+  Department. Thread: "L&F REvocation".
+
 
 # Dictatorship
 
@@ -76,8 +86,9 @@ A bit of a scuffle this week.
   particular hash (the "LAWS OF G.RAVITY"). Thread: "[Emergency] a
   fundamental force"
 
-  * Jason calls a CFJ: is a time limit for a dependent action really a
-    "deadline" that an Emergency Regulation can extend?
+  * Jason calls CFJ 3893: is a time at which a without-objection action
+    becomes resolvable really a "deadline" that an Emergency Regulation
+    can extend? Murphy judges it FALSE.
 
   * Cuddlebeam publishes a document purporting to be the LAWS of
     G.RAVITY, containing the specified hash in its text rather than its
@@ -139,8 +150,17 @@ A bit of a scuffle this week.
   the secret document to em, so e can confirm whether the changes to
   the office of Prime Minister were effective.
 
+2021-02-07 10:23
 
-# Submitted proposals, and related events
+  ATMunn purports to repeal all Emergency Regulations, acting on eir
+  earlier-announced intent. It is unclear whether e is still Prime
+  Minister. Thread: "[Emergency] [Proposal Distribution] Dictator
+  Dethronement"
+
+  * Gaelan calls a CFJ asking whether it worked.
+
+
+# Proposals, and related events
 
 * Aris submits eir proposal (previously discussed) to "roll back" the
   Bodies of Law framework introduced by Alexis. Thread: "[Proposal] The
@@ -168,6 +188,10 @@ A bit of a scuffle this week.
 
   * G. and Aris point out that Jason's proposal would break some
     things, and e withdraws it.
+
+* Murphy circulates several draft proposals for rule clarifications on
+  the discussion forum, and a few cleaning intents on the business
+  forum, on February 7.
 
 
 # Rule questions and strange behaviour
@@ -211,6 +235,10 @@ See also: the Dictatorship section
   that works. Thread: "humble agoran farmer becomes an assassin for
   hire via his Speaker powers [Attn. Notary]"
 
+* Is the time at which a Without Objection action becomes resolvable a
+  deadline? No: Murphy judges CFJ 3898 FALSE. Thread: "[Arbitor] CFJ
+  3898 Assigned to Murphy"; see Dictatorship section above for context.
+
 
 # Economics and Victory Points
 
@@ -218,8 +246,14 @@ See also: the Dictatorship section
   Points to a player forbidden from winning, so that that player's high
   Victory Point balance will make it difficult for anyone else to win.
   It's also a mechanism to pool Victory Cards to be exchanged for
-  Victory Points. Threads: "[Proto Contract] Obstructive Pooling",
-  "[Contract] Obstructive Pooling"
+  Victory Points. Threads:
+  "[Proto Contract] Obstructive Pooling", "[Contract] Obstructive
+  Pooling"
+
+  * Others join; nix deposits a Victory Card; and nix places a buy
+    order for the contract's currency on the Splat Market. Threads:
+    "[Contract] Obstructive Pooling", "[Ministor] Monthly Legacy
+    Grants", "[Splat Market] Order Book".
 
 * ATMunn's post-economic-reset contract-governed auction ends. Thread:
   "Auction results [attn. Aris, Jason, G.]", "Cleaning up auction
@@ -235,3 +269,6 @@ See also: the Dictatorship section
   causes em to execute the highest-priced buy order on the Splat Market
   contract on a given future date. Thread: "[Promise] Slightly Janky
   Victory Card Auction"
+
+* Gaelan destroys some old contracts in the thread "[@Notary] Contract
+  Cleanup".
