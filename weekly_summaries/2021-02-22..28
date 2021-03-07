@@ -1,0 +1,68 @@
+Status: Covers the whole week, but needs a summary.
+
+
+# Voting
+
+* Voting continues on Proposals 8541-8543:
+
+  * Add some missing methods. (8541)
+
+  * Make bored stones more likely to escape. (8542)
+
+  * Add a delay between economic victory and destruction of assets.
+    (8543)
+
+
+# Miscellaneous
+
+* G. announces an informal contest in honour of CFJ 3900, called this
+  week. The challenge: predict when CFJ 4000
+  will be called. Thread: "Judiciary Four Thousand (contest)"
+
+  * Players submit guesses. Falsifian draws a CFJ number timeline with
+    an awful shell command.
+
+* The Registrar addresses a report error pointed out earlier by Jason
+  and G., about ancient deregistration dates, in the thread
+  "[Registrar] Monthly Report", and gets some help from G.
+
+
+# Proposals
+
+Many fix-up proposals this week, some of which the Promotor certified
+at the end of the week.
+
+* There's discussion on a proposal from Murphy in the thread "Clarify
+  dependent actions".
+
+* Aris proposes to lower-case some CANs in the thread "Uncanny Fixes",
+  leading to discussion on one of the changes and suggestions about
+  another.
+
+* Jason submits a proposal to prevent Emergency Regulations from
+  changing who holds Prime Minister or Speaker, based on G.'s recent
+  scam. Thread: "[proposal] ER Patch"
+
+* G. submits a proposal to remove left-over language about talismans.
+  Thread: "[proposal] talisman bugfix"
+
+
+# Rule questions and strange behaviour
+
+* Was Murphy able to replace "Motions of confidence" with "Motions of
+  no confidence" by cleaning (rule 2221)? Jason calls CFJ 3900; thread:
+  "Resolving cleaning".
+
+* Did ATMunn successfully repeal G.'s emergency regulations last month?
+  Yes: Falsifian judges CFJ 3899 TRUE.
+
+* What happens if a promise creates and cashes a copy of itself, in an
+  attempt to change a vote infinitely many times? G. tries it, and
+  argues for a CFJ to be judged PARADOXICAL. Thread: "A vote, a
+  promise, and a [cfj]"
+
+
+# Economy
+
+* The second February Victory Auction begins, with a single lot: one
+  Victory Card.
